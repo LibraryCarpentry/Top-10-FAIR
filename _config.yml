@@ -16,7 +16,7 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:            ""
+baseurl:            "https://libcce.github.io/Kiko/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
