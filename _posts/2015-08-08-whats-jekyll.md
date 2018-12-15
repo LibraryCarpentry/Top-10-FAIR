@@ -1,29 +1,6 @@
 ---
-title: Whats Jekyll?
+title: Biodiversity
 ---
-
-<p class="lead"> <a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.</p>
-
-From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
-
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
-
-
-
-title: "Biodiversity"
-teaching: 0
-exercises: 0
-questions:
-- "Key question"
-objectives:
-- "First objective."
-keypoints:
-- "First key point."
-
-
-# Biodiversity
 
 ## Sprinters
 
@@ -50,13 +27,13 @@ Researchers
 
 To make data findable, It has to be uniquely and persistently stored with an identifier. 
 
-- A DOI- Digital object identifier is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the adress bar (e. g.  https://doi.org/10.1109/5.771073).
+- A DOI- Digital object identifier is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the adress bar (e. g.  [https://doi.org/10.1109/5.771073](https://doi.org/10.1109/5.771073)).
 
-    https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf
+    [https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf]()
 
     The distributing DataCite-agency for Life Sciences is PUBLISSO: 
 
-    https://www.publisso.de/wir-fuer-sie/doi-service/
+    [https://www.publisso.de/wir-fuer-sie/doi-service/](https://www.publisso.de/wir-fuer-sie/doi-service/)
 
 
 - ORCID is a self-identifier for authors to avoid author-ambiguity. 
@@ -69,7 +46,7 @@ Allows for tracking of provenance.
 Easy look up. 
 We have a list of DOIs below. Can you match the right document to the appropriate DOI?
 
-HINT start from here https://www.doi.org/!
+HINT start from here [https://www.doi.org/](https://www.doi.org/)!
 
 1) 10.1103/PhysRev.48.73
 2) 10.5962/bhl.title.28875
