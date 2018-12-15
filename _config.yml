@@ -3,14 +3,14 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
-description:        "a clean, lightweight and minimalistic blog theme for jekyll"
+name:               "Top 10 FAIR Data & Software Things"
+description:        "Description of Top 10..."
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "//https://libcce.github.io/Kiko/"
-author:             "gfjaru"
+author:             "libcce"
 twitter:
-  username:         "gfjaru"
+  username:         "libcce"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
