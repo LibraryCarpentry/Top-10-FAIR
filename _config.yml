@@ -7,7 +7,7 @@ name:               "Kiko"
 description:        "a clean, lightweight and minimalistic blog theme for jekyll"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//kiko.gfjaru.com"
+url:                "//https://libcce.github.io/Kiko/"
 author:             "gfjaru"
 twitter:
   username:         "gfjaru"
@@ -26,9 +26,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
+    href:           "//libcce.github.io/Kiko/about"
   - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "//github.com/libcce/Kiko/releases"
 
 # Sass
 sass:
