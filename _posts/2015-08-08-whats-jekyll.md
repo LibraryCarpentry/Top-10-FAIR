@@ -1,5 +1,6 @@
 ---
 title: Biodiversity
+sprinters: Eva Seidlmayer, Konrad Förstner, Mandela Fasemore, Silvia Di Giorgio, Till Sauerwein, Ilja Zeitlin, Susannah Bacon (ZB MED - Information Center for Life Science, Cologne, Germany), Chris Erdmann (The Carpentries, California Digital Library)
 ---
 
 ## Sprinters
@@ -71,12 +72,12 @@ ORCID exercise: go through Getting Started with ORCID Integration https://member
 Zenodo for example is a tool that makes scientific data and publications easier to cite.  
 It supports various data and license types. It also supports source code from GitHub repositories.
 
-https://zenodo.org/
+[https://zenodo.org/](https://zenodo.org/)
 
 
 #### Exercise: 
 - Use the Zenodo Sandbox to upload an example
-https://sandbox.zenodo.org/
+[https://sandbox.zenodo.org/](https://sandbox.zenodo.org/)
 
 Questions: 
 1) Which metadata field do you have to add when uploading data and why? 
