@@ -1,20 +1,10 @@
 ---
 title: Biodiversity
-sprinters: Eva Seidlmayer, Konrad Förstner, Mandela Fasemore, Silvia Di Giorgio, Till Sauerwein, Ilja Zeitlin, Susannah Bacon (ZB MED - Information Center for Life Science, Cologne, Germany), Chris Erdmann (The Carpentries, California Digital Library)
 ---
 
 ## Sprinters
 
-ZB MED - Information Center for Life Science, Cologne, Germany
-
-- Eva Seidlmayer
-- Konrad Förstner
-- Mandela Fasemore
-- Silvia Di Giorgio
-- Till Sauerwein
-- Ilja Zeitlin
-- Susannah Bacon
-- Chris Erdmann
+Eva Seidlmayer, Konrad Förstner, Mandela Fasemore, Silvia Di Giorgio, Till Sauerwein, Ilja Zeitlin, Susannah Bacon (ZB MED - Information Center for Life Science, Cologne, Germany), Chris Erdmann (The Carpentries, California Digital Library)
 
 
 ## Audience: 
