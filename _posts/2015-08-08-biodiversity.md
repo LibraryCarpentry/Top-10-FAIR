@@ -15,19 +15,17 @@ Researchers
 
 ### Thing  1: Identifiers 
 
-
 To make data findable, It has to be uniquely and persistently stored with an identifier. 
 
-- A DOI- Digital object identifier is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the adress bar (e. g.  [https://doi.org/10.1109/5.771073](https://doi.org/10.1109/5.771073)).
+- A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the adress bar (e. g.  [https://doi.org/10.1109/5.771073](https://doi.org/10.1109/5.771073)).
 
-    [https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf]()
+    [ANDS Guide: Digital Object Identifier (DOI) System for Research Data](https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf)
 
-    The distributing DataCite-agency for Life Sciences is PUBLISSO: 
-
+    Note: The distributing DataCite-agency for Life Sciences is PUBLISSO: 
     [https://www.publisso.de/wir-fuer-sie/doi-service/](https://www.publisso.de/wir-fuer-sie/doi-service/)
 
 
-- ORCID is a self-identifier for authors to avoid author-ambiguity. 
+* ORCID is a self-identifier for authors to avoid author-ambiguity. 
 Use ORCIDs from start of data creation, i.e. attach data creator name/ORCID to dataset as a metadata field. 
 Include ORCIDs with datasets in repositories (e.g. in SRA, include the ORCID for the data creator).  
 Allows for tracking of provenance. 
