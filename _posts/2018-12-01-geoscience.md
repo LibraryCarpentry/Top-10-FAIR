@@ -2,33 +2,15 @@
 title: "Geoscience"
 ---
 
-# Geoscience Top 10 FAIR data things
 Version 1.0 (9 December 2018)
 
-**Audience**: Researchers
+## Sprinters:  
+John Brown, [Janice Chan](https://github.com/icecjan/), Niamh Quigley (Curtin University, Perth, Western Australia)
 
-**Sprinters**: John Brown, [Janice Chan](https://github.com/icecjan/), Niamh Quigley (Curtin University, Perth, Western Australia)
+## Audience:  
+Researchers
 
-Thing 1: Data sharing and discovery
-
-Thing 2: Long-lived data: curation & preservation
-
-Thing 3: Data citation for access & attribution
-
-Thing 4: DOIs and citation metrics
-
-Thing 5: Licensing data for reuse
-
-Thing 6: Vocabularies for data description
-
-Thing 7: Identifiers and linked data
-
-Thing 8: What are publishers & funders saying about data?
-
-Thing 9: Exploring APIs and Apps
-
-Thing 10: Spatial data
-
+# Things
 ## Findable
 
 Thing 1: Data sharing and discovery
@@ -67,7 +49,7 @@ Thing 8: What are publishers & funders saying about data?
 
 ### Activity 1: Data discovery
 
-Data repositories enable others to find of existing data by publishing data descriptions ("metadata") about the data they hold, much like a library catalogue describes the resources held in a library. Often repositories also provide access to the data itself and some even provide ways for users to explore that data. Many research funding requirements include researchers depositing their data into such a data repository (which we’ll discuss later in Thing 8).
+Data repositories enable others to find existing data by publishing data descriptions ("metadata") about the data they hold, much like a library catalogue describes the resources held in a library. Also, repositories often provide access to the data itself and some even provide ways for users to explore that data. Many research funding requirements reference researchers depositing their data into data repositories (which we’ll discuss later in Thing 8).
 
 Data portals or aggregators draw together research data records from a number of repositories. Because of the huge amounts of data available they sometimes focus on data from one discipline or geographic region. eg [The EU Open Data Portal](https://data.europa.eu/euodp/en/home) aggregates metadata records from over 30 European national data repositories and The US Government’s Open Data portal [data.gov](https://www.data.gov/) aggregates from over 100 US government agencies.
 
