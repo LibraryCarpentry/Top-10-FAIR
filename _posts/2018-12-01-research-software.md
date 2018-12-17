@@ -33,7 +33,7 @@ Software has clear licence and documentation
 
 # Things 
 ## Findability
-### Thing 1  - Create a description of your software
+### Thing 1: Create a description of your software
 The name alone does not tell people much about your software. In order for others to find out if they can use it for their purposes, they need to know what it does. A good description of your software will also help others to find it.
 
 **Activity:**
