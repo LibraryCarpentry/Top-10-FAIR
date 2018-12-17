@@ -7,7 +7,7 @@ name:               "Top 10 FAIR Data & Software Things"
 description:        "Description of Top 10..."
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//https://libcce.github.io/Kiko/"
+url:                "//https://libcce.github.io/Top-10-FAIR/"
 author:             "libcce"
 twitter:
   username:         "libcce"
@@ -16,7 +16,7 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:            "https://libcce.github.io/Kiko/"
+baseurl:            "https://libcce.github.io/Top-10-FAIR/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
@@ -26,9 +26,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//libcce.github.io/Kiko/about"
+    href:           "//libcce.github.io/Top-10-FAIR/about"
   - name:           "Download"
-    href:           "//github.com/libcce/Kiko/releases"
+    href:           "//github.com/libcce/Top-10-FAIR/releases"
 
 # Sass
 sass:
