@@ -6,45 +6,36 @@ title: "Research Data Management Support"
 This document was created by [Lena Karvovskaya](https://www.uu.nl/medewerkers/EKarvovskaya)  and Otto Lange with some help from Iza Witkowska and Jacques Flores. All authors work as [Research Data Management (RDM) support at Utrecht University](https://www.uu.nl/en/research/research-data-management/contact-us). 
 
 ## Description
-It is an umbrella-like document with links to various resources. The aim of the document is to help researchers who want to share their data in a sustainable way. However, we consider the border between librarians and researchers to be a blurred one. This is because ultimately, it are librarians who want to support researchers when sharing their data. We primarily wish to target researchers and support staff irregardless of experience: those who have limited technical knowledge and want to achieve a very general understanding of the FAIR principles and those who are more advanced technically and want to make use of more technical resource. The resources we will link for each of the 10 FAIR things will often be on two levels of technicality. Our primary audience consists of researchers and support staff at Utrecht University. Therefore, whenever possible we will use the resources available at Utrecht University: the internal institutional repositories and resources provided at the [RDM Support website](https://www.uu.nl/en/research/research-data-management).
+It is an umbrella-like document with links to various resources. The aim of the document is to help researchers who want to share their data in a sustainable way. However, we consider the border between librarians and researchers to be a blurred one. This is because, ultimately, librarians support researchers that would like to share their data. We primarily wish to target researchers and support staff irregardless of their experience: those who have limited technical knowledge and want to achieve a very general understanding of the FAIR principles and those who are more advanced technically and want to make use of more technical resources. The resources we will link to for each of the 10 FAIR things will often be on two levels of technicality. Our primary audience consists of researchers and support staff at Utrecht University. Therefore, whenever possible we will use the resources available at Utrecht University: the institutional repositories and resources provided at the [RDM Support website](https://www.uu.nl/en/research/research-data-management).
 
+## Things
+### Thing 1: Why bother with FAIR?
 
-### THING 1: Why bother with FAIR?
+**Background:** The advancement of science thrives on the timely sharing and accessibility of research data.  Timely and sustainable sharing is only possible if there are infrastructures and services that enable it.  
 
-_Background_: The advancement of science thrives on the timely sharing and accessibility of research data.  Timely and sustainable sharing is only possible if there are infrastructures and services that enable it. 
+1.  Read up on [the role of libraries in implementing the FAIR
+Data Principles](https://libereurope.eu/wp-content/uploads/2017/12/LIBER-FAIR-Data.pdf). Think about the advantages and opportunities made possible by digitalization in your research area. Think about the challenges. Have you or your colleagues ever experienced data loss? Can falsification/fabrication of data be an issue with digital data? Is it always easy to figure out if the data you found online is reliable? Say you found a very useful resource available online and you want to refer to it in your work; can you be sure that it is still there several years later?  
 
-
-
-1.  Read on [the role of the libraries at FAIR](https://libereurope.eu/wp-content/uploads/2017/12/LIBER-FAIR-Data.pdf ). Think about the advantages and opportunities brought into your area of research by digitalization. Think about the challenges. Have you or your colleagues ever experienced data loss? Can falsification/fabrication of data be an issue with digital data? Is it always easy to figure out if the data you found online is reliable? Say you found a very useful resource available online and you want to refer to it in your work; can you be sure that it is still there several years later? 
 1.  For more information, you can refer to this [detailed explanation](https://www.go-fair.org/fair-principles/) of FAIR principles developed by the Dutch Center for Life Sciences (DTLS).
 
 
-### THING 2: Metadata
+### Thing 2: Metadata
 
-_Background_: Metadata is information about data. This information allows data to be findable and potentially discoverable by machines. Metadata can describe who is the responsible researcher, when, where and why the data was collected, how the research data should be cited, etc.
+**Background:** Metadata are information about data. This information allows data to be findable and potentially discoverable by machines. Metadata can describe the researchers responsible for the data, when, where and why the data was collected, how the research data should be cited, etc.  
 
+1.  If you find the discussion on metadata too abstract, think about a traditional library catalogue record as a form of metadata. A library catalogue card holds information about a particular book in a library, such as author, title, subject, etc. Library cataloging, as a form of metadata, helps people find books within the library. It provides information about books that can be used in various contexts.  
 
+Now, reflect on the differences in functionality between a paper catalogue card and a digital metadata file.
 
-1.  If you find the discussion on metadata too abstract, think about a traditional library catalogue record as a form of metadata. A catalogue card holds information about a particular book in a library, such as author, title, subject, etc. Library cataloging, as a form of metadata, helps people find books within the library. It provides information about books that can be used in various contexts. 
-
-    Now, reflect on the differences in functionality between a paper catalogue card and digital metadata file.
-
-1.  Reflect on your own research data.  If someone who is unfamiliar with your research wants to find, evaluate, understand and reuse your data, what would he /she need?
-1.  Watch this [video](https://www.youtube.com/watch?v=L0vOg18ncWE&feature=youtu.be) about structural and descriptive metadata and reflect on the example provided there.  If you are interested in this classification, here you can watch a[ similar video](https://www.youtube.com/watch?v=h0oZ3swbTJ0&) provided by Utrecht university.
+1.  Reflect on your own research data.  If someone who is unfamiliar with your research wants to find, evaluate, understand and reuse your data, what would he/she need?
+1.  Watch this [video](https://www.youtube.com/watch?v=L0vOg18ncWE&feature=youtu.be) about structural and descriptive metadata and reflect on the example provided in the video.  If the vieo peaked your interest about metadata, watch a [similar video](https://www.youtube.com/watch?v=h0oZ3swbTJ0&) on the _Ins and outs of metadata and data documentation_ by Utrecht university. 
 
 
-### THING 3: The definition of FAIR metrics
+### Thing 3: The definition of FAIR metrics
 
-_Background_: FAIR stands for Findable, Accessible, Interoperable and Re-usable. 
-
-
- 
-
+**Background:** FAIR stands for Findable, Accessible, Interoperable and Re-usable. 
 
 ![alt_text](https://www.ands.org.au/__data/assets/image/0011/1416098/FAIR-Data-image-map-graphic-v2-721px.png "FAIR principles tiles")
-
-
-
 
 1.  Take a look at the image above, provided by the Australian Research Data Commons (ARDC). Reflect on the images chosen for various aspects of the FAIR acronym. If we consider this [video](https://www.youtube.com/watch?v=L0vOg18ncWE&feature=youtu.be), already mentioned in thing 2, how would you describe the photography example in terms of FAIR? 
 1.  Go to [DataCite](https://search.datacite.org) and choose data center "Utrecht University". Select one of the published datasets and evaluate it with respect to FAIR metrics. In evaluating the dataset, you can make use of the [FAIR Data self-assessment tool](https://www.ands-nectar-rds.org.au/fair-tool) created by ARDC. Which difficulties do you experience while trying to do the evaluation?
