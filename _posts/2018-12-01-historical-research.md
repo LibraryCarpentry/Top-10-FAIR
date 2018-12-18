@@ -40,7 +40,7 @@ Metadata are often captured using a fixed metadata schema. A schema is a set of 
 ### Thing 3: Persistent identifiers
 Datasets need to be deposited in repositories which assign persistent identifiers (PIDs) to ensure that online references to publications, research data, and people remain available in the future. A PID is a specific type of a [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) which is managed by an organisation that links a persistent identification code with the most recent Uniform Resource Locator (URL).
 
-Academic journals mostly work with DOIs. DOIs are globally unique identifiers that provide persistent access to publications, datasets, software applications, and a wide range of other research results. DOI has been an ISO standard since 2012. A typical DOI looks as follows: http://doi.org/10.17026/dans-x4b-uy8q. When users click on this DOI, the DOI is resolved to an actual web address. 
+Academic journals mostly work with DOIs. DOIs are globally unique identifiers that provide persistent access to publications, datasets, software applications, and a wide range of other research results. DOI has been an ISO standard since 2012. A typical DOI looks as follows: [http://doi.org/10.17026/dans-x4b-uy8q](http://doi.org/10.17026/dans-x4b-uy8q). When users click on this DOI, the DOI is resolved to an actual web address. 
 
 Next to identifiers for data sets and for publications, it is also possible to create PIDs for people.  Open Researcher and Contributor Identifier (ORCID) is an international system for the persistent identification of academic authors. It is a non-proprietary system, managed by an international consortium consisting of universities, national libraries, research institutes and data repositories. When your research results are associated with an ORCID, this information can be exchanged effectively across databases, across countries and across academic disciplines. You always retain full control over your own ORCID id. It is the de facto standard when submitting a research article or grant application, or depositing research data.
 
@@ -96,11 +96,11 @@ Read Karl Broman and Kara H. Woo, “[Data organization in spreadsheets](https:/
 
 Tim Berners-Lee, the inventor of the Web, argued that there are [five levels  of open data](https://5stardata.info/en/). Creators of data can earn five stars by following the steps below.
  
-1.    Data sets can be awarded one star if it has been made public. This is clearly the case for data which have been published via an open licence in a data repository.
-2.    In order to win a second star, the open data needs to be made available as machine-readable data. This criterion can be satisfied by providing access to an Excel Spreadsheet, for instance.
-3.    One disadvantage of an Excel spreadsheet is that users need proprietary software to open the data. The third star can be awarded to datasets which are captured using open formats, such as CSV or TXT.
-4.    A fourth star can be awarded when the entities in the data set are identified using persistent identifiers. Such PIDs have the effect that other researcher can effectively link to the data set.
-5.    The fifth star can be earned by linking the data to entities in other data sets via PIDs.  
+1. Data sets can be awarded one star if it has been made public. This is clearly the case for data which have been published via an open licence in a data repository.
+2. In order to win a second star, the open data needs to be made available as machine-readable data. This criterion can be satisfied by providing access to an Excel Spreadsheet, for instance.
+3. One disadvantage of an Excel spreadsheet is that users need proprietary software to open the data. The third star can be awarded to datasets which are captured using open formats, such as CSV or TXT.
+4. A fourth star can be awarded when the entities in the data set are identified using persistent identifiers. Such PIDs have the effect that other researcher can effectively link to the data set.
+5. The fifth star can be earned by linking the data to entities in other data sets via PIDs.  
  
 When researchers have published their well-structured and their well-organised data set in a data repository via a public license, as explain in things 1 to 5 above, they will have arrived at data set that can be awarded three stars, according to Berners-Lee’s scheme. This section and the following section will further explain how you enhance the interoperability of their data sets even further by working with RDF and with persistent identifiers.
 
@@ -110,33 +110,33 @@ Historical research often concentrates on people, events, organisations and loca
 
 * The CIDOC Conceptual Reference Model (CRM) [concept search](http://www.cidoc-crm.org/concept-search).
 * Wikidata assigns identifiers to a wide range of entities, including people, locations and organisations 
-* The [Library of Congress](http://id.loc.gov/) name authority files, e.g. http://id.loc.gov/authorities/names/n79021400
-* VIAF (Virtual International Autority File (https://viaf.org/)
+* The [Library of Congress](http://id.loc.gov/) name authority files, e.g. [http://id.loc.gov/authorities/names/n79021400](http://id.loc.gov/authorities/names/n79021400).
+* VIAF (Virtual International Autority File ([https://viaf.org/](https://viaf.org/))
 * Identifiers for book published in Dutch or in the Netherlands can be found via the STCN, whose contents is available as [Linked Open Data](http://openvirtuoso.kbresearch.nl/sparql).
 * The [UNESCO history thesaurus](http://vocabularies.unesco.org/browser/thesaurus/en/page/concept302). 
 * Aspects of books can be described using terms from the [Bibliographic Ontology](http://bibliontology.com/) and the [FABIO ontology](https://sparontologies.github.io/fabio/current/fabio.html).
-* [GeoNames](https://www.geonames.org/) defined persistent identifiers to locations, e.g. https://www.geonames.org/2751773/leiden.html
+* [GeoNames](https://www.geonames.org/) defined persistent identifiers to locations, e.g. [https://www.geonames.org/2751773/leiden.html](https://www.geonames.org/2751773/leiden.html).
 * [TaDiRAh](http://tadirah.dariah.eu/vocab/index.php) and [BARTOC](https://bartoc.org/) (Basel Register of Thesauri, Ontologies & Classifications  also offer valuable overviews of the ontologies that have been developed within specfic disciplines.
 * One of the ways to describe the provenance of data sets is by so-called nanopublications. Although you do not need nanopublications to describe provenance, Nanopublications are a way of combining argument and provenance in a single package. Nanopublications rely on the Provenance Ontology to express provenance. You can read more about them and their application in historical research in this paper by Patrick Golden and Ryan Shaw: [Nanopublication beyond the sciences: the PeriodO period gazetteer](https://peerj.com/articles/cs-44/)
 
 Where possible, try to use terms that have been defined in these existing ontologies in your own data set.
 
-##### Activities
+**ACTIVITIES:**  
 1. Try to find one or two terms that are relevant to your research using the resources that are mentioned above. You can aso use [Swoogle](http://swoogle.umbc.edu/2006/) to search for vocabularies related to your research. 
 2. Search for a term related to your research in the CIDOC Conceptual Reference Model (CRM) [concept search](http://www.cidoc-crm.org/concept-search). Where you able to find it? 
 Tip 1: search for “person” to get an idea of how the thesaurus works. 
-Tip 2: All the terms used can be found in the last release of the model: http://www.cidoc-crm.org/get-last-official-release
+Tip 2: All the terms used can be found in the last release of the model: [http://www.cidoc-crm.org/get-last-official-release](http://www.cidoc-crm.org/get-last-official-release).
 
 ### Thing 7: FAIR data modelling
 The fourth and the fifth star in Berner Lee’s model can be awarded when the data are stored in a format in which the topics their properties and their characteristics are identified using URIs whenever possible. More concretely, it implies that you record your data using the Resource Description Framework (RDF) format. RDF, simply put, is a technology which enables you to publish the contents of a database via the web. It is based on a simple data model which assumes that all statements about resources can be reduced to a basic form, consisting of a subject, a predicate and an object. RDF assertions are also known as triples. In a FAIR data model, elements of data are organised and identified using PIDs. To same goes for the relations between these elements. The FAIR data model is a graphical view of the data that act as a metadata key to a spreadsheet but it can also be used as a guide to expose data as a linked data graph in Resource Description Framework (RDF) format. 
 
 Existing datasets can be converted to RDF by making use of the [FAIRifier ](https://github.com/DTL-FAIRData/FAIRifier/wiki) software. This application is based on [OpenRefine](http://openrefine.org/). Other examples of tools to generate RDF are [Karma](http://usc-isi-i2.github.io/karma/) and [RML](http://rml.io/). In the FAIRifier, it is possible to upload a CSV file. After this, the data set can be connected to elements from existing ontologies.
 
-##### Activities
+**ACTIVITIES:**  
 1. Learn about the basics of RDF modeling by going through the [first 15 slides](http://dublincore.org/resources/training/ASIST-Webinar-20160518/webinar-en.pdf) of the webinar about the [UNESCO Thesaurus](http://vocabularies.unesco.org/browser/thesaurus/en/).
 2. Dig in deep by exploring the [FAIRifier](https://github.com/DTL-FAIRData/FAIRifier/wiki) for a dataset you already have available in csv.
 
-# Reusable
+## Reusable
 ### Thing 8: Licensing 
 A license describes the conditions under which your data or software is (re)usable. Picking a license can be a daunting process because of the common feeling that if you do not pick the right license something will go wrong. However keep in mind that if you do not choose a license for your data or software, it means that it cannot be used or reused. A copyright expert can help you, but to get you going you can try out the activities listed below.
 
@@ -151,12 +151,12 @@ When you have made use of someone else’s data, you are strongly recommended to
 **ACTIVITIES:**  
 1. Read the [ANDS guide on data citation](https://www.ands.org.au/__data/assets/pdf_file/0005/724334/Data-citation.pdf).
 2. Read the [FORCE11 data citation principles](https://www.force11.org/datacitationprinciples).
-3. Study the following data set on figShare: https://doi.org/10.6084/m9.figshare.3519755.v1. 
+3. Study the following data set on figShare: [https://doi.org/10.6084/m9.figshare.3519755.v1](https://doi.org/10.6084/m9.figshare.3519755.v1). 
 Note that there is the possibility to generate a data citation, under the link “Cite”, in the citation style of your choice.
-4. Consider the following publication: https://doi.org/10.1371/journal.pone.0149621. Note that the article has a “data availability” statement.
+4. Consider the following publication: [https://doi.org/10.1371/journal.pone.0149621](https://doi.org/10.1371/journal.pone.0149621). Note that the article has a “data availability” statement.
 5. Explore [CiteAs](http://citeas.org/) by typing in the figShare doi from above (10.6084/m9.figshare.3519755.v1).
 
-# Context 
+## Context 
 ### Thing 10: Policies
 Policies for data availability can come from publishers, funders and universities. These policies are listed on the respective website, but finding these is not always straightforward. FAIRsharing is a repository for standards, databases and policies with the possibility to filter on information for a specific research domain. It started as an initiative for the life sciences but is rapidly expanding its content for other disciplines as well.
 
