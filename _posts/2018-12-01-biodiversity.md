@@ -6,10 +6,10 @@ title: Biodiversity
 
 Eva Seidlmayer, Konrad Förstner, Mandela Fasemore, Silvia Di Giorgio, Till Sauerwein, Ilja Zeitlin, Susannah Bacon (ZB MED - Information Center for Life Science, Cologne, Germany), Chris Erdmann (The Carpentries, California Digital Library)
 
-
 ## Audience: 
 Researchers
 
+## Things
 
 ## Findability:
 
@@ -17,32 +17,22 @@ Researchers
 
 To make data findable, It has to be uniquely and persistently stored with an identifier. 
 
-- A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the adress bar (e. g.  [https://doi.org/10.1109/5.771073](https://doi.org/10.1109/5.771073)).
+* A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the adress bar (e. g.  [https://doi.org/10.1109/5.771073](https://doi.org/10.1109/5.771073)). Also, see: [ANDS Guide: Digital Object Identifier (DOI) System for Research Data](https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf).
 
-    [ANDS Guide: Digital Object Identifier (DOI) System for Research Data](https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf)
+**NOTE:**
+The distributing DataCite-agency for Life Sciences is PUBLISSO:  
+[https://www.publisso.de/wir-fuer-sie/doi-service/](https://www.publisso.de/wir-fuer-sie/doi-service/)
 
-    Note: The distributing DataCite-agency for Life Sciences is PUBLISSO: 
-    [https://www.publisso.de/wir-fuer-sie/doi-service/](https://www.publisso.de/wir-fuer-sie/doi-service/)
+* ORCID is a self-identifier for authors to avoid author name ambiguity. Use ORCIDs from the start of data creation, i.e. attach data creator name/ORCID to dataset as a metadata field. Include ORCIDs with datasets in repositories (e.g. in Sequence Read Archive (SRA), include the ORCID for the data creator).  This allows for the tracking of data provenance (the origins, custody, and ownership of research data). 
 
-
-* ORCID is a self-identifier for authors to avoid author-ambiguity. 
-Use ORCIDs from start of data creation, i.e. attach data creator name/ORCID to dataset as a metadata field. 
-Include ORCIDs with datasets in repositories (e.g. in SRA, include the ORCID for the data creator).  
-Allows for tracking of provenance. 
-
-
-#### Exercise:
-Easy look up. 
-We have a list of DOIs below. Can you match the right document to the appropriate DOI?
-
-HINT start from here [https://www.doi.org/](https://www.doi.org/)!
+**EXERCISE:** 
+For easy look up, we have a list of DOIs below. Can you match the right document to the appropriate DOI? HINT: Start from here [https://www.doi.org/](https://www.doi.org/)!
 
 1) 10.1103/PhysRev.48.73
 2) 10.5962/bhl.title.28875
 
-On the origin of species 
-
-The Particle Problem in the General Theory of Relativity
+* _On the origin of species_
+* _The Particle Problem in the General Theory of Relativity_
 
 Which of these is not a valid DOI ?
 
@@ -60,14 +50,14 @@ ORCID exercise: go through Getting Started with ORCID Integration https://member
 Zenodo for example is a tool that makes scientific data and publications easier to cite.  
 It supports various data and license types. It also supports source code from GitHub repositories.
 
-[https://zenodo.org/](https://zenodo.org/)
+See [https://zenodo.org/](https://zenodo.org/)
 
 
-#### Exercise: 
-- Use the Zenodo Sandbox to upload an example
+**EXERCISE:** 
+* Use the Zenodo Sandbox to upload an example dataset, software program, etc.  
 [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/)
 
-Questions: 
+Questions:  
 1) Which metadata field do you have to add when uploading data and why? 
 2) Which field are mandatory and which once are not. 
 3) Which identifiers can you use. 
