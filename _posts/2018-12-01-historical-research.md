@@ -63,10 +63,10 @@ The accessibility of the data may occasionally be complicated by the fact that t
 1. Read the [article on the website of DANS about preferred formats](https://dans.knaw.nl/en/deposit/information-about-depositing-data/before-depositing/file-formats), and about what you can do to improve the durability of non-preferred formats. 
 2. Read the [web page on open data on the ANDS website](https://www.ands.org.au/working-with-data/articulating-the-value-of-open-data/open-data). 
 3. Consider the following three articles. To what extent can the data sets that are mentioned in the articles be accessed? Are the data sets also in preferred formats?
-https://doi.org/10.1080/0969594X.2016.1194257
-http://dx.doi.org/10.1371/journal.pone.0139563
-http://doi.org/10.1111/lang.12172
-4. Look at the data set that can be found via https://doi.org/10.17026/dans-x5u-usxj. What is needed to access the data?
+* [https://doi.org/10.1080/0969594X.2016.1194257](https://doi.org/10.1080/0969594X.2016.1194257)
+* [http://dx.doi.org/10.1371/journal.pone.0139563](http://dx.doi.org/10.1371/journal.pone.0139563)
+* [http://doi.org/10.1111/lang.12172](http://doi.org/10.1111/lang.12172)
+4. Look at the data set that can be found via [https://doi.org/10.17026/dans-x5u-usxj](https://doi.org/10.17026/dans-x5u-usxj). What is needed to access the data?
 
 ## Interoperable
 
@@ -128,9 +128,9 @@ Tip 1: search for “person” to get an idea of how the thesaurus works.
 Tip 2: All the terms used can be found in the last release of the model: [http://www.cidoc-crm.org/get-last-official-release](http://www.cidoc-crm.org/get-last-official-release).
 
 ### Thing 7: FAIR data modelling
-The fourth and the fifth star in Berner Lee’s model can be awarded when the data are stored in a format in which the topics their properties and their characteristics are identified using URIs whenever possible. More concretely, it implies that you record your data using the Resource Description Framework (RDF) format. RDF, simply put, is a technology which enables you to publish the contents of a database via the web. It is based on a simple data model which assumes that all statements about resources can be reduced to a basic form, consisting of a subject, a predicate and an object. RDF assertions are also known as triples. In a FAIR data model, elements of data are organised and identified using PIDs. To same goes for the relations between these elements. The FAIR data model is a graphical view of the data that act as a metadata key to a spreadsheet but it can also be used as a guide to expose data as a linked data graph in Resource Description Framework (RDF) format. 
+The fourth and the fifth star in Berner Lee’s model can be awarded when the data are stored in a format in which the topics their properties and their characteristics are identified using URIs whenever possible. More concretely, it implies that you record your data using the Resource Description Framework (RDF) format. RDF, simply put, is a technology which enables you to publish the contents of a database via the web. It is based on a simple data model which assumes that all statements about resources can be reduced to a basic form, consisting of a subject, a predicate and an object. RDF assertions are also known as triples. In a FAIR data model, elements of data are organised and identified using PIDs. The same goes for the relations between these elements. The FAIR data model is a graphical view of the data that act as a metadata key to a spreadsheet but it can also be used as a guide to expose data as a linked data graph in Resource Description Framework (RDF) format. 
 
-Existing datasets can be converted to RDF by making use of the [FAIRifier ](https://github.com/DTL-FAIRData/FAIRifier/wiki) software. This application is based on [OpenRefine](http://openrefine.org/). Other examples of tools to generate RDF are [Karma](http://usc-isi-i2.github.io/karma/) and [RML](http://rml.io/). In the FAIRifier, it is possible to upload a CSV file. After this, the data set can be connected to elements from existing ontologies.
+Existing data sets can be converted to RDF by making use of the [FAIRifier ](https://github.com/DTL-FAIRData/FAIRifier/wiki) software. This application is based on [OpenRefine](http://openrefine.org/). Other examples of tools to generate RDF are [Karma](http://usc-isi-i2.github.io/karma/) and [RML](http://rml.io/). In the FAIRifier, it is possible to upload a CSV file. After this, the data set can be connected to elements from existing ontologies.
 
 **ACTIVITIES:**  
 1. Learn about the basics of RDF modeling by going through the [first 15 slides](http://dublincore.org/resources/training/ASIST-Webinar-20160518/webinar-en.pdf) of the webinar about the [UNESCO Thesaurus](http://vocabularies.unesco.org/browser/thesaurus/en/).
