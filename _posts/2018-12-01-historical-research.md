@@ -123,8 +123,8 @@ Where possible, try to use terms that have been defined in these existing ontolo
 
 **ACTIVITIES:**  
 1. Try to find one or two terms that are relevant to your research using the resources that are mentioned above. You can aso use [Swoogle](http://swoogle.umbc.edu/2006/) to search for vocabularies related to your research. 
-2. Search for a term related to your research in the CIDOC Conceptual Reference Model (CRM) [concept search](http://www.cidoc-crm.org/concept-search). Where you able to find it? 
-Tip 1: search for “person” to get an idea of how the thesaurus works. 
+2. Search for a term related to your research in the CIDOC Conceptual Reference Model (CRM) [concept search](http://www.cidoc-crm.org/concept-search). Were you able to find it? 
+Tip 1: Search for “person” to get an idea of how the thesaurus works. 
 Tip 2: All the terms used can be found in the last release of the model: [http://www.cidoc-crm.org/get-last-official-release](http://www.cidoc-crm.org/get-last-official-release).
 
 ### Thing 7: FAIR data modelling
