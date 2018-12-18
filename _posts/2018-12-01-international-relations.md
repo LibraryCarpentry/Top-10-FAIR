@@ -18,11 +18,12 @@ International relations and human rights researchers
 ## Goals
 Help researchers understand FAIR principles
 
-## Things
+## Things  
+
 ### Thing 1: Getting started
 
 Is there a difference between open and FAIR data? 
-Find out more:  https://www.go-fair.org/faq/ask-question-difference-fair-data-open-data/ 
+Find out more:  [https://www.go-fair.org/faq/ask-question-difference-fair-data-open-data/](https://www.go-fair.org/faq/ask-question-difference-fair-data-open-data/)
 
 **ACTIVITY:**   
 Are there examples in your own research where you have used or created data that may be FAIR, but may not necessarily be open? 
