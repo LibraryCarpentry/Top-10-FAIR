@@ -216,37 +216,34 @@ https://www.katacoda.com/courses/docker
 ### Thing 13: Blockchain for Life Science
 
 This technology could be a technical solution to the 
-current reproducibility crisis in science, and could "reduce waste and make more research results true"
+current reproducibility crisis in science, and could "reduce waste and make more research results true".
 
-https://hackernoon.com/mapping-the-blockchain-for-science-landscape-546b61bfbd1
+* [Mapping the blockchain for science landscape](https://hackernoon.com/mapping-the-blockchain-for-science-landscape-546b61bfbd1)
 
-https://www.researchgate.net/publication/306107836_Blockchain_for_science_and_knowledge_creation_-_A_technical_fix_to_the_reproducibility_crisis
+* [Blockchain_for_science_and_knowledge_creation_-_A_technical_fix_to_the_reproducibility_crisis](https://www.researchgate.net/publication/306107836_Blockchain_for_science_and_knowledge_creation_-_A_technical_fix_to_the_reproducibility_crisis)
 
-https://zenodo.org/record/60223/files/ZenodoBlockchainforScienceKnowledgeCreation.pdf
+* [Blockchain for science and knowledge creation: A technical fix to the reproducibility crisis?](https://zenodo.org/record/60223/files/ZenodoBlockchainforScienceKnowledgeCreation.pdf)
 
 Living document: 
 
-https://www.blockchainforscience.com/2017/02/23/blockchain-for-open-science-the-living-document/
-
-
-
+[https://www.blockchainforscience.com/2017/02/23/blockchain-for-open-science-the-living-document/](https://www.blockchainforscience.com/2017/02/23/blockchain-for-open-science-the-living-document/)
 
 ### Supplementary information:
 
 Research Data Infrastructure for the Life Sciences (NFDI4Life) 
 
-- NFDI4Life brings together research communities across the life sciences domain in the context of the planned National Research Data Infrastructure (NFDI). As a response to the increasing scientific and societal demand for data and data analysis, NFDI4Life brings together scientific communities and research data infrastructures broadly covering the life sciences with particular focus on the subdomains biology, medicine (with veterinary medicine), epidemiology, nutrition, agricultural and environmental science as well as biodiversity research.
+* NFDI4Life brings together research communities across the life sciences domain in the context of the planned National Research Data Infrastructure (NFDI). As a response to the increasing scientific and societal demand for data and data analysis, NFDI4Life brings together scientific communities and research data infrastructures broadly covering the life sciences with particular focus on the subdomains biology, medicine (with veterinary medicine), epidemiology, nutrition, agricultural and environmental science as well as biodiversity research.
 
     https://www.nfdi4life.de/ 
 
-- Carpentries Community 
+* Carpentries Community 
 
     The carpentries develops and teaches workshops on the fundamental data skills needed to conduct research. 
 
     https://carpentries.org/
 
 
-- Go-FAIR-Initiative
+* Go-FAIR-Initiative
 
     GO FAIR follows a bottom-up open implementation strategy for the European Open 
     Science Cloud (EOSC) as part of a broader global Internet of FAIR Data & Services. 
@@ -255,9 +252,8 @@ Research Data Infrastructure for the Life Sciences (NFDI4Life)
     
     https://www.go-fair.org/ 
 
-- FAIRDOM
-
-    FAIRDOM supports researchers, students, trainers, funders and publishers to make their data, operating procedures and models, Findable, Accessible, Interoperable and Reusable (FAIR).
+* FAIRDOM
+FAIRDOM supports researchers, students, trainers, funders and publishers to make their data, operating procedures and models, Findable, Accessible, Interoperable and Reusable (FAIR).
 
     https://fair-dom.org/about-fairdom/
 
