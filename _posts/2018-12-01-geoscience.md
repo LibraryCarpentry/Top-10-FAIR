@@ -11,6 +11,7 @@ John Brown, [Janice Chan](https://github.com/icecjan/), Niamh Quigley (Curtin Un
 Researchers
 
 # Things
+
 ## Findable
 
 Thing 1: Data sharing and discovery
@@ -51,28 +52,28 @@ Thing 8: What are publishers & funders saying about data?
 
 Data repositories enable others to find existing data by publishing data descriptions ("metadata") about the data they hold, much like a library catalogue describes the resources held in a library. Also, repositories often provide access to the data itself and some even provide ways for users to explore that data. Many research funding requirements reference researchers depositing their data into data repositories (which we’ll discuss later in Thing 8).
 
-Data portals or aggregators draw together research data records from a number of repositories. Because of the huge amounts of data available they sometimes focus on data from one discipline or geographic region. eg [The EU Open Data Portal](https://data.europa.eu/euodp/en/home) aggregates metadata records from over 30 European national data repositories and The US Government’s Open Data portal [data.gov](https://www.data.gov/) aggregates from over 100 US government agencies.
+Data portals or aggregators draw together research data records from a number of repositories. Because of the huge amounts of data available they sometimes focus on data from one discipline or geographic region. [The EU Open Data Portal](https://data.europa.eu/euodp/en/home) is an example that aggregates metadata records from over 30 European national data repositories and The US Government’s Open Data portal [data.gov](https://www.data.gov/) aggregates from over 100 US government agencies.
 
-1. Look at this Data.gov.au record from Geoscience Australia: [Lord Howe Rise Marine Survey 2017](https://data.gov.au/dataset/lord-howe-rise-marine-survey-2017-ga-0363-kr17-15c-bathymetry-grids)
-	 - Examine the description and Additional Info fields to see the ways the Geoscience Australia has made this record findable to other researchers. If you knew about this data portal, would you be able to easily find this dataset if it was relevant to your research?
+1. Look at this [Data.gov.au](https://data.gov.au/) record from Geoscience Australia: [Lord Howe Rise Marine Survey 2017](https://data.gov.au/dataset/lord-howe-rise-marine-survey-2017-ga-0363-kr17-15c-bathymetry-grids).
+* Examine the **Description** and **Additional Info** fields to see the ways that Geoscience Australia has made this record findable to other researchers. If you knew about this data portal, would you be able to easily find this dataset if it was relevant to your research?
 2. Spend a few minutes exploring the [Scottish Spatial Data Infrastructure Metadata Portal](https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/home).
-	- Try browsing or searching on a topic of interest. 
-	- Explore a record and see where it came from and if there’s a way to contact the creator.
-   - Have a look at the [map](https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/map) and see if you can find and add a map layer relating to fishing.
+* Try browsing or searching on a topic of interest. 
+* Explore a record and see where it came from and if there’s a way to contact the creator.
+* Have a look at the [map](https://www.spatialdata.gov.scot/geonetwork/srv/eng/catalog.search#/map) and see if you can find and add a map layer relating to fishing.
 3. Look at [EarthChem](http://www.earthchem.org/).
-	- Have a look at some of the data in EarthChem. Would it be a good place to [contribute the data from your own research](http://www.earthchem.org/data/templates)?
+* Have a look at some of the data in EarthChem. Would it be a good place to [contribute the data from your own research](http://www.earthchem.org/data/templates)?
   
 **Consider**: If your research appeared in the right data portal or repository, what things might result from that for yourself? What about your discipline?
 
 ### Activity 2: Finding data repositories
 
 1. Choose one of the specialised data repositories below, or find another data repository on [re3data.org](https://www.re3data.org/browse/by-subject/) (perhaps one outside your particular focus area) and spend some time browsing around your chosen repository to get a feel for the data available.
-	- [WorldClim](http://worldclim.org/)
-	- [Southern California Earthquake Centre](https://www.scec.org/)
-	- [MOPITT (Atmospheric Science Data Centre)](https://eosweb.larc.nasa.gov/project/mopitt/mopitt_table)
-	- [International Service of Geomagnetic Indices](http://isgi.unistra.fr/index.php)
-	- [Scientific Drilling Database](http://www.scientificdrilling.org/)
-	- [Alberta Geological Survey](https://geology-ags-aer.opendata.arcgis.com/)
+* [WorldClim](http://worldclim.org/)
+* [Southern California Earthquake Centre](https://www.scec.org/)
+* [MOPITT (Atmospheric Science Data Centre)](https://eosweb.larc.nasa.gov/project/mopitt/mopitt_table)
+* [International Service of Geomagnetic Indices](http://isgi.unistra.fr/index.php)
+* [Scientific Drilling Database](http://www.scientificdrilling.org/)
+* [Alberta Geological Survey](https://geology-ags-aer.opendata.arcgis.com/)
 2.  Think about how the data here differs from data you are familiar with, for example, in format, size and access method.
   
 **Consider**: Could you apply a dataset from one of these repositories to your own work? Would you need to change file formats or learn a new software package?
@@ -83,10 +84,10 @@ Data portals or aggregators draw together research data records from a number of
 
 Information sources that were commonly used in the past such as [maps](http://www.bl.uk/learning/timeline/large126360.html) and [handwritten observation notes](http://4.bp.blogspot.com/-A2pzziCrac0/VhmMGIgnDQI/AAAAAAAAFA8/FKK0e5veaJA/s1600/IMG_9095.JPG) and can easily survive for years, decades or even centuries. However, because most current research is done mostly on computers, it’s important to remember that digital items require special care to keep them usable over time.
 
-1.  This [video](https://youtu.be/qEmmeFFafUs) (2.5 min) from the US Library of Congress shows the vulnerability of “born digital” objects like research data: they are fragile; they are dependent on software and hardware; and they require active management.
-2.  Look at the ANDS page on [file formats](https://www.ands.org.au/working-with-data/data-management/data-preservation).
+1. This [video](https://youtu.be/qEmmeFFafUs) (2.5 min) from the US Library of Congress shows the vulnerability of “born digital” objects like research data: they are fragile; they are dependent on software and hardware; and they require active management.
+2. Look at the ANDS page on [file formats](https://www.ands.org.au/working-with-data/data-management/data-preservation).
    
-**Consider**: If your research was put into a time capsule and unearthed in 50 years time, would those future researchers be able to determine if your research is still useful to them? If you were allowed to update the time capsule every 5 years, what would you change to make it easier for those unearthing it?
+**Consider**: If your research was put into a time capsule and unearthed in 50 years time, would future researchers be able to determine if your research is still useful to them? If you were allowed to update the time capsule every 5 years, what would you change to make it easier for those unearthing it?
 
 ### Activity 2: Readme files
 
@@ -100,11 +101,11 @@ One way that researchers can ensure their data is useful in the future is to pac
 
 When authors cite an article they have used ideas from, they formally and publicly acknowledge the work of the earlier author. Data citation works in the same way – by citing the data created by earlier researchers they get formal and public credit for their contribution to the new work. Along with books, journals and other scholarly works, it is now possible to formally cite research datasets and even the software that was used to create or analyse the data.
 
-1.  Have a look at [](https://www.bgs.ac.uk/services/ngdc/citedData/catalogue/a59128b5-8e7f-4100-b0ff-87325438435b.html) the [Geophysical, hydraulic and mechanical properties of synthetic versus natural sandstones under variable stress conditions](https://www.bgs.ac.uk/services/ngdc/citedData/catalogue/a59128b5-8e7f-4100-b0ff-87325438435b.html) dataset from the British Geological Survey. If someone wanted to use this dataset for further research, would they know how to give credit to the creator of the original dataset?
+1. Have a look at [https://www.bgs.ac.uk/services/ngdc/citedData/catalogue/a59128b5-8e7f-4100-b0ff-87325438435b.html](https://www.bgs.ac.uk/services/ngdc/citedData/catalogue/a59128b5-8e7f-4100-b0ff-87325438435b.html) the [Geophysical, hydraulic and mechanical properties of synthetic versus natural sandstones under variable stress conditions](https://www.bgs.ac.uk/services/ngdc/citedData/catalogue/a59128b5-8e7f-4100-b0ff-87325438435b.html) dataset from the British Geological Survey. If someone wanted to use this dataset for further research, would they know how to give credit to the creator of the original dataset?
 2.  Find a DOI of a dataset from one of the repositories you found in Thing 1 and enter it into the DOI Citation Formatter: [https://citation.crosscite.org/](https://citation.crosscite.org/). If you saw the citation, would you know how to go about accessing the data?
-3.  Read the article, “[Sharing Detailed Research Data Is Associated with Increased Citation Rate](https://doi.org/10.1371/journal.pone.0000308)” – why would it be that papers that make their data openly available get better citation counts? Would you feel more confident citing another person’s work if you knew
+3. Read the article, “[Sharing Detailed Research Data Is Associated with Increased Citation Rate](https://doi.org/10.1371/journal.pone.0000308)” – why would it be that papers that make their data openly available get better citation counts? Would you feel more confident citing another person’s work if you knew?
    
-**Consider**: data citation is a relatively new concept in the scholarly landscape and as yet, is not routinely done by researchers, or demanded by journals. What could be done to encourage routine citation of research data and software associated with research outputs?
+**Consider**: Data citation is a relatively new concept in the scholarly landscape and as yet, is not routinely done by researchers, or demanded by journals. What could be done to encourage routine citation of research data and software associated with research outputs?
 
 ### Activity 2: Citing software
 
@@ -114,7 +115,7 @@ As such techniques become more commonplace, it’s important to distinguish betw
 
 It’s not always easy to know which to cite, but trying to give recognition for the creation of software and software components can make huge impacts on the career of a researcher, especially if they create scientific software!
 
-1.  Read [](https://libguides.mit.edu/c.php?g=551454&p=3900280) the [How to cite software guide](https://libguides.mit.edu/c.php?g=551454&p=3900280) from the MIT Libraries.
+1.  Read [https://libguides.mit.edu/c.php?g=551454&p=3900280](https://libguides.mit.edu/c.php?g=551454&p=3900280) the [How to cite software guide](https://libguides.mit.edu/c.php?g=551454&p=3900280) from the MIT Libraries.
 2.  Read [Adding CITATION to your R package](https://www.r-bloggers.com/adding-citation-to-your-r-package/) blog post.
     
 **Consider**: If you wrote a package of code for a computer program to run and made it freely available to your colleagues to solve a problem in your field, would they know how they could give you credit in their work? Would they think that you would want attribution?
@@ -125,15 +126,15 @@ DOIs are unique identifiers that enable data citation, metrics for data and rela
 
 ### Activity 1: DOIs
 
-Digital Object Identifiers (DOIs) are a types of ‘persistent identifier’. DOIs are unique identifiers that provide persistent access to published articles, datasets, software versions and a range of other research inputs and outputs. There are over 120 million Digital Object Identifiers (DOIs) in use, and in 2016 DOIs were “resolved” (clicked on) over 5 billion times!
+Digital Object Identifiers (DOIs) are a type of ‘persistent identifier’. DOIs are unique identifiers that provide persistent access to published articles, datasets, software versions and a range of other research inputs and outputs. There are over 120 million Digital Object Identifiers (DOIs) in use, and in 2016 DOIs were “resolved” (clicked on) over 5 billion times!
 
 Each DOI is unique but a typical DOI looks like this: [http://dx.doi.org/10.4225/06/577F022BA6954](http://dx.doi.org/10.4225/06/577F022BA6954)
 
-1.  Start by watching this short 4.5 minute video [Persistent identifiers and data citation](https://youtu.be/PgqtiY7oZ6k) explained from Research Data Netherlands. It gives you a succinct, clear explanation of how DOIs underpin data citation.
-2.  Have a look at the poster [Building a culture of data citation](https://www.ands.org.au/__data/assets/pdf_file/0003/383025/data_citation_poster.pdf) and follow the arrows to see how DOIs are attached to data sets and are used in data citation.
-3.  Let’s go to a Research Data Australia data record which shows how DOIs are used. Click on this DOI to ‘resolve’ the DOI and take us to the record: [http://dx.doi.org/10.4225/06/577F022BA6954](http://dx.doi.org/10.4225/06/577F022BA6954)
-4.  Click on the Cite icon on the upper left of the record (under the green Access the data tab). No matter where the DOI appears it always resolves back to its original dataset record to avoid duplication. i.e. many records, one copy.
-5.  DOIs can also be applied to grey literature, a term that refers to research that is either unpublished or has been published in non-commercial form, such as government reports. For example, reports like this: [http://doi.org/10.4225/06/583d354b89060](http://doi.org/10.4225/06/583d354b89060)
+1. Start by watching this short 4.5 minute video [Persistent identifiers and data citation](https://youtu.be/PgqtiY7oZ6k) explained from Research Data Netherlands. It gives you a succinct, clear explanation of how DOIs underpin data citation.
+2. Have a look at the poster [Building a culture of data citation](https://www.ands.org.au/__data/assets/pdf_file/0003/383025/data_citation_poster.pdf) and follow the arrows to see how DOIs are attached to data sets and are used in data citation.
+3. Let’s go to a Research Data Australia data record which shows how DOIs are used. Click on this DOI to ‘resolve’ the DOI and take us to the record: [http://dx.doi.org/10.4225/06/577F022BA6954](http://dx.doi.org/10.4225/06/577F022BA6954).
+4. Click on the **Cite** icon on the upper left of the record (under the green **Access the data** tab). No matter where the DOI appears it always resolves back to its original dataset record to avoid duplication. i.e. many records, one copy.
+5. DOIs can also be applied to grey literature, a term that refers to research that is either unpublished or has been published in non-commercial form, such as government reports. For example, reports like this: [http://doi.org/10.4225/06/583d354b89060](http://doi.org/10.4225/06/583d354b89060).
 
 ### Activity 2: IGSNs
 
@@ -141,10 +142,10 @@ International Geo Sample Number (IGSN) are designed to provide an unambiguous gl
 
 Each IGSN is unique but a typical IGSN looks like this [IEEVB00C3](https://app.geosamples.org/sample/igsn/IEEVB00C3). The first five characters of the IGSN represent a name space (a unique user code) that uniquely identifies the person or institution that registers the sample. The last 4 characters of the IGSN are a random string of alphanumeric characters (0-9, A-Z).
 
-1.  Start by reading this [brief introduction to IGSN](https://www.ands.org.au/working-with-data/citation-and-identifiers/igsn)
-2.  Review the scope and capability of each [IGSN allocation agent listed on the IGSN website](http://www.igsn.org/register-your-samples) and consider which allocation agent is most appropriate for your samples.
-3.  Have a look at an IGSN record [https://app.geosamples.org/sample/igsn/IEEVB00C3](https://app.geosamples.org/sample/igsn/IEEVB00C3) which show what information about the sample was recorded.
-4.  Now have a look at how IGSNs are referenced in a dataset record [http://get.iedadata.org/doi/100548](http://get.iedadata.org/doi/100548)
+1. Start by reading this [brief introduction to IGSN](https://www.ands.org.au/working-with-data/citation-and-identifiers/igsn).
+2. Review the scope and capability of each [IGSN allocation agent listed on the IGSN website](http://www.igsn.org/register-your-samples) and consider which allocation agent is most appropriate for your samples.
+3. Have a look at an IGSN record [https://app.geosamples.org/sample/igsn/IEEVB00C3](https://app.geosamples.org/sample/igsn/IEEVB00C3) which displays what information about the sample was recorded.
+4. Now have a look at how IGSNs are referenced in a dataset record [http://get.iedadata.org/doi/100548](http://get.iedadata.org/doi/100548).
   
 **Consider**: How are you managing your physical samples? The ANDS IGSN minting service may be used by Australian researchers at no cost. Do you know of a service provider in your region?
 
@@ -154,13 +155,13 @@ Data citation best practice, as discussed in Thing 3, enables citation metrics f
 
 Altmetrics is an alternative measure to help understand the influence of your work. It refers to metrics such as number of views, number of downloads, number of mentions in policy documents, social media, and social bookmarking platforms associated with any research research outputs that have a DOI or other persistent identifiers. Because of their immediacy, altmetrics can be an early indicator of the impact or reach of a dataset; long before formal citation metrics can be assessed.
 
-1.  Start by looking at the altmetrics for this [phylogenomics article](http://www.sciencemag.org/articleusage?gca=sci;346/6210/763) published in Science. Note the usage statistics, including number and pattern of downloads, for this article since it was published in November 2014.
-2.  Now click on the “donut” or the link to ‘See More Details’ to see the wealth of information available.
-3.  Look also at the associated [data in Dryad](http://datadryad.org/resource/doi:10.5061/dryad.3c0f1) noting that the data has been assigned a DOI. Can you see how many times the data has been downloaded and the record viewed (scroll down to the bottom of the record)?
+1. Start by looking at the altmetrics for this [phylogenomics article](http://www.sciencemag.org/articleusage?gca=sci;346/6210/763) published in Science. Note the usage statistics, including number and pattern of downloads, for this article since it was published in November 2014.
+2. Now click on the “donut” or the link to ‘See More Details’ to see the wealth of information available.
+3. Look also at the associated [data in Dryad](http://datadryad.org/resource/doi:10.5061/dryad.3c0f1) noting that the data has been assigned a DOI. Can you see how many times the data has been downloaded and the record viewed (scroll down to the bottom of the record)?
 
 By way of comparison, as of early November 2018:
--   the same dataset had been cited once in Web of Science Data Citation Index
--   the article had been cited 690 times in [Web of Science](http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=2&SID=E4hcr2sIg7gEPv5OcTf&page=1&doc=3)
+* the same dataset had been cited once in Web of Science Data Citation Index
+* the article had been cited 690 times in [Web of Science](http://apps.webofknowledge.com/full_record.do?product=WOS&search_mode=GeneralSearch&qid=2&SID=E4hcr2sIg7gEPv5OcTf&page=1&doc=3)
    
 **Consider**: Do you think altmetrics for data have value in academic settings? Why, or why not?
 
@@ -181,10 +182,10 @@ Consider this scenario: You’ve found a dataset you are interested in. You’ve
 
 Enabling reuse of data can speed up research and innovation. Licensing is critical to enabling data reuse.
 
-1.  Start by watching this 4.30mins [video](https://youtu.be/LmyzF7iJp3E?list=PLG25fMbdLRa7QH8_yyNSgzkQOTBVsTK2r) in which Dr Kevin Cullen from the University of New South Wales explains their approach to licensing which aims to strengthen the University’s relationship with business and industry.
-2.  Check out the [data standards](http://www.ga.gov.au/data-pubs/datastandards) of Geoscience Australia, which refers to the Australian government policy on [Public Data](https://pmc.gov.au/resource-centre/public-data/australian-government-public-data-policy-statement). Which Creative Commons licence is applied to government data by default?
-3.  Since November 2009, [Geoscience Australia has officially adopted Creative Commons Attribution as the default licence for its website](http://creativecommons.org.au/blog/2009/12/more-on-government-data-geoscience-australia-goes-cc/). That means thousands of products and datasets available through the website are free to be reused.
-4.  See the range of data products and license available at [British Geological Survey](https://www.bgs.ac.uk/data/licensing/home.html).
+1. Start by watching this 4.30mins [video](https://youtu.be/LmyzF7iJp3E?list=PLG25fMbdLRa7QH8_yyNSgzkQOTBVsTK2r) in which Dr Kevin Cullen from the University of New South Wales explains their approach to licensing which aims to strengthen the University’s relationship with business and industry.
+2. Check out the [data standards](http://www.ga.gov.au/data-pubs/datastandards) of Geoscience Australia, which refers to the Australian government policy on [Public Data](https://pmc.gov.au/resource-centre/public-data/australian-government-public-data-policy-statement). Which Creative Commons licence is applied to government data by default?
+3. Since November 2009, [Geoscience Australia has officially adopted Creative Commons Attribution as the default licence for its website](http://creativecommons.org.au/blog/2009/12/more-on-government-data-geoscience-australia-goes-cc/). That means thousands of products and datasets available through the website are free to be reused.
+4. See the range of data products and license available at [British Geological Survey](https://www.bgs.ac.uk/data/licensing/home.html).
  
 Does your institution have a policy or guidelines around data licensing?
 
