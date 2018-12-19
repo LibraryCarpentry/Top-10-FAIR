@@ -12,6 +12,7 @@ It is an umbrella-like document with links to various resources. The aim of the 
 Our primary audience consists of researchers and support staff at Utrecht University. Therefore, whenever possible we will use the resources available at Utrecht University: the institutional repositories and resources provided at the [RDM Support website](https://www.uu.nl/en/research/research-data-management).
 
 ## Things
+
 ### Thing 1: Why bother with FAIR?
 
 **Background:** The advancement of science thrives on the timely sharing and accessibility of research data.  Timely and sustainable sharing is only possible if there are infrastructures and services that enable it.  
