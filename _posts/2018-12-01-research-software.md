@@ -8,7 +8,7 @@ Anna-Lena Lamprecht, [Carlos Martinez Ortiz](https://github.com/c-martinez), [Ch
 ## Description:
 The [FAIR data principles](https://www.go-fair.org/fair-principles/) are widely known and applied today. What the FAIR principles mean for (scientific) software is an ongoing discussion. However, there are some things on which there is already agreement that they will make software (more) FAIR. In this document, we go for some ‘low hanging fruit’ and describe 10 easy FAIR software things that you can do. To limit the scope, “software” here refers to scripts and packages in languages like R and Python, but not to other kinds of software frequently used in research, such as web-services, web platforms like myexperiment.org or big clinical software suites like OpenClinica.
 
-A [poster](/files/poster_10things_FAIRsoftware.pdf) summarizing these 10 FAIR software things is also available.
+A [poster](Top-10-FAIR/files/poster_10things_FAIRsoftware.pdf) summarizing these 10 FAIR software things is also available.
 
 ## Audience:
 * Researchers who develop software
