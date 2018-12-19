@@ -6,7 +6,7 @@ title: "Library Research"
 
 Liz, Natasha, Chris, Sharyn, Tom, Josh Quan, Scott Peterson, Amy Neeser
 
-## Brief Description:
+## Description:
 
 So - conceptually I’m using a scratch n sniff sticker thought model to think about how to translate FAIR principles into useable concepts for research-facing support staff (eg Librarians). Scratch n sniff because these are friendly/fun ways of getting into a topic without necessarily losing yourself down a rabbit hole. 
 
@@ -51,9 +51,6 @@ Activity:
   a. Can you identify relevant date metadata? What could be improved? What is missing?
   b. What type of metadata does the FAIR principles ask for? 
 
-
-
-
 ## Thing 3: What’s FAIR got to DAAO, got to DAAO with it?
 [DAAO](https://www.daao.org.au/) (Design and Art Australian Online) is a database which brings together biographical data about Australian artists, designers, craftspeople and curators with information about artworks, event histories and collection details from major cultural institutions and individual researchers. It’s an open collaborative tool - even you can join!
 
@@ -78,9 +75,6 @@ Activity ideas for exploring the DAAO:
 3. Find an artist or designer and add some information about them
 4. Save a bunch of records of artists from your home town.
 
-
-
-
 ### Thing 4 -  How can personal and identifying datasets be FAIR?
 Librarians in many disciplines (HaSS, Health, Medicine, Design, Science etc) may find themselves consulting on data that involves personal and identifying information and this means that Privacy Legislation (State and Federal) must be adhered to. Personal data and information may also include sensitive and/or health information, demanding an even greater duty of care. 
 Yet sometimes these datasets can be the building blocks for truly life-altering research. So what to do? 
@@ -94,7 +88,6 @@ This can be regarded as the ‘bible’ for Australian research practice:  NHMRC
 
 Methods: 
 1160.0 - [ABS Confidentiality Series](http://www.abs.gov.au/ausstats/abs@.nsf/Latestproducts/1160.0Main%20Features6Aug%202017?opendocument&tabname=Summary&prodno=1160.0&issue=Aug%202017&num=&view=), Aug 2017  
-
 
 **Examples:**
 * [Australian Data Archive](https://ada.edu.au/accessing-data/)
