@@ -2,11 +2,15 @@
 layout: default
 ---
 
-<span class="asthead-nav"><a href="{{ site.baseurl }}">&#8810; Main Menu</a></span>
 <header class="masthead">
   <h1 class="masthead-title--small">
     <a href="{{ site.baseurl }}">{{ site.name }}</a>
   </h1>
+    <nav class="masthead-nav">
+    {% for nav in site.nav %}
+      <small><a href="{{ nav.href }}">{{ nav.name }}</a></small>
+    {% endfor %}
+  </nav>
 </header>
 <div class="content post">
   <h1 class="post-title">{{ page.title }}</h1>
