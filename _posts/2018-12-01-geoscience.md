@@ -172,9 +172,9 @@ Understand the importance of data licensing, learn about Creative Commons and fi
 ### Activity 1: Why license research data?
 Consider this scenario: You’ve found a dataset you are interested in. You’ve downloaded it. Excellent! But do you know what you can and cannot do with the data? The answer lies in data licensing. Licensing is critical to enabling data to be reused and cited.
 
-1.  Start by reading this [brief introduction to licensing research data](https://www.ands.org.au/working-with-data/publishing-and-reusing-data/licensing-for-reuse).
-2.  Now watch this [Creative Commons Licensing](https://youtu.be/FsTO6ink3oI) introductory video or have a closer look at the [Understanding CC Licences poster](https://www.ands.org.au/__data/assets/image/0008/774296/CCposter.png).
-3.  Check out the [licence chooser](https://creativecommons.org/choose/) from Creative Commons, which walks you through the decision of which licence is appropriate for your purpose.
+1. Start by reading this [brief introduction to licensing research data](https://www.ands.org.au/working-with-data/publishing-and-reusing-data/licensing-for-reuse).
+2. Now watch this [Creative Commons Licensing](https://youtu.be/FsTO6ink3oI) introductory video or have a closer look at the [Understanding CC Licences poster](https://www.ands.org.au/__data/assets/image/0008/774296/CCposter.png).
+3. Check out the [licence chooser](https://creativecommons.org/choose/) from Creative Commons, which walks you through the decision of which licence is appropriate for your purpose.
   
 **Consider**: If you were considering licensing a dataset on something which may have commercial value to others - what licence would you apply?
 
@@ -187,21 +187,21 @@ Enabling reuse of data can speed up research and innovation. Licensing is critic
 3. Since November 2009, [Geoscience Australia has officially adopted Creative Commons Attribution as the default licence for its website](http://creativecommons.org.au/blog/2009/12/more-on-government-data-geoscience-australia-goes-cc/). That means thousands of products and datasets available through the website are free to be reused.
 4. See the range of data products and license available at [British Geological Survey](https://www.bgs.ac.uk/data/licensing/home.html).
  
-Does your institution have a policy or guidelines around data licensing?
+Does your institution have policies or guidelines around data licensing?
 
 ### Activity 3: Data licensing in practice
 
 Not all research data that is shared is licensed for reuse. It should be!
 
-1.  Explore the following data repositories:
-	- [Research Data Australia](https://researchdata.ands.org.au/) 
-	- [AuScope Geonetwork Portal](http://portal.auscope.org/geonetwork)
-	- [EarthChem](http://www.earthchem.org/)
-2.  Or review the following example records:
-	- [Darwin Harbour marine habitats](https://researchdata.ands.org.au/darwin-harbour-marine-habitats/685223)
-	- [Mineral Occurrences - South Australia](http://portal.auscope.org/geonetwork/srv/eng/catalog.search;jsessionid=9239F91DD91D546FB5229E2CF054A033#/metadata/37334122424b82f003cd4d88d0877ec45d2b4c35)
-	- [Whole Rock Composition Data for Garnet Pyroxenites from Arizona](http://get.iedadata.org/doi/111138)
-3.  Do all data repositories or metadata catalogues enable users to refine search by licenses? Look closely at the specific Licensing information on a small sample of those records with ‘open’ licences. How easy or difficult it is to work out if the data can or can’t be reused e.g. for commercial purposes? with international collaborators?
+1. Explore the following data repositories:
+* [Research Data Australia](https://researchdata.ands.org.au/) 
+* [AuScope Geonetwork Portal](http://portal.auscope.org/geonetwork)
+* [EarthChem](http://www.earthchem.org/)
+2. Or review the following example records:
+* [Darwin Harbour marine habitats](https://researchdata.ands.org.au/darwin-harbour-marine-habitats/685223)
+* [Mineral Occurrences - South Australia](http://portal.auscope.org/geonetwork/srv/eng/catalog.search;jsessionid=9239F91DD91D546FB5229E2CF054A033#/metadata/37334122424b82f003cd4d88d0877ec45d2b4c35)
+* [Whole Rock Composition Data for Garnet Pyroxenites from Arizona](http://get.iedadata.org/doi/111138)
+3. Do all data repositories or metadata catalogues enable users to refine search by licenses? Look closely at the specific Licensing information on a small sample of those records with ‘open’ licences. How easy or difficult it is to work out if the data can or can’t be reused e.g. for commercial purposes? with international collaborators?
    
 **Consider**: Assigning Open Licenses is not routine. Suggest one tip for encouraging uptake of 'open' licensing.
 
@@ -215,7 +215,7 @@ A controlled vocabulary provides a consistent way to describe data - location, t
 
 Controlled vocabularies significantly improve data discovery. It makes data more shareable with researchers in the same discipline because everyone is ‘talking the same language’ when searching for specific data e.g. plants, animals, medical conditions, places etc.
 
-If you have time: have a look at [Controlling your Language: a Directory of Metadata Vocabularies](http://www.webarchive.org.uk/wayback/archive/20160101151732/http://www.jiscdigitalmedia.ac.uk/guide/controlling-your-language-links-to-metadata-vocabularies) from JISC in the UK. Make sure you scroll down to 5. Conclusion - it’s worth a read.
+If you have time, have a look at [Controlling your Language: a Directory of Metadata Vocabularies](http://www.webarchive.org.uk/wayback/archive/20160101151732/http://www.jiscdigitalmedia.ac.uk/guide/controlling-your-language-links-to-metadata-vocabularies) from JISC in the UK. Make sure you scroll down to 5. Conclusion - it’s worth a read.
 
 ### Activity 2: Controlled vocabularies in action
 
@@ -247,10 +247,10 @@ Explore some examples of vocabularies used in geoscience:
 In your ORCID record, datasets you have published will be displayed in the Works section.
 
 [Log into ORCID now](https://orcid.org/signin) and check your details are up to date, including:
--   email address
--   biography
--   research keywords
--   other IDs such as Scopus Author ID.
+* email address
+* biography
+* research keywords
+* other IDs such as Scopus Author ID.
    
 If you don’t already have an ORCID you can get one, this [Curtin University webpage](http://libguides.library.curtin.edu.au/c.php?g=202410&p=6157895) has information on how to get the most out of your ORCID.
 
@@ -258,16 +258,15 @@ If you don’t already have an ORCID you can get one, this [Curtin University we
 
 ORCID populates your ORCID record from many sources, one of which is peer review activities. Publishers such as the American Geophysical Union Publications [now send details of peer review activities to ORCID](https://eos.org/agu-news/agu-opens-its-journals-to-author-identifiers).
 
-Look at your ORCID record, if you have undertaken peer review activities are they listed?
-
-Why do you think linking peer review activities to ORCIDs could be useful?
+* Look at your ORCID record, if you have undertaken peer review activities are they listed?
+* Why do you think linking peer review activities to ORCIDs could be useful?
 
 ### Activity 3: Identifiers and linked data
 
 Because they are unique identifiers, ORCIDs can be used to link data from different datasets together. GeoLink is a network of Linked Data from multiple data repositories.
 
-1.  Go to the [portal for the GeoLink demo](http://demo.geolink.org/)
-2.  Choose an entity e.g. Datasets, Cruises, Vessels, Instruments, Researchers and explore! The [Help guide is here.](http://demo.geolink.org/help/index.html)
+1.  Go to the [portal for the GeoLink demo](http://demo.geolink.org/).
+2.  Choose an entity e.g. Datasets, Cruises, Vessels, Instruments, Researchers and explore! The [Help guide is here](http://demo.geolink.org/help/index.html).
 
 ## Thing 8: What are publishers & funders saying about data?
 
@@ -285,25 +284,25 @@ COPDESS is The Coalition for Publishing Data in the Earth and Space Sciences, an
 
 Activity 1 has shown us that it’s becoming more common for journals and publishers to demand your data be made available when you seek to publish. However, if your research is publicly funded it’s almost guaranteed that your grant and funding obligations with require you to make your data publicly available at the end of your project – the outputs of research funded by a population should be made available to that population.
 
-The Australian Research Council’s [data management requirements](https://www.arc.gov.au/policies-strategies/strategy/research-data-management) states that funded researchers are expected to follow the [OECD Principles and Guidelines for Access to Research Data from Public Funding](http://www.oecd.org/sti/inno/38500813.pdf). Similarly principles are outlined by the [UK Research and Innovation](https://www.ukri.org/about-us/) (UKRI) in their [Guidance on best practice in the management of research data](https://www.ukri.org/files/legacy/documents/rcukcommonprinciplesondatapolicy-pdf/) document.
+The Australian Research Council’s [data management requirements](https://www.arc.gov.au/policies-strategies/strategy/research-data-management) states that funded researchers are expected to follow the [OECD Principles and Guidelines for Access to Research Data from Public Funding](http://www.oecd.org/sti/inno/38500813.pdf). Similar principles are outlined by the [UK Research and Innovation](https://www.ukri.org/about-us/) (UKRI) in their [Guidance on best practice in the management of research data](https://www.ukri.org/files/legacy/documents/rcukcommonprinciplesondatapolicy-pdf/) document.
 
-**Consider**: If you were on a funding panel and were assessed a grant that with a clear plan for making the data openly available, would you rate the future impact of that proposal better or worse than one with a poorly defined plan?
+**Consider**: If you were on a funding panel and were asked to assess a grant with a clear plan for making the data openly available, would you rate the future impact of that proposal better or worse than one with a poorly defined plan?
 
-## Thing 9: Exploring APIs and Apps
+## Thing 9: Exploring APIs and applications
 
 Geosciences has many specialised services, applications and APIs which can be used to directly access and harness existing research data. Some are free, and some are subscription-based, but your research institution may have access.
 
 ### Activity 1: Try an app
 
--   [The WA Geology app](http://www.dmp.wa.gov.au/Geology-mapping-app-for-mobile-1567.aspx) created by the Western Australian government, can be used in a mobile web browser and provides multiple layers of geoscience information for Western Australia.
-- The British Geological Survey has created the free [iGeology app](https://www.bgs.ac.uk/igeology/) to explore hundreds of British maps.
+* [The WA Geology app](http://www.dmp.wa.gov.au/Geology-mapping-app-for-mobile-1567.aspx) created by the Western Australian government, can be used in a mobile web browser and provides multiple layers of geoscience information for Western Australia.
+* The British Geological Survey has created the free [iGeology app](https://www.bgs.ac.uk/igeology/) to explore hundreds of British maps.
 
 ### Activity 2: APIs
 
 APIs (Application Programming Interfaces) are software services that allow you to access structured data or systems held by someone else. These are usually provided so that developers can access data held by an organisation on demand, rather than them having to hold an entire dataset (which may not be possible due to security, space requirements or if the dataset is constantly changing). Some companies charge for using their APIs, but many research-oriented organisations provide their APIs for free so that other organisations can link in to their knowledge.
 
--   [The NASA Earth Data Developer Portal](https://developer.earthdata.nasa.gov/) provides data from the [NASA Earth Science Data portal](https://earthdata.nasa.gov/).    
--   [The Natural History Museum API](http://data.nhm.ac.uk/about/download) provides a range of data from [their collections](http://www.nhm.ac.uk/our-science/collections.html).
+* [The NASA Earth Data Developer Portal](https://developer.earthdata.nasa.gov/) provides data from the [NASA Earth Science Data portal](https://earthdata.nasa.gov/).    
+* [The Natural History Museum API](http://data.nhm.ac.uk/about/download) provides a range of data from [their collections](http://www.nhm.ac.uk/our-science/collections.html).
    
 **Consider**: If you could systematically access and integrate the data provided from one of the sources above, can you think of a way you could enrich the outputs of your own research?
 
@@ -311,7 +310,7 @@ APIs (Application Programming Interfaces) are software services that allow you t
 
 The importance of spatial data is ever increasing. Many of the societal challenges we face today such as food scarcity and economic growth are inherently linked to big spatial data. In fact, it is often said that 80% of all research data has a geographic or spatial component. It is useful then, for all of us to have an understanding of spatial data.
 
-### Activity 1: Spatial data: maps and more
+### Activity 1: Spatial data: Maps and more
 
 1. Start by watching this incredible, inspiring video (3.59 min) from the University of Wollongong’s [PetaJakarta project](https://www.youtube.com/watch?v=6v7BO8_rhWI&feature=youtu.be). It shows innovative ways of combining social media and geospatial data to save lives.
 2. Now read [The Application of Geographic Information Science in Earth Sciences](https://gis.usc.edu/blog/the-application-of-geographic-and-information-science-gis-in-earth-sciences/).
@@ -322,7 +321,7 @@ Just for fun: Enter your address in the Atlas of Living Australia and see what b
 
 **Consider**: Why do you think these geospatial visualisations are so powerful?
  
-### Activity 2: Spatial Data concepts
+### Activity 2: Spatial data concepts
 
 There are many types and sources of geospatial data. If you are new to the world of geospatial data, you will probably appreciate some ‘busting’ of the jargon of geospatial data.
 
@@ -333,22 +332,22 @@ There are many types and sources of geospatial data. If you are new to the world
 
 **Consider**: How would you give an explanation of two new terms you have just learnt?
 
-### Activity 3: Using and Visualising Spatial Data
+### Activity 3: Using and visualising spatial data
 
 Spatial data can be used in many ways, and there are many tools that you can use to manipulate and display spatial data.
 
 You can try one of the tools below. Do one, or do them all and compare the results.
 
 1. [13 Free GIS Software Options](https://gisgeography.com/free-gis-software/): Map the World in Open Source
-	- Browse through this site for ideas for free, open source geospatial software; the descriptions often include discipline specific advice. Download one and try your hand at mapping.
-2. [Spatial data visualisation with R](https://www.r-bloggers.com/spatial-data-visualization-with-r-2/): for those who have done the R modules in Software Carpentry - this might be a good activity to flex your R muscles! Want [more](https://www.researchgate.net/publication/274697165_Spatial_data_visualisation_with_R)? Here are some more [R tutorials](http://pakillo.github.io/R-GIS-tutorial/).
-3. Create a map using [Google Fusion Tables](https://support.google.com/fusiontables/answer/2527132?hl=en&ref_topic=2592806): this offers lots of features, but you need a Google account. The excellent Google Fusion tutorial uses butterfly data to show you how to import data, map the data and customise your map.
+* Browse through this site for ideas for free, open source geospatial software; the descriptions often include discipline specific advice. Download one and try your hand at mapping.
+2. [Spatial data visualisation with R](https://www.r-bloggers.com/spatial-data-visualization-with-r-2/): For those who have done the R modules in Software Carpentry - this might be a good activity to flex your R muscles! Want [more](https://www.researchgate.net/publication/274697165_Spatial_data_visualisation_with_R)? Here are some more [R tutorials](http://pakillo.github.io/R-GIS-tutorial/).
+3. Create a map using [Google Fusion Tables](https://support.google.com/fusiontables/answer/2527132?hl=en&ref_topic=2592806): This offers lots of features, but you need a Google account. The excellent Google Fusion tutorial uses butterfly data to show you how to import data, map the data and customise your map.
 
 The [Open Geospatial Consortium (OGC)](http://www.opengeospatial.org/) is an international not-for-profit organization that develops open standards for the geospatial community. OGC through their dedicated global members have developed several standards to share geospatial data. Some of the most commonly use standards are:
 
-1. [Web Map Service](http://www.opengeospatial.org/standards/wms) (WMS): a standard web protocol to query and access geo-registered static map images as a web service. The outputs are images that can be displayed in a browser application.
-2. [Web Feature Service](http://www.e-cartouche.ch/content_reg/cartouche/webservice/en/html/wfs_whatWFSis.html) (WFS): a standard web protocol to query and extract geographic features of a map, these are typically attributes of a map. The latest version of WFS (3.0, Dec 2017) has created [a lot of excitement in the community](https://medium.com/@cholmes/wfs-3-0-get-excited-yes-8e904fdbcc0).
-3. [Web Coverage Service](http://www.opengeospatial.org/standards/wcs) (WCS): provides access to geospatial information representing phenomena that are variable over space and time, such as satellite images or aerial photos. The service delivers a raster image that can be further interpreted and processed.
+1. [Web Map Service](http://www.opengeospatial.org/standards/wms) (WMS): A standard web protocol to query and access geo-registered static map images as a web service. The outputs are images that can be displayed in a browser application.
+2. [Web Feature Service](http://www.e-cartouche.ch/content_reg/cartouche/webservice/en/html/wfs_whatWFSis.html) (WFS): A standard web protocol to query and extract geographic features of a map, these are typically attributes of a map. The latest version of WFS (3.0, Dec 2017) has created [a lot of excitement in the community](https://medium.com/@cholmes/wfs-3-0-get-excited-yes-8e904fdbcc0).
+3. [Web Coverage Service](http://www.opengeospatial.org/standards/wcs) (WCS): Provides access to geospatial information representing phenomena that are variable over space and time, such as satellite images or aerial photos. The service delivers a raster image that can be further interpreted and processed.
 
 [Geoserver](http://geoserver.org/) is the most popular open source reference implementation of WMS, WFS and WCS standards.
 
