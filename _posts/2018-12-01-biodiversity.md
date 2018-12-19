@@ -96,7 +96,7 @@ in finding an appropriate repository for their data:
 
 Try the Browse by Subject entry to the re3data-database 
 since this gives a great overview on the wide landscape of research 
-data repositories: https://www.re3data.org/browse/by-subject/
+data repositories: [https://www.re3data.org/browse/by-subject/](https://www.re3data.org/browse/by-subject/)
 
 ## Accessibility:
 
@@ -107,7 +107,7 @@ It does this by encouraging people in life science to use schema.org markup,
 so that their websites and services contain consistently structured information. 
 This structured information then makes it easier to discover, collate and analyse distributed data.
 
-https://bioschemas.gitbook.io/training-portal/
+[https://bioschemas.gitbook.io/training-portal/](https://bioschemas.gitbook.io/training-portal/)
 
 ### Thing 6: Licenses
 
@@ -136,8 +136,8 @@ The Magnet URI scheme defines the format of magnet links, a de facto standard fo
 
 Using Magnet URI scheme directly on the publication will make all the data accessible. 
 
-http://academictorrents.com/
-https://en.wikipedia.org/wiki/Magnet_URI_scheme
+[http://academictorrents.com/](http://academictorrents.com/)
+[https://en.wikipedia.org/wiki/Magnet_URI_scheme](https://en.wikipedia.org/wiki/Magnet_URI_scheme)
 
 **EXERCISE:**  
 1) Upload any small data set of your choice with the above link 
@@ -151,7 +151,7 @@ Standardization of life science data will ensure interoperability across differe
 ELIXIR is an intergovernmental organisation that brings together life science resources 
 from across Europe
 
-https://www.elixir-europe.org/platforms/interoperability
+[https://www.elixir-europe.org/platforms/interoperability](https://www.elixir-europe.org/platforms/interoperability)
 
 
 ### Thing 9: Research data management
@@ -159,12 +159,12 @@ https://www.elixir-europe.org/platforms/interoperability
 - Bio2RDF is a large network of linked data for the life sciences. 
 It provides a resource for different resources to be integrated into single platform
 
-    http://bio2rdf.org/
-    https://www.ncbi.nlm.nih.gov/pubmed/18472304
+    [http://bio2rdf.org/](http://bio2rdf.org/)
+    [https://www.ncbi.nlm.nih.gov/pubmed/18472304](https://www.ncbi.nlm.nih.gov/pubmed/18472304)
 
 - GFBio is the authoritative, national contact point for issues concerning the management and standardisation of biological and environmental research data during the entire data life cycle (from acquisition to archiving and data publication). GFBio mediates expertises and services between the GFBio data centers and the scientific community, covering all areas of research data management.
 
-    https://www.gfbio.org/
+    [https://www.gfbio.org/](https://www.gfbio.org/)
 
 
 ### Thing 10: Machine-readability 
@@ -173,21 +173,21 @@ It provides a resource for different resources to be integrated into single plat
 
 Make the data accessible via an API for automated reading 
 
-http://opendatahandbook.org/glossary/en/terms/machine-readable/
+[http://opendatahandbook.org/glossary/en/terms/machine-readable/](http://opendatahandbook.org/glossary/en/terms/machine-readable/)
 
 
 #### Exercise - Crossref:
 1) Pick the DOI of a publication of your choice
 2) Open a Web browser and add the url
-3) https://api.crossref.org/works/<DOI> <= replace <DOI> with the DOI of the publication. 
+3) [https://api.crossref.org/works/](https://api.crossref.org/works/)<DOI> <= replace <DOI> with the DOI of the publication. 
 
-Example: https://api.crossref.org/works/10.1371/journal.pcbi.1004668
+Example: [https://api.crossref.org/works/10.1371/journal.pcbi.1004668](https://api.crossref.org/works/10.1371/journal.pcbi.1004668)
 
 #### Exercise - DataCite:
 1) Pick the DOI of a dataset in Zenodo
-2) Open https://api.datacite.org/works/DOI> <= replace <DOI> with the DOI of the Zenodo entry
+2) Open [https://api.datacite.org/works/<DOI>](https://api.datacite.org/works/<DOI>) <= replace <DOI> with the DOI of the Zenodo entry
 
-Example https://api.datacite.org/works/10.5281/zenodo.1574835
+Example [https://api.datacite.org/works/10.5281/zenodo.1574835](https://api.datacite.org/works/10.5281/zenodo.1574835)
 
 ## Reusability:
 ### Thing 11: Digitalization
@@ -199,8 +199,8 @@ retrieval and integrity.
 An electronic lab notebook must be able to create, import, 
 store and retrieve all important data types in digital format. 
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/
-https://datamanagement.hms.harvard.edu/electronic-lab-notebooks
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/)
+[https://datamanagement.hms.harvard.edu/electronic-lab-notebooks](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks)
 
 ### Thing 12: Containers
 
@@ -208,9 +208,10 @@ In a scientific field we have most of the time deal with large amount of
 data that they have to be processed before the publication. 
 One important aspect of the reproducibility challenge is ensuring computational analysis can be run reproducibly, even in different environments. 
 
-https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf
+[https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf](https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf)
+
 #### Exercise:
-https://www.katacoda.com/courses/docker
+[https://www.katacoda.com/courses/docker](https://www.katacoda.com/courses/docker)
 
 
 ### Thing 13: Blockchain for Life Science
@@ -234,13 +235,13 @@ Research Data Infrastructure for the Life Sciences (NFDI4Life)
 
 * NFDI4Life brings together research communities across the life sciences domain in the context of the planned National Research Data Infrastructure (NFDI). As a response to the increasing scientific and societal demand for data and data analysis, NFDI4Life brings together scientific communities and research data infrastructures broadly covering the life sciences with particular focus on the subdomains biology, medicine (with veterinary medicine), epidemiology, nutrition, agricultural and environmental science as well as biodiversity research.
 
-    https://www.nfdi4life.de/ 
+    [https://www.nfdi4life.de/](https://www.nfdi4life.de/)
 
 * Carpentries Community 
 
     The carpentries develops and teaches workshops on the fundamental data skills needed to conduct research. 
 
-    https://carpentries.org/
+    [https://carpentries.org/](https://carpentries.org/)
 
 
 * Go-FAIR-Initiative
@@ -248,14 +249,14 @@ Research Data Infrastructure for the Life Sciences (NFDI4Life)
     GO FAIR follows a bottom-up open implementation strategy for the European Open 
     Science Cloud (EOSC) as part of a broader global Internet of FAIR Data & Services. 
     
-    https://eosc-portal.eu/ 
+    [https://eosc-portal.eu/](https://eosc-portal.eu/)
     
-    https://www.go-fair.org/ 
+    [https://www.go-fair.org/](https://eosc-portal.eu/)
 
 * FAIRDOM
 FAIRDOM supports researchers, students, trainers, funders and publishers to make their data, operating procedures and models, Findable, Accessible, Interoperable and Reusable (FAIR).
 
-    https://fair-dom.org/about-fairdom/
+   [https://fair-dom.org/about-fairdom/](https://fair-dom.org/about-fairdom/)
 
 
 
