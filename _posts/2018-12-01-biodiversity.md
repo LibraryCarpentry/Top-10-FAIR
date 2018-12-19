@@ -9,13 +9,13 @@ Eva Seidlmayer, Konrad Förstner, Mandela Fasemore, Silvia Di Giorgio, Till Saue
 ## Audience: 
 Researchers
 
-## Things
+# Things
 
 ## Findability:
 
 ### Thing  1: Identifiers 
 
-To make data findable, It has to be uniquely and persistently stored with an identifier. 
+To make data findable, it has to be uniquely and persistently stored with an identifier. 
 
 * A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the adress bar (e. g.  [https://doi.org/10.1109/5.771073](https://doi.org/10.1109/5.771073)). Also, see: [ANDS Guide: Digital Object Identifier (DOI) System for Research Data](https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf).
 
@@ -25,7 +25,7 @@ The distributing DataCite-agency for Life Sciences is PUBLISSO:
 
 * ORCID is a self-identifier for authors to avoid author name ambiguity. Use ORCIDs from the start of data creation, i.e. attach data creator name/ORCID to dataset as a metadata field. Include ORCIDs with datasets in repositories (e.g. in Sequence Read Archive (SRA), include the ORCID for the data creator).  This allows for the tracking of data provenance (the origins, custody, and ownership of research data). 
 
-**EXERCISE:** 
+**EXERCISE:**  
 For easy look up, we have a list of DOIs below. Can you match the right document to the appropriate DOI? HINT: Start from here [https://www.doi.org/](https://www.doi.org/)!
 
 1) 10.1103/PhysRev.48.73
@@ -34,16 +34,17 @@ For easy look up, we have a list of DOIs below. Can you match the right document
 * _On the origin of species_
 * _The Particle Problem in the General Theory of Relativity_
 
-Which of these is not a valid DOI ?
+Which of these is not a valid DOI?
 
 1) 10.1037/arc0000014
 2) 12.1093/fMicb.2018.00257 
 3) 10.1101/468025
 HINT check the prefix!
 
-Which part indicates the publishing institution? the prefix or the suffix of an DOI?
+Which part indicates the publishing institution? The prefix or the suffix of a DOI?
 
-ORCID exercise: go through Getting Started with ORCID Integration https://members.orcid.org/api/getting-started 
+**ORCID EXERCISE:**   
+Go through the [Getting Started with ORCID Integration](https://members.orcid.org/api/getting-started).
 
 ### Thing 2: Citations
 
@@ -52,8 +53,7 @@ It supports various data and license types. It also supports source code from Gi
 
 See [https://zenodo.org/](https://zenodo.org/)
 
-
-**EXERCISE:** 
+**EXERCISE:**  
 * Use the Zenodo Sandbox to upload an example dataset, software program, etc.  
 [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/)
 
@@ -62,51 +62,41 @@ Questions:
 2) Which field are mandatory and which once are not. 
 3) Which identifiers can you use. 
 
-Todo: Screenshot of the upload form explaining some of the fields.
-
+![Uploading to Zenodo (Sandbox)](http://www.researchobject.org/pages/wp-content/uploads/2018/04/zenodo-03-info.png)
 
 ### Thing 3: Wikidata
 
-It provides a common source of open data which can be used by Wikimedia projects such as Wikipedia, 
-and by anyone else, under a public domain license.
+[Wikidata](https://www.wikidata.org/wiki/Wikidata) provides a common source of open data which can be used by Wikimedia projects such as Wikipedia, and by anyone else, under a public domain license.
 
-https://www.wikidata.org/wiki/Wikidata
-
-#### Exercise:
+**EXERCISE:**  
 Go to Wikidata and find the publication date of the book “On the origin of species”.
 
-- Switch over to the linked dataset of the author of the book and see his other publications.
-- What did he published in 1839?
+* Switch over to the linked dataset of the author of the book and see his other publications.
+* What did he publish in 1839?
 
-
-### Thing 4: Registry of research Data Repositories (re3data)
+### Thing 4: Registry of Research Data Repositories (re3data)
 
 This project aims to accelerate scientific discovery and enhance the integrity, 
-transparency, and reproducibility of data.
-To enable FAIR data sharing, data need to be deposited in 
+transparency, and reproducibility of data. To enable FAIR data sharing, data need to be deposited in 
 a repository that is taking steps to make data as open and FAIR as possible.
 This is not clear-cut because at this time, there is no such thing as a FAIR 
 stamp - although the CoreTrustSeal certification provides a good indication. 
 Under the auspices of the Enabling FAIR Data Project, AGU, re3data, 
-and DataCite therefore decided to develop a new tool to assist researchers
- in finding an appropriate repository for their data.
+and DataCite therefore decided to develop new tools to assist researchers 
+in finding an appropriate repository for their data:
 
-https://www.re3data.org/browse/by-subject/
+* [https://www.re3data.org/browse/by-subject/](https://www.re3data.org/browse/by-subject/)
+* [https://repositoryfinder.datacite.org/](https://repositoryfinder.datacite.org/)
 
-
-#### Exercise:
+**EXERCISE:**  
 1) How many entries are returned for the a query specific for your research topic on re3data https://www.re3data.org?
 2) If you filter under subject what do you find?
 3) Do you think something is missing from the results?
 4) Please try to submit a missing repository
 
-
 Try the Browse by Subject entry to the re3data-database 
 since this gives a great overview on the wide landscape of research 
 data repositories: https://www.re3data.org/browse/by-subject/
-
-
-
 
 ## Accessibility:
 
@@ -119,32 +109,28 @@ This structured information then makes it easier to discover, collate and analys
 
 https://bioschemas.gitbook.io/training-portal/
 
-
-
 ### Thing 6: Licenses
 
 Being well informed about the appropriate licenses will ensure data is available within the 
 boundary intended by the authors and also enhance accessibility for target groups.
 
-https://opensource.org/licenses
-https://wiki.creativecommons.org/wiki/Data_and_CC_licenses
-http://www.dcc.ac.uk/resources/how-guides/license-research-data
+* [https://opensource.org/licenses](https://opensource.org/licenses)
+* [https://wiki.creativecommons.org/wiki/Data_and_CC_licenses](https://wiki.creativecommons.org/wiki/Data_and_CC_licenses)
+* [http://www.dcc.ac.uk/resources/how-guides/license-research-data](http://www.dcc.ac.uk/resources/how-guides/license-research-data)
 
-#### Exercise:
-1) Use the link below to select the appropriate licence with the follow intentions,
-2) Allow your work to be adapted and also allow it to be used commercially
-- https://creativecommons.org/choose
-
+**EXERCISE:**  
+1) Use the link below to select the appropriate licence with the following intentions;
+2) Allow your work to be adapted and also allow it to be used commercially.
+[https://creativecommons.org/choose](https://creativecommons.org/choose)
 
 ### Thing 7: Availability via torrents
 
-The era of Big Data is finally upon us, and Science is leading the trend. 
-A prerequisite for accessibility is availability. Well established sharing protocols 
-like torrents will ensure data is  perpetually available without the constraint of time and space.
+The era of Big Data is finally upon us. A prerequisite for accessibility is availability. Well established sharing protocols 
+like torrents will ensure data are perpetually available without the constraint of time and space.
 Using the torrent protocol for scientific data will lead to some of the below advantages:
-- Immutability 
-- Distribution capabilities (lower cost for distributing the data) 
-- no sole maintainer (we don’t have to rely only on one specific maintainer because data can be cloned and maintained across the peer-networks
+* Immutability 
+* Distribution capabilities (lower cost for distributing the data) 
+* No sole maintainer (we don’t have to rely only on one specific maintainer because data can be cloned and maintained across the peer-networks
 
 The Magnet URI scheme defines the format of magnet links, a de facto standard for identifying files by their content, via cryptographic hash value rather than by their location.
 
@@ -153,14 +139,11 @@ Using Magnet URI scheme directly on the publication will make all the data acces
 http://academictorrents.com/
 https://en.wikipedia.org/wiki/Magnet_URI_scheme
 
-#### Exercise:
+**EXERCISE:**  
 1) Upload any small data set of your choice with the above link 
 2) Share with a colleague a link to access it over torrent 
 
-
-
 ## Interoperability:
-
 
 ### Thing 8: Elixir platforms  
 
@@ -249,7 +232,6 @@ https://www.blockchainforscience.com/2017/02/23/blockchain-for-open-science-the-
 
 
 ### Supplementary information:
-
 
 Research Data Infrastructure for the Life Sciences (NFDI4Life) 
 
