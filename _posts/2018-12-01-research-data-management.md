@@ -32,7 +32,6 @@ Now, reflect on the differences in functionality between a paper catalogue card 
 1. Reflect on your own research data.  If someone who is unfamiliar with your research wants to find, evaluate, understand and reuse your data, what would he/she need?
 2. Watch this [video](https://www.youtube.com/watch?v=L0vOg18ncWE&feature=youtu.be) about structural and descriptive metadata and reflect on the example provided in the video.  If the vieo peaked your interest about metadata, watch a [similar video](https://www.youtube.com/watch?v=h0oZ3swbTJ0&) on the _Ins and outs of metadata and data documentation_ by Utrecht university. 
 
-
 ### Thing 3: The definition of FAIR metrics
 
 **Background:** FAIR stands for Findable, Accessible, Interoperable and Re-usable. 
