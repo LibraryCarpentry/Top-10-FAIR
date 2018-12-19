@@ -15,7 +15,7 @@ The [FAIR data principles](https://www.go-fair.org/fair-principles/) are widely 
 ## Goals:
 Translate FAIR principles to applicable actions for scientific software
 
-### What is FAIR for software
+## What is FAIR for software
 In the context of this document, we use the following simple definition of FAIR for software:
 
 **Findable**  
