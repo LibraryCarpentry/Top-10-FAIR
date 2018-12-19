@@ -37,17 +37,17 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 ## Thing 1: Understanding the lifecycle of research data
 *Getting started*  
-* Read 'Planning for the Creation of Digital Data’ in the Digital Antiquity Guides to Good Practice
+* Read '[Planning for the Creation of Digital Data](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-0)’ in the Digital Antiquity Guides to Good Practice.
 * Consider the types of data collected and used within your own work. How many file formats do you work with regularly? How many files have become inaccessible to you over the years? To your colleagues or collaborators?
 
 *Learn more*  
-* Watch the short film on the lifecycle of research data at <https://www.ukdataservice.ac.uk/manage-data/lifecycle>
+* Watch the short film on the lifecycle of research data at [https://www.ukdataservice.ac.uk/manage-data/lifecycle](https://www.ukdataservice.ac.uk/manage-data/lifecycle).
 * Map out the lifecycle of data on your most recent project. What processes and workflows have gotten you to the stage you are at currently? What can you do to facilitate the ongoing use and reuse of your data?
 
 *Challenge me*  
-* Read ‘Project Documentation’ and 'Project Metadata’  in the Digital Antiquity Guides to Good Practice
+* Read ‘[Project Documentation](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-1)’ and '[Project Metadata](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2)’ in the Digital Antiquity Guides to Good Practice.
 * Draft documentation for your most recent project or a forthcoming project. Include information about the background, methodology employed or to be employed, a narrative on the site and its context (historically, archaeologically, culturally, etc). This documentation will not only facilitate the eventual dissemination of your data but also any proposals or publications about the work itself.
-* Review the metadata for this project, document in a single location what metadata you currently record or plan to record and compare it to the metadata tables at <http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2>. Are you missing any Project Metadata? File-Level Metadata (general and technical)? How can you fill in any gaps?
+* Review the metadata for this project, document in a single location what metadata you currently record or plan to record and compare it to the metadata tables at [http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2]). Are you missing any Project Metadata? File-Level Metadata (general and technical)? How can you fill in any gaps?
 
 ### Thing 2: Preservation
 *Getting started*  
