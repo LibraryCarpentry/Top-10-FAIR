@@ -37,9 +37,9 @@ The FAIR Principles are easily understood in theory but more challenging when ap
 2. Open the [ARDC FAIR Data Assessment tool](https://www.ands-nectar-rds.org.au/fair-tool) and run your chosen dataset against the tool to assess its ‘FAIRness’.
 
 **Consider:**  
-How FAIR was your chosen dataset?
-How easy was it to apply the FAIR criteria to your dataset?
-What things need to happen in order to improve the ‘FAIRness’ of your chosen dataset?
+* How FAIR was your chosen dataset?
+* How easy was it to apply the FAIR criteria to your dataset?
+* What things need to happen in order to improve the ‘FAIRness’ of your chosen dataset?
 
 **Want more?**  
 Try your hand at other tools like the [CSIRO 5 star data rating tool](https://doi.org/10.4225/08/5a12348f8567b) and the [DANS FAIR data assessment tool](https://www.surveymonkey.com/r/fairdat). 
