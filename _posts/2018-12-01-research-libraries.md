@@ -115,7 +115,14 @@ Persistent identifiers are crucial for the findability and identification of res
 For (meta)data to be accessible it should ideally be available via a standard protocol. Think in terms of borrowing a book: there are a number of expectations that the library lays out in order to proceed. You have to identify yourself using a library card, you have to bring the book to the checkout desk, and in return you walk out of the library with a demagnetised book and receipt reminding you when you have to return the book by. Accessing the books in the library means that you must learn and abide by the rules for accessing books. 
 
 **Activity:**  
-Something about reviewing the protocols your library supports
+1. Does your library system or institutional repository use identifiers for records? If so what type?
+2. Is there a way for you to query these systems to only retrieve the underlying metadata? If so, what method/s is/are used?
+3. Is the library system or institutional repository you are using open, free, and used by other libraries?
+4. Do you have to authenticate to access parts of the system? If so, what do you use? Is it used by other libraries?
+5. Are there any other conditions/permissions needed to access metadata and resources from these systems? 
+
+**Consider:**  
+There are a lot of jargon terms that are used in libraries, did any in this [glossary from OCLC](https://help.oclc.org/Librarian_Toolbox/OCLC_glossaries/OCLC_glossary) come up during the activity above? As an alternative, another activity to consider is the [Jargon Busting](https://librarycarpentry.org/lc-data-intro/02-jargon-busting/index.html) activity from Library Carpentry. This exercise is an opportunity to begin to ask questions and to get a firmer grasp on the concepts around data, code or software development in libraries.
 
 ### Thing 10: Next steps for your library in supporting FAIR
 In Thing 1 you read LIBER’s Implementing FAIR Principles: the role of Libraries. You considered what your library needed to do in order to better support FAIR data. In Thing 10 we will create a list of outstanding action items.
