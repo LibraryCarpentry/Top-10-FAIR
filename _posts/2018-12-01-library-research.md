@@ -1,159 +1,133 @@
 ---
-title: "Library Research"
+title: "Research Libraries"
 ---
 
 ## Sprinters:
-
-Liz, Natasha, Chris, Sharyn, Tom, Josh Quan, Scott Peterson, Amy Neeser
+Liz Stokes, Natasha Simons, Chris Erdmann, Sharyn Wise, Tom Honeyman, Josh Quan, Scott Peterson, Amy Neeser
 
 ## Description:
-
-So - conceptually I’m using a scratch n sniff sticker thought model to think about how to translate FAIR principles into useable concepts for research-facing support staff (eg Librarians). Scratch n sniff because these are friendly/fun ways of getting into a topic without necessarily losing yourself down a rabbit hole. 
+To translate FAIR principles into useable concepts for research-facing support staff (eg librarians).
 
 ## Audience:
-
 Library staff who provide research support
 
 ## Goals:
-* Translating FAIR speak to library speak (What is it? Why do I need to know? What do I tell researchers?)
-* Help the water cooler conversation when librarians explain and argue in favour of FAIR with (discipline-specific) examples.
-* Understanding FAIR data helps us be better stewards of our own resources  
+* Translating FAIR speak to library speak (What is it? Why do I need to know it? What do I tell researchers?)
+* Preparation for those water cooler conversations when librarians have to explain/advocate in favour of FAIR.
+* Understanding FAIR data helps librarians be better stewards of organisational or community resources. 
 
-# Things:
+# Things
 
-## Thing 1: Why should library staff care about FAIR?
+### Thing 1: Why should librarians care about FAIR? 
+There’s a lot of hype about the FAIR Data Principles. But why should librarians care? For starters, libraries have a strong tradition in describing resources, providing access and building collections, and providing support for the long-term stewardship of digital resources. Building on their specific knowledge and expertise, librarians should feel confident with making research data FAIR. So how can you and your library get started with the FAIR principles? 
 
-* Because FAIR can work as a quality indicator for a Librarian making judgements about what resources to make available to their researcher clients.
-* Because discussing the FAIR principles can draw the discussion away from “Open Access is a dewey-eyed utopian dream!” and toward a “Let’s use our tech powers for good!”  
-* Library staff who work with data in their own work (catalogers, data archivists, IT, etc.) will have a more productive and sensible workflow
-* Data are everywhere in our research environment. They look different in different
-disciplines and our liaison librarians have specific expertise with these needs. Allows for discussion among different disciplines who might not think of their information as “data”.
-* Providing support for researchers’ data allows for new opportunities to connect with faculty
-* FAIR principles are a practical and hands-on (doing) way of engaging with researchers rather than passive (saying/lecturing)
+**Activity:**  
+1. Read LIBER’s *Implementing FAIR Principles: the role of Libraries* at [https://libereurope.eu/wp-content/uploads/2017/12/LIBER-FAIR-Data.pdf](https://libereurope.eu/wp-content/uploads/2017/12/LIBER-FAIR-Data.pdf) (5 minute read)
 
-##### Thing - How FAIR is a dataset?
-**Activity:**
+**Consider:**  
+* Where is your library at in regard to the section on ‘getting started with FAIR’? 
+* Where are you at in your own understanding of the FAIR Data Principles?
 
-Go to the Australian Research Data Commons [FAIR Data Assessment tool](https://www.ands-nectar-rds.org.au/fair-tool). Now go to [re3data](re3data.org), navigate to a repository of your choice and select a dataset. Take the dataset and assess it against the FAIR data assessment tool. How FAIR was the dataset? How difficult was the assessment exercise?
+### Thing 2: How FAIR are your data?
+The FAIR Principles are easily understood in theory but more challenging when applied in practice. In this exercise, you will be using the Australian Research Data Commons (ARDC) Data self-assessment tool to assess the 'FAIRness' of one of your library’s datasets.
 
-If you’re looking for more resources to guide you through the specific principles, then have a look at the Australian Research Data Commons [training resources](https://www.ands.org.au/working-with-data/fairdata/training) sorted into individual principles.
+**Activity:**  
+1. Select a metadata record from your library’s collection (e.g. your institutional repository) that describes a published dataset.
+2. Open the ARDC FAIR Data Assessment tool at [https://www.ands-nectar-rds.org.au/fair-tool](https://www.ands-nectar-rds.org.au/fair-tool) and run your chosen dataset against the tool to assess its ‘FAIRness’.
 
-## Thing 2: Metadata and FAIR
+**Consider:**  
+How FAIR was your chosen dataset?
+How easy was it to apply the FAIR criteria to your dataset?
+What things need to happen in order to improve the ‘FAIRness’ of your chosen dataset?
 
-A number of FAIR principles make reference to “metadata”... but what is metadata and how is it relevant to FAIR?
+**Want more?**  
+Try your hand at other tools like the [CSIRO 5 star data rating tool](https://doi.org/10.4225/08/5a12348f8567b) and the [DANS FAIR data assessment tool](https://www.surveymonkey.com/r/fairdat). 
 
-Explore the inherent biases and assumptions in how data is organized to reinforce power structures in society. 
-Examples: LOC doesn’t have subject include climate change denialism or LGBTQ 
+### Thing 3: Do you teach FAIR to your researchers?
+How FAIR aware are your researchers? Does your library incorporate FAIR into researcher training?
 
-Activity:
-1. View [this video](https://www.youtube.com/watch?v=ABF2FvSPVYE): the Metadata Librarian explains metadata (3 mins)  
-2. View this [metadata record](https://data.qld.gov.au/dataset/koala-hospital-data) for a dataset:   
-  a. Can you identify relevant date metadata? What could be improved? What is missing?
-  b. What type of metadata does the FAIR principles ask for? 
+**Activity:**  
+Go to existing data management/data sharing training you provide to Graduates, Higher Degree Researchers (HDRs) or other researchers. For example, review the [Duke Graduate School’s Responsible Conduct of Research topics page](https://gradschool.duke.edu/professional-development/programs/responsible-conduct-research/rcr-topics).
+Review how well the [15 FAIR Principles](https://www.force11.org/group/fairgroup/fairprinciples) are covered in this training and adjust accordingly.
 
-## Thing 3: What’s FAIR got to DAAO, got to DAAO with it?
-[DAAO](https://www.daao.org.au/) (Design and Art Australian Online) is a database which brings together biographical data about Australian artists, designers, craftspeople and curators with information about artworks, event histories and collection details from major cultural institutions and individual researchers. It’s an open collaborative tool - even you can join!
+### Thing 4: Is FAIR built into library practice and policy?
+Your library may do a great job advocating the FAIR Data Principles to researchers but how well have the Principles been incorporated into library practice and policy? 
 
-**Intentions**: this could be a great example repository for investigating the FAIRness of a ‘discipline specific’ repository. Biographical data, historical records, the “scholarly record”, linked open data technology and a crowd sourced open collaborative interface all come together in an attempt to provide new mechanisms for history-making and new knowledge creation. Disclaimer! I worked on this project as a junior data librarian in 2011, so my knowledge is slightly eroded.
+**Activity:**  
+1. Review your library or institutional policies regarding research data management and digital preservation with the FAIR Principles in mind. Consider that in most cases library policy will have been written before the advent of FAIR. Are revisions required?
+2. Review the data repository managed by your library. How well does it support FAIR Data?
+3. Review your library’s Data Management Planning tool. Does it have features that support the FAIR Data Principles or are changes required?
 
-**Reality**: project funding ended in 2015, the same year that the FORCE11 FAIR data principles came out. In 2018, the DAAO site has minimal user activity is hosted by UNSW in what seems to be caretaker mode, with in 2018.
+### Thing 5: Are your library staff trained in FAIR?
+Librarians can better support FAIR when they have been trained in what the Principles are and if they understand disciplinary metadata, vocabularies and tools to make data FAIR.
 
-Flavour: humanities/GLAM
+**Activity:**  
+Conduct a skills and knowledge audit regarding FAIR with your library team. 
+Based on the audit, identify gaps in FAIR skills and knowledge.
+Design a training program that can fill the identified gaps. 
 
-**Findable:** the DAAO is harvested by Trove, a collections aggregator and home to diverse digitised collections run by the National Library of Australia. The DAAO database itself has a Handle identifier and 
-metadata maps to common standards (EAC-CPF, RIF-CS, Dublin Core). Because the database is FAIR, metadata from different collections can be brought together for the first time, so you can make connections between creators, events, time periods and collaborative works which may not necessarily have been possible without a very large cork board, lots of string, pins and an underground bunker. 
+**Consider:**  
+Reusing the wide range of openly available training materials available in the FAIR Data Principles e.g. you could [start here](https://www.ands.org.au/working-with-data/fairdata/training). 
 
-**Accessible:** the end user licence agreement governs usage of the site’s resources. Users contributing images are encouraged to licence using CC, user guidelines 
-
-**Interoperable:** the DAAO pulls in metadata and content from national collections and institutions, and is also harvested by HuNI. The data is expressed in RDF which enables it to be part of the linked open data promise of the semantic web! 
-
-**Reusable:** the content on the site makes it pretty easy for not only academics but also friends, fellow artists, relatives and family historians to contribute to a reusable resource. 
-
-Activity ideas for exploring the DAAO:
-1. Watch this [short video](https://vimeo.com/90293398) about the DAAO
-2. Create a contributor account and log in.
-3. Find an artist or designer and add some information about them
-4. Save a bunch of records of artists from your home town.
-
-### Thing 4 -  How can personal and identifying datasets be FAIR?
-Librarians in many disciplines (HaSS, Health, Medicine, Design, Science etc) may find themselves consulting on data that involves personal and identifying information and this means that Privacy Legislation (State and Federal) must be adhered to. Personal data and information may also include sensitive and/or health information, demanding an even greater duty of care. 
-Yet sometimes these datasets can be the building blocks for truly life-altering research. So what to do? 
-
-Choose some of the resources below and find as many answers as possible for how personal data can be made Findable and Accessible for Reuse. 
-
-Overviews:
-Despite being written for Human Research Ethics Committees, the [ANDS HREC guide](https://www.ands.org.au/__data/assets/pdf_file/0009/748737/HREC_Guide.pdf) is a handy overview for librarians interested in making personal data FAIR:   
-
-This can be regarded as the ‘bible’ for Australian research practice:  NHMRC National [Statement on Ethical Conduct of Human Research](https://nhmrc.gov.au/about-us/publications/national-statement-ethical-conduct-human-research-2007-updated-2018#element_4__data_collection_and_management) (2018) - CH3.1 Element 4 
-
-Methods: 
-1160.0 - [ABS Confidentiality Series](http://www.abs.gov.au/ausstats/abs@.nsf/Latestproducts/1160.0Main%20Features6Aug%202017?opendocument&tabname=Summary&prodno=1160.0&issue=Aug%202017&num=&view=), Aug 2017  
-
-**Examples:**
-* [Australian Data Archive](https://ada.edu.au/accessing-data/)
-* [The Australian Longitudinal Study on Women's Health](http://www.alswh.org.au/how-to-access-the-data/alswh-data)
-* [UK Expert Advisory Group on Data Access](https://wellcome.ac.uk/sites/default/files/governance-of-data-access-eagda-jun15.pdf)
-
-### Thing 5 - Protocols
-For data to be accessible it should ideally be available via a standard protocol. Think in terms of borrowing a book: there are a number of expectations that the library lays out in order to proceed. You have to identify yourself using a library card, you have to bring the book to the checkout desk, and in return you walk out of the library with a demagnetised book and receipt reminding you when you have to return the book by.
-
-Accessing the books in the library means that you must learn and abide by the rules for accessing books.
-
-The FAIR data principles call for open, standardised protocols for accessing data via their identifier. For data providers that use DOIs, Handles, PURLs, or IGSNs that resolve to a website this comes for free. The protocol here is [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol), and is achieved via a resolver.
-
-
-
-### Thing (?) - Find out how digital libraries are FAIR or not
-
-
-Criteria for determining if a digital library is FAIR: 
+### Thing 6: Are digital libraries FAIR?
+Criteria for determining if a digital library is FAIR:
 * Persistent identifiers 
 * Open access vs. paid access 
 * Provenance information / metadata 
 * Author credibility
-* Versioning information  
+* Versioning information 
 * License / reuse information
-* Usage statistics (number of times downloaded)
+* Usage statistics (number of times downloaded) 
 
-**Activity:**
-Choose one of the digital libraries listed below 
+**Activity:**  
+1. Choose one of these digital libraries.
+2. Search/browse for an item.
+3. Does the library display reuse permissions/licenses on how to use the item?
+4. Is there provenance information?
+5. Instructions for use, creative/generative examples of collection use?
+
 * [Internet Archive](https://archive.org/)
 * [British Library](https://www.bl.uk/)
-* [National Digital Library of India](https://ndl.iitkgp.ac.in/)
-* [Europeana](https://www.europeana.eu/portal/en)
-* [Trove](https://trove.nla.gov.au/)
+* [National Digital Library of India](https://ndl.iitkgp.ac.in/) 
+* [Europeana](https://www.europeana.eu)
+* [Trove](https://trove.nla.gov.au/) 
 
-Complete the following steps:
-* Search/browse for an item
-* Does the library display reuse permissions/licenses on how to use the item?
-* Is there provenance information
-Instructions for use, creative/generative examples of collection use?
+### Thing 7: Does your library support FAIR metadata?
+A number of FAIR principles make reference to “metadata”. What is metadata, how is it relevant to FAIR and does your library support the kind of metadata specified in the FAIR Data Principles?
 
-Other resources ideas
+**Activity:**  
+1. Watch [this video](https://www.youtube.com/watch?v=ABF2FvSPVYE) in which the Metadata Librarian explains metadata (3 mins)
+2. Select three metadata records at random for datasets held in your library or repository collection.
+3. Open the [checklist](http://doi.org/10.5281/zenodo.1065991) produced for use at the EUDAT summer school and see if you can check off those that reference metadata against the records you selected.
+4. Make a list of what metadata elements could be improved in your library records to enable better support for FAIR.
 
-https://uc3.cdlib.org/2018/07/24/a-carpentries-based-approach-to-teaching-fair-data-and-software-principles/ 
+### Thing 8: Does your library support FAIR identifiers?
+Persistent identifiers are crucial for the findability and identification of research, researchers and for tracking impact metrics. The FAIR data principles call for open, standardised protocols for accessing data via a persistent identifier. So how well does your library support persistent identifiers?
 
-https://www.cessda.eu/content/download/3845/35038/file/20170707_How_FAIR_are_your_data_Jones.pdf 
+**Activity:**  
+1. Do your library systems support the identification of researchers via an ORCID? Do you authenticate against the ORCID registry?
+2. Do your library systems, such as your institutional repository, support the issuing of Digital Object Identifiers (DOIs) for research data and related materials?
 
-### Thing - Are the FAIR principles covered in your training/skills dev?
-Go to existing data management/data sharing training you provide to Graduates or HDRs or other researchers and see how well the [15 FAIR principles](https://www.force11.org/group/fairgroup/fairprinciples) are covered in this training.
-If you don’t have a training, have a look at training materials provided by others. 
+**Consider:**  
+* What other types of persistent identifiers do you think your library should support? Why or why not?
 
+### Thing 9: Does your library support FAIR protocols?
+For (meta)data to be accessible it should ideally be available via a standard protocol. Think in terms of borrowing a book: there are a number of expectations that the library lays out in order to proceed. You have to identify yourself using a library card, you have to bring the book to the checkout desk, and in return you walk out of the library with a demagnetised book and receipt reminding you when you have to return the book by. Accessing the books in the library means that you must learn and abide by the rules for accessing books. 
 
+**Activity:**  
+Something about reviewing the protocols your library supports
 
+### Thing 10: Next steps for your library in supporting FAIR
+In Thing 1 you read LIBER’s Implementing FAIR Principles: the role of Libraries. You considered what your library needed to do in order to better support FAIR data. In Thing 10 we will create a list of outstanding action items.
 
-### Thing 10 - what is the role of libraries in FAIR?
-The FAIR Data Principles are essential for libraries who want to foster and extend research data services. Libraries have a strong tradition in describing resources, providing access and building collections, and providing support for the long-term stewardship of digital resources. Building on their specific knowledge and expertise librarians should feel confident with making research data FAIR. How can libraries get started with the FAIR principles? 
+**Activity:**  
+1. Write a list of what your library is currently doing to support and promote the FAIR Data Principles. 
+2. Now compare this to the list in the LIBER document. Where are the gaps and what can you do to fill these?
+3. Create an action plan to improve FAIR support at your library!
 
-**Activity:**
+**Consider:**  
+* Incorporate all that you learnt and progress that you made in “doing” this Top 10 FAIR Things!
 
-1. Read [LIBER’s Implementing FAIR Principles: the role of Libraries](https://libereurope.eu/wp-content/uploads/2017/12/LIBER-FAIR-Data.pdf) 
-2. Write a list of what your library is currently doing to support and promote the FAIR Data Principles. Now compare this to the list in the LIBER document. Where are the gaps and what can you do to fill these?
+**Also, consider partnering with The Carpentries:**  
+[A Carpentries-Based Approach to Teaching FAIR Data and Software Principles](https://uc3.cdlib.org/2018/07/24/a-carpentries-based-approach-to-teaching-fair-data-and-software-principles/) 
 
-Ideas:
-
-Maybe there can be a Thing for the reference librarians determining if a source is FAIR, something they can indicate to a patron just in case. Could be a quick tip that they can use to determine if the source is FAIR like whether it follows an international standard like CoreTrustSeal or if it is included in FAIRsharing, the repository finder tool, re3data?
-
-In Library Carpentry sessions, librarians are always asking about APIs in our jargon busting activities. Maybe we can include an API exercise? In Library Carpentry, there is an example of accessing the CrossRef API, you just need to feed the API with an ISSN https://librarycarpentry.org/lc-open-refine/13-looking-up-data/index.html There is likeley a DataCite example as well and they can peruse the returned data, check whether they can find certain things that identify it as FAIR. 
-
-Also, I wonder for the Things if you can indicate which principles they highlight?
