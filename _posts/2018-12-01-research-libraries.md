@@ -9,12 +9,13 @@ Liz Stokes, Natasha Simons, Chris Erdmann, Sharyn Wise, Tom Honeyman, Josh Quan,
 To translate FAIR principles into useable concepts for research-facing support staff (eg librarians).
 
 ## Audience:
-Library staff who provide research support
+* Library staff who provide research support
+* Those who want to know more about FAIR and how it could be applied to libraries
 
 ## Goals:
-* Translating FAIR speak to library speak (What is it? Why do I need to know it? What do I tell researchers?)
-* Preparation for those water cooler conversations when librarians have to explain/advocate in favour of FAIR.
-* Understanding FAIR data helps librarians be better stewards of organisational or community resources. 
+* Translating FAIR speak to library speak (What is it? Why do I need to know? What do I tell researchers?)
+* Identifying ways to improve the ‘FAIRness’ of your library 
+* Understanding that FAIR data helps us be better stewards of our own resources 
 
 # Things
 
@@ -59,38 +60,39 @@ Your library may do a great job advocating the FAIR Data Principles to researche
 3. Review your library’s Data Management Planning tool. Does it have features that support the FAIR Data Principles or are changes required?
 
 ### Thing 5: Are your library staff trained in FAIR?
-Librarians can better support FAIR when they have been trained in what the Principles are and if they understand disciplinary metadata, vocabularies and tools to make data FAIR.
+Reusing the wide range of openly available training materials available in the FAIR Data Principles e.g. you could [start here](https://www.ands.org.au/working-with-data/fairdata/training). 
 
 **Activity:**  
-Conduct a skills and knowledge audit regarding FAIR with your library team. 
-Based on the audit, identify gaps in FAIR skills and knowledge.
-Design a training program that can fill the identified gaps. 
+* Conduct a skills and knowledge audit regarding FAIR with your library team. 
+* Based on the audit, identify gaps in FAIR skills and knowledge.
+* Design a training program that can fill the identified gaps. To help build your program, read the blog post, [A Carpentries based approach to teaching FAIR data and software principles](https://uc3.cdlib.org/2018/07/24/a-carpentries-based-approach-to-teaching-fair-data-and-software-principles/). 
 
 **Consider:**  
 Reusing the wide range of openly available training materials available in the FAIR Data Principles e.g. you could [start here](https://www.ands.org.au/working-with-data/fairdata/training). 
 
 ### Thing 6: Are digital libraries FAIR?
-Criteria for determining if a digital library is FAIR:
+While the FAIR Principles are designed for data, considering their potential application in a broader context is useful. For example, think about what criteria might be applied to assess the ‘FAIRness’ of digital libraries. Considerations might include:  
 * Persistent identifiers 
 * Open access vs. paid access 
 * Provenance information / metadata 
 * Author credibility
-* Versioning information 
+* Versioning information  
 * License / reuse information
 * Usage statistics (number of times downloaded) 
 
-**Activity:**  
-1. Choose one of these digital libraries.
-2. Search/browse for an item.
-3. Does the library display reuse permissions/licenses on how to use the item?
-4. Is there provenance information?
-5. Instructions for use, creative/generative examples of collection use?
 
-* [Internet Archive](https://archive.org/)
+**Activity:**  
+1. Select one of these digital libraries (or another of your choice):
 * [British Library](https://www.bl.uk/)
 * [National Digital Library of India](https://ndl.iitkgp.ac.in/) 
 * [Europeana](https://www.europeana.eu)
-* [Trove](https://trove.nla.gov.au/) 
+* National Library of Australia’s [Trove](https://trove.nla.gov.au/) 
+2. Search/browse the catalogue of items.
+
+**Consider:**  
+* Does the library display reuse permissions/licenses on how to use the item?
+* Is there provenance information?
+* Are persistent identifiers used?
 
 ### Thing 7: Does your library support FAIR metadata?
 A number of FAIR principles make reference to “metadata”. What is metadata, how is it relevant to FAIR and does your library support the kind of metadata specified in the FAIR Data Principles?
@@ -102,27 +104,25 @@ A number of FAIR principles make reference to “metadata”. What is metadata, 
 4. Make a list of what metadata elements could be improved in your library records to enable better support for FAIR.
 
 ### Thing 8: Does your library support FAIR identifiers?
-Persistent identifiers are crucial for the findability and identification of research, researchers and for tracking impact metrics. The FAIR data principles call for open, standardised protocols for accessing data via a persistent identifier. So how well does your library support persistent identifiers?
+The FAIR data principles call for open, standardised protocols for accessing data via a persistent identifier. Persistent identifiers are crucial for the findability and identification of research, researchers and for tracking impact metrics. So how well does your library support persistent identifiers?
 
 **Activity:**  
-1. Do your library systems support the identification of researchers via an ORCID? Do you authenticate against the ORCID registry?
-2. Do your library systems, such as your institutional repository, support the issuing of Digital Object Identifiers (DOIs) for research data and related materials?
+Find out how well your library supports [ORCIDs](https://orcid.org/) and [DOIs](http://www.doi.org/):
+* Do your library systems support the identification of researchers via an ORCID? Do you authenticate against the ORCID registry? Do you have an ORCID?
+* Do your library systems, such as your institutional repository, support the issuing of Digital Object Identifiers (DOIs) for research data and related materials?
 
 **Consider:**  
 * What other types of persistent identifiers do you think your library should support? Why or why not?
 
+**Want more?**  
+If you library supports the minting of DOIs for research data and related materials, is there more that you could do in this regard? Check out [A Data Citation Roadmap for Scholarly Repositories](https://doi.org/10.1101/097196) and determine how much of the roadmap you can check off your list and how much is yet to do.
+
 ### Thing 9: Does your library support FAIR protocols?
-For (meta)data to be accessible it should ideally be available via a standard protocol. Think in terms of borrowing a book: there are a number of expectations that the library lays out in order to proceed. You have to identify yourself using a library card, you have to bring the book to the checkout desk, and in return you walk out of the library with a demagnetised book and receipt reminding you when you have to return the book by. Accessing the books in the library means that you must learn and abide by the rules for accessing books. 
+For (meta)data to be accessible it should ideally be available via a standard protocol. Think of protocols in terms of borrowing a book: there are a number of expectations that the library lays out in order to proceed. You have to identify yourself using a library card, you have to bring the book to the checkout desk, and in return you walk out of the library with a demagnetised book and receipt reminding you when you have to return the book by. Accessing the books in the library means that you must learn and abide by the rules for accessing books. 
 
 **Activity:**  
-1. Does your library system or institutional repository use identifiers for records? If so what type?
-2. Is there a way for you to query these systems to only retrieve the underlying metadata? If so, what method/s is/are used?
-3. Is the library system or institutional repository you are using open, free, and used by other libraries?
-4. Do you have to authenticate to access parts of the system? If so, what do you use? Is it used by other libraries?
-5. Are there any other conditions/permissions needed to access metadata and resources from these systems? 
-
-**Consider:**  
-There are a lot of jargon terms that are used in libraries, did any in this [glossary from OCLC](https://help.oclc.org/Librarian_Toolbox/OCLC_glossaries/OCLC_glossary) come up during the activity above? As an alternative, another activity to consider is the [Jargon Busting](https://librarycarpentry.org/lc-data-intro/02-jargon-busting/index.html) activity from Library Carpentry. This exercise is an opportunity to begin to ask questions and to get a firmer grasp on the concepts around data, code or software development in libraries.
+* Familiarise yourself with APIs by completing [Thing 19](https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-19) of the ANDS 23 (research data) Things
+* Consider the APIs your library provides to enable access (meta)data for data and related materials. Are they up to scratch or are improvements required?
 
 ### Thing 10: Next steps for your library in supporting FAIR
 In Thing 1 you read LIBER’s Implementing FAIR Principles: the role of Libraries. You considered what your library needed to do in order to better support FAIR data. In Thing 10 we will create a list of outstanding action items.
@@ -135,6 +135,4 @@ In Thing 1 you read LIBER’s Implementing FAIR Principles: the role of Librarie
 **Consider:**  
 * Incorporate all that you learnt and progress that you made in “doing” this Top 10 FAIR Things!
 
-**Also, consider partnering with The Carpentries:**  
-[A Carpentries-Based Approach to Teaching FAIR Data and Software Principles](https://uc3.cdlib.org/2018/07/24/a-carpentries-based-approach-to-teaching-fair-data-and-software-principles/) 
 
