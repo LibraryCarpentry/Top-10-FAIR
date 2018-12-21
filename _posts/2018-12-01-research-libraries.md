@@ -34,7 +34,7 @@ The FAIR Principles are easily understood in theory but more challenging when ap
 
 **Activity:**  
 1. Select a metadata record from your library’s collection (e.g. your institutional repository) that describes a published dataset.
-2. Open the ARDC FAIR Data Assessment tool at [https://www.ands-nectar-rds.org.au/fair-tool](https://www.ands-nectar-rds.org.au/fair-tool) and run your chosen dataset against the tool to assess its ‘FAIRness’.
+2. Open the [ARDC FAIR Data Assessment tool](https://www.ands-nectar-rds.org.au/fair-tool) and run your chosen dataset against the tool to assess its ‘FAIRness’.
 
 **Consider:**  
 How FAIR was your chosen dataset?
