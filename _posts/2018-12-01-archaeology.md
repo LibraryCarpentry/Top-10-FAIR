@@ -9,7 +9,7 @@ Deidre Whitmore, Tim Dennis (UCLA)
 This guide brings concepts surrounding FAIR data principles and the 23 (research data) Things program to the archaeological research domain with the aim of fostering better data practices and stewardship throughout the discipline.
 
 ## Audience
-Researchers, scholars, emploees, students, volunteers- anyone working with or around data collected for archaeological research and management.
+Researchers, scholars, employees, students, volunteers -- anyone working with or around data collected for archaeological research and management.
 
 ## How to use this guide
 You don’t have to do all of the Things, and in fact, you may not be able to do every Thing. However, familiarize yourself with each Thing and implement those which suit your work and interests. Try to schedule time to learn more about a Thing regularly and work through how you could integrate it into your own research practices.
