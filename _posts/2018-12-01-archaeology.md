@@ -3,7 +3,7 @@ title: "Archaeology"
 ---
 
 ## Sprinters: 
-Deidre Whitmore, Tim Dennis (UCLA)
+Deidre Whitmore, Tim Dennis @jt14den (UCLA)
 
 ## Description
 This guide brings concepts surrounding FAIR data principles and the 23 (research data) Things program to the archaeological research domain with the aim of fostering better data practices and stewardship throughout the discipline.
