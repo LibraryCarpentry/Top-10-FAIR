@@ -70,6 +70,7 @@ Here are some examples of research software registries:
 It will help others find and access the particular version of your software.
 Unique means that the identifier will point on and only version and location of your software.
 Persistent means that it will pointing to the same version and location for long, specified amount of time. For example Zenodo provides you with a DOI (Digital Object Identifier) that will be resolvable for at least the next 20 years.
+Recent initiatives, such as Software Heritage, propose to associate a permalinks as intrinsic SHA1 identifier to software (see example through the id: swh:1:dir:005bc6218c7a0a9ede654f9a177058adcde98a50 / permalinks: https://archive.softwareheritage.org/swh:1:dir:005bc6218c7a0a9ede654f9a177058adcde98a50/)
 
 **Activity:**  
 If you have registered your software in a registry, chances are good that they provide a unique and persistent identifier. If not, obtain an identifier from another organisation. If you have multiple identifiers, choose one that you use as your main identifier. Make sure you use it consistently when referring to your software, e.g. on your own website, code repository or in publications.

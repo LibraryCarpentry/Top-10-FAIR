@@ -3,7 +3,7 @@ title: "Australian Government Data/Collections"
 ---
 
 ## Sprinters: 
-Katie Hannan, Data Librarian (CSIRO), Richard Ferrers, Research Data Analyst (ARDC), Keith Russell, Manager Engagements (ARDC), Hao Min, Senior Policy Officer, Data Policy & Analysis Section| Economics Branch (Australian Government Department of Jobs and Small Business)
+Katie Hannan, Data Librarian (CSIRO), Richard Ferrers, Research Data Analyst (ARDC), Keith Russell, Manager Engagements (ARDC)
 
 ## FAIR data
 See ARDC image [summarising](https://www.ands.org.au/__data/assets/image/0011/1416098/FAIR-Data-image-map-graphic-v2-721px.png) what FAIR means; see also [Force 11](https://www.force11.org/group/fairgroup/fairprinciples) definition.
@@ -17,7 +17,7 @@ Governments have a mandate to make non-sensitive data open, e.g. Australian [Gov
 ## Audience
 Government data custodians
 
-## Goals
+## Goal
 Help government data custodians to understand FAIR data principles
 
 # NB: Nomenclature and data:  
@@ -35,11 +35,6 @@ Where “data” is used here, we also mean collections such as Cultural Collect
 0. [Thing 9 - Vocabularies (I)](#thing-9)
 0. [Thing 10 - Data Impact \(R\)](#thing-10)
 
-**Next steps:**  
-Perhaps can send to data.gov, data.vic, some other Govt data custodians for comment.  Eg Simon De Sousa (simon.desousa@dpc.vic.gov.au), Suneel Jethani (suneel.jethani@dpc.vic.gov.au). RF requested user feedback from data.vic (30.11). They may be able to suggest someone. 
-
-**Other things to consider; data people, data governance, data training**
-
 ## Things
 
 ### Thing 1: Why is data important? 
@@ -54,12 +49,12 @@ Source: [Katie Hannan](mailto:katie.hannan@csiro.au), 2018, CC-BY.
 **International**
 G20: Open Government Forum; G20 Turkey 2015. “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2)
 
-Familiarise yourself with your State or Territories Data Policy. See links in Appendix 1.
+Familiarise yourself with your State or Territories Data Policy. See links in [Appendix 1](#Appendix-1).
 
 **Australia** 
 
-* Public data policy statement - https://www.pmc.gov.au/public-data/public-data-policy 
-Office of the Australian Information Commissioner: Principles on open public sector information-  https://www.oaic.gov.au/information-policy/information-policy-resources/principles-on-open-public-sector-information
+* [Public data policy statement](https://www.pmc.gov.au/public-data/public-data-policy) 
+[Office of the Australian Information Commissioner: Principles on open public sector information](https://www.oaic.gov.au/information-policy/information-policy-resources/principles-on-open-public-sector-information)
   * Principle 1: Open access to information — a default position
 “information held by Australian Government agencies is a valuable national resource. If there is no legal need to protect the information it should be open to public access.”
   * Principle 3: Effective information governance
@@ -307,10 +302,12 @@ See for example slide 54 in this [Data Readiness](https://www.slideshare.net/Ric
 
 ### References:
 
-Gov data links - [https://toolkit.data.gov.au/index.php/Main_Page](https://toolkit.data.gov.au/index.php/Main_Page)
-Public Records Office Victoria - [https://www.prov.vic.gov.au/about-us/partnerships-and-collaborations/open-data](https://www.prov.vic.gov.au/about-us/partnerships-and-collaborations/open-data)
+* Gov data links - [https://toolkit.data.gov.au/index.php/Main_Page](https://toolkit.data.gov.au/index.php/Main_Page)
+* Public Records Office Victoria - [https://www.prov.vic.gov.au/about-us/partnerships-and-collaborations/open-data](https://www.prov.vic.gov.au/about-us/partnerships-and-collaborations/open-data)
 
-### Appendix 1 - List of Australian State /Territory Government Open Data Policies
+### Appendix 1
+
+### List of Australian State /Territory Government Open Data Policies
 
 AU Federal Govt: Refer policy at Dept of Prime Minister and Cabinet. See also National Data Commissioner, ”responsible for implementing a simpler data sharing and release framework”.
 
@@ -318,32 +315,34 @@ Victoria AU: Data Access Policy - https://www.data.vic.gov.au/policy-and-standar
 “The Victorian Government recognises the benefits from and encourages the availability of Victorian government data for the public good. The DataVic Access Policy has been developed to support this recognition.”
 
 NSW
+
 Policy https://www.finance.nsw.gov.au/ict/resources/nsw-government-open-data-policy 
+
 “The objectives of this policy are to assist NSW Government agencies to:
 release data for use by the community, research, business and industry
 accelerate the use of data to derive new insights for better public services
 embed open data into business-as-usual...”
+
 Queensland
+
 Policy https://www.oic.qld.gov.au/publications/policies/open-data-strategy 
 
-
 Tasmania
+
 Policy http://www.egovernment.tas.gov.au/stats_matter/open_data/tasmanian_government_open_data_policy
 
 South Australia
+
 Policy https://digital.sa.gov.au/resources/topic/open-data/open-data-declaration 
 
 Western Australia
+
 Policy https://data.wa.gov.au/open-data-policy 
 
-
 ACT
-Policy http://www.cmd.act.gov.au/__data/assets/pdf_file/0011/859430/2016-Proactive-Release-of-Data-Open-Data-Policy.pdf  
 
+Policy [http://www.cmd.act.gov.au/__data/assets/pdf_file/0011/859430/2016-Proactive-Release-of-Data-Open-Data-Policy.pdf](http://www.cmd.act.gov.au/__data/assets/pdf_file/0011/859430/2016-Proactive-Release-of-Data-Open-Data-Policy.pdf)
 
 NT
-Policy (Darwin) https://www.darwin.nt.gov.au/sites/default/files/publications/attachments/policy_no_086_-_open_data.pdf 
 
-
-
-
+Policy (Darwin)[https://www.darwin.nt.gov.au/sites/default/files/publications/attachments/policy_no_086_-_open_data.pdf](https://www.darwin.nt.gov.au/sites/default/files/publications/attachments/policy_no_086_-_open_data.pdf)
