@@ -87,11 +87,11 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 ### Thing 5: Describing data
 *Getting started*  
-* Learn more about metadata schema, controlled vocabularies and why describing data is a good practice. Read ‘What are Metadata Standards’ from the Digital Curation Center at [http://www.dcc.ac.uk/resources/briefing-papers/standards-watch-papers/what-are-metadata-standards](http://www.dcc.ac.uk/resources/briefing-papers/standards-watch-papers/what-are-metadata-standards) and ‘Preparing Datasets - Metadata’ from ADS at [http://archaeologydataservice.ac.uk/advice/PreparingDatasets.xhtml#Metadata0](http://archaeologydataservice.ac.uk/advice/PreparingDatasets.xhtml#Metadata0).
+* Learn more about metadata schema, controlled vocabularies and why describing data is a good practice. Read *What are Metadata Standards* from the Digital Curation Center at <http://www.dcc.ac.uk/resources/briefing-papers/standards-watch-papers/what-are-metadata-standards> and *Preparing Datasets - Metadata* from ADS at <http://archaeologydataservice.ac.uk/advice/PreparingDatasets.xhtml#Metadata0>.
 * Consider your current metadata practices - do they follow any schema or incorporate any vocabularies? Are your metadata fields described and documented explicitly?
 
 *Learn more*  
-* Review some of the vocabularies and thesauri related to archaeological data including Getty Vocabularies at [http://www.getty.edu/research/tools/vocabularies/index.html](http://www.getty.edu/research/tools/vocabularies/index.html) and  Perio.dO at [http://perio.do/en/](http://perio.do/en/).
+* Review some of the vocabularies and thesauri related to archaeological data including Getty Vocabularies at <http://www.getty.edu/research/tools/vocabularies/index.html> and  Perio.dO at <http://perio.do/en/>.
 * Consider whether these vocabularies could be incorporated into your data practices and workflow.
 
 *Challenge me*  
@@ -100,11 +100,11 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 ### Thing 6: Cleaning, processing, and documentation
 *Getting started*  
-* Learn about processing and documentation in ‘Data Selection: Preservation Intervention Points’ at [http://guides.archaeologydataservice.ac.uk/g2gp/ArchivalStrat_1-3](http://guides.archaeologydataservice.ac.uk/g2gp/ArchivalStrat_1-3).
+* Learn about processing and documentation in ‘Data Selection: Preservation Intervention Points’ at <http://guides.archaeologydataservice.ac.uk/g2gp/ArchivalStrat_1-3>.
 * Consider your own workflow and the different stages at which your data is transformed. Write down the equipment and instruments you use to collect data and the process for obtaining the data from those instruments (i.e. calibrating, exporting)
 
 *Learn more*  
-* Investigate tools that facilitate data cleaning and documentation such as Open Refine at [http://guides.archaeologydataservice.ac.uk/g2gp/ArchivalStrat_1-3](http://guides.archaeologydataservice.ac.uk/g2gp/ArchivalStrat_1-3).
+* Investigate tools that facilitate data cleaning and documentation such as Open Refine at <http://guides.archaeologydataservice.ac.uk/g2gp/ArchivalStrat_1-3>.
 * Attend a workshop or go through a tutorial to learn how to use the tool and its features including exporting out the record of the cleaning, etc
 
 *Challenge me*  
@@ -112,7 +112,7 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 ### Thing 7: Sharing
 *Getting started*  
-* Learn more about why sharing data matters in archaeology. Explore publications on archaeological data, reuse, and publishing including "Openness and archaeology's information ecosystem" at <https://escholarship.org/uc/item/9tq378jg> and "Other People's Data: A Demonstration of the Imperative of Publishing Primary Data" at <https://escholarship.org/uc/item/1nt1v9n2>
+* Learn more about why sharing data matters in archaeology. Explore publications on archaeological data, reuse, and publishing including *Openness and archaeology's information ecosystem* at <https://escholarship.org/uc/item/9tq378jg> and *Other People's Data: A Demonstration of the Imperative of Publishing Primary Data* at <https://escholarship.org/uc/item/1nt1v9n2>
 * Consider times you haven't been able to access data associated with your research. How did you address this issue? 
 * Consider times you have tried to use collaborators or colleagues data in your own research. What steps did you have to take to make sense of the data, to incorporate it into your own dataset, or to analyze it? What might have made this process easier?
 
@@ -128,8 +128,8 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 ### Thing 8: Citation
 *Getting started*  
 * Data citation continues the tradition of acknowledging other people’s work and ideas. Along with books, journals and other scholarly works, it is now possible to formally cite research datasets and even the software that was used to create or analyse the data. Consider if there are times your data was reused by someone else and whether you received scholarly credit.
-* Read the Force11 Joint Declaration of Data Citation Principles at [https://www.force11.org/datacitationprinciples](https://www.force11.org/datacitationprinciples).
-* Watch this video on persistent identifiers and data citation at [https://www.youtube.com/watch?v=PgqtiY7oZ6k](https://www.youtube.com/watch?v=PgqtiY7oZ6k).
+* Read the Force11 Joint Declaration of Data Citation Principles at <https://www.force11.org/datacitationprinciples>.
+* Watch this video on persistent identifiers and data citation at <https://www.youtube.com/watch?v=PgqtiY7oZ6k>.
 * Search data repositories and services such as ADS, tDAR, and Open Context and see how their recommended citations are formatted.
 
 *Learn more*  
@@ -154,11 +154,11 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 ### Thing 10: FAIR in archaeology
 *Getting started*  
-* Read through the FAIR data principles at [https://www.go-fair.org/fair-principles/](https://www.go-fair.org/fair-principles/).
+* Read through the FAIR data principles at <https://www.go-fair.org/fair-principles/>.
 * Consider what these principles mean in practice and how each of the Things you are implementing support FAIR archaeological data. What would it mean if every archaeologist followed these principles?
 
 *Learn more*  
-* Watch the webinar "Enabling FAIR Data" at [https://www.dataone.org/webinars/enabling-fair-data](https://www.dataone.org/webinars/enabling-fair-data) or "Are we FAIR yet?" at [https://rd-alliance.org/webinar-are-we-fair-yet](https://rd-alliance.org/webinar-are-we-fair-yet).
+* Watch the webinar *Enabling FAIR Data* at <https://www.dataone.org/webinars/enabling-fair-data> or *Are we FAIR yet?* at <https://rd-alliance.org/webinar-are-we-fair-yet>.
 
 *Challenge me*  
-* Assess the 'FAIRness' of one of your recent datasets using the [FAIR self-assessment tool from ARDC](https://www.ands-nectar-rds.org.au/fair-tool). What did you learn about your data? How can you do better?
+* Assess the *FAIRness* of one of your recent datasets using the [FAIR self-assessment tool from ARDC](https://www.ands-nectar-rds.org.au/fair-tool). What did you learn about your data? How can you do better?
