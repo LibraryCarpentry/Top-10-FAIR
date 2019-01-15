@@ -165,4 +165,4 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 ## References
 
-[tdar]: [https://www.tdar.org/about/]
+[tdar]: https://www.tdar.org/about/
