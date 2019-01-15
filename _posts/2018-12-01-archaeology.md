@@ -51,7 +51,7 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 ### Thing 2: Preservation
 *Getting started*  
-* Browse the websites for archaeological data repositories and preservation services ([Archaeology Data Service](http://archaeologydataservice.ac.uk/), [tDAR][tdar], [Open Context](https://opencontext.org/)).
+* Browse the websites for archaeological data repositories and preservation services ([Archaeology Data Service](http://archaeologydataservice.ac.uk/), [tDAR](https://www.tdar.org/about/), [Open Context](https://opencontext.org/)).
 * Identify which service(s) contain data of interest to your work. Get familiar searching the services.
 * Read [Why Deposit Data](http://archaeologydataservice.ac.uk/deposit/Why.xhtml) and consider what is significant about your data, what requirements you need to meet, and which reasons resonate with your work and beliefs.
 
@@ -162,7 +162,3 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 *Challenge me*  
 * Assess the 'FAIRness' of one of your recent datasets using the [FAIR self-assessment tool from ARDC](https://www.ands-nectar-rds.org.au/fair-tool). What did you learn about your data? How can you do better?
-
-## References
-
-[tdar]: https://www.tdar.org/about/
