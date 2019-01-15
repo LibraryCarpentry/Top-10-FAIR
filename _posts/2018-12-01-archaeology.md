@@ -15,7 +15,7 @@ Researchers, scholars, employees, students, volunteers -- anyone working with or
 You don’t have to do all of the Things, and in fact, you may not be able to do every Thing. However, familiarize yourself with each Thing and implement those which suit your work and interests. Try to schedule time to learn more about a Thing regularly and work through how you could integrate it into your own research practices.
 
 ## Why this guide?
-Archaeological data is costly to collect, difficult or impossible to re-collect, and frequently lacks the context or documentation to reuse. Despite this, the domain has not yet coalesced around standards, though guidelines and data services are gaining traction. This guide helps introduce these services and calls out resources that can facilitate the adoption of best practices.
+Archaeological data is costly to collect, difficult or impossible to re-collect, and frequently lacks the context or documentation to reuse. Because of this, the domain has not yet coalesced around standards, though guidelines and data services are gaining traction. This guide helps introduce these services and calls out resources that can facilitate the adoption of leading practices.
 
 ## Data in archaeology 
 Archaeologists collect and work with a wide range of data types: textual, visual (raster, vector), tabular (spreadsheets, databases), spatial, audio, 3D, etc. This makes the creation and adoption of standards surrounding data management challenging but also even more necessary as these varied types frequently need to be analyzed together and shared among collaborators. 
@@ -37,7 +37,7 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 ## Thing 1: Understanding the lifecycle of research data
 *Getting started*  
-* Read '[Planning for the Creation of Digital Data](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-0)’ in the Digital Antiquity Guides to Good Practice.
+* Read [Planning for the Creation of Digital Data](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-0) in the Digital Antiquity Guides to Good Practice.
 * Consider the types of data collected and used within your own work. How many file formats do you work with regularly? How many files have become inaccessible to you over the years? To your colleagues or collaborators?
 
 *Learn more*  
@@ -45,15 +45,15 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 * Map out the lifecycle of data on your most recent project. What processes and workflows have gotten you to the stage you are at currently? What can you do to facilitate the ongoing use and reuse of your data?
 
 *Challenge me*  
-* Read ‘[Project Documentation](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-1)’ and '[Project Metadata](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2)’ in the Digital Antiquity Guides to Good Practice.
+* Read [Project Documentation](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-1) and [Project Metadata](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2) in the Digital Antiquity Guides to Good Practice.
 * Draft documentation for your most recent project or a forthcoming project. Include information about the background, methodology employed or to be employed, a narrative on the site and its context (historically, archaeologically, culturally, etc). This documentation will not only facilitate the eventual dissemination of your data but also any proposals or publications about the work itself.
 * Review the metadata for this project, document in a single location what metadata you currently record or plan to record and compare it to the metadata tables at [http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2]). Are you missing any Project Metadata? File-Level Metadata (general and technical)? How can you fill in any gaps?
 
 ### Thing 2: Preservation
 *Getting started*  
-* Browse the websites for archaeological data repositories and preservation services ([Archaeology Data Service](http://archaeologydataservice.ac.uk/), [tDAR](https://www.tdar.org/about/), [Open Context](https://opencontext.org/)).
+* Browse the websites for archaeological data repositories and preservation services ([Archaeology Data Service](http://archaeologydataservice.ac.uk/), [tdar][tDAR], [Open Context](https://opencontext.org/)).
 * Identify which service(s) contain data of interest to your work. Get familiar searching the services.
-* Read ‘[Why Deposit Data](http://archaeologydataservice.ac.uk/deposit/Why.xhtml)’ and consider what is significant about your data, what requirements you need to meet, and which reasons resonate with your work and beliefs.
+* Read [Why Deposit Data](http://archaeologydataservice.ac.uk/deposit/Why.xhtml) and consider what is significant about your data, what requirements you need to meet, and which reasons resonate with your work and beliefs.
 
 *Learn more*  
 * Dig into the deposit instructions and criteria for each repository and service and identify which is the best fit for your own data.
@@ -162,3 +162,7 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 *Challenge me*  
 * Assess the 'FAIRness' of one of your recent datasets using the [FAIR self-assessment tool from ARDC](https://www.ands-nectar-rds.org.au/fair-tool). What did you learn about your data? How can you do better?
+
+## References
+
+[tdar][https://www.tdar.org/about/]
