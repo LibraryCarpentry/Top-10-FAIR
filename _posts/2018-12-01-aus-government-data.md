@@ -252,10 +252,22 @@ Key points: “....”
 
 ### Thing 9: Vocabularies - Assisting with interoperability
 
-Repurpose content from here: https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12 
+##### Beginner Activity
+Controlled vocabularies for data description
 
+In addition to selecting a metadata standard or schema, whenever possible you should also use a controlled vocabulary. A controlled vocabulary provides a consistent way to describe data - location, time, place name, and subject.
+
+Controlled vocabularies significantly improve data discovery. It makes data more shareable with researchers in the same discipline because everyone is ‘talking the same language’ when searching for specific data e.g. plants, animals, medical conditions, places etc
+
+1. Start by browsing Controlling your Language: a Directory of Metadata Vocabularies from JISC in the UK. Make sure you scroll down to 5. Conclusion - it’s worth a read.
+
+##### Advanced Activity
+Have a browse around the stunning level of data description and data contained in the [Atlas of Living Australia](http://www.ala.org.au/).
+
+Other examples:
 * Geosciences Australia - http://ldweb.ga.gov.au/def/voc/ga/ 
 * National Environmental Information Infrastructure - http://www.neii.gov.au/vocabulary/vocabulary-providers
+* Australian Governments' Interactive Functions Thesaurus (AGIFT) - http://www.naa.gov.au/information-management/managing-information-and-records/describing/AGIFT/index.aspx (maintained by Australian Government Linked Open Data [working group](http://www.linked.data.gov.au))
 
 **Data Dictionaries**
 
