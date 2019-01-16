@@ -12,7 +12,7 @@ See ARDC image [summarising](https://www.ands.org.au/__data/assets/image/0011/14
 Figure 1; FAIR in a nutshell. Image: ARDC 2018 - CC-BY 4.0.
 
 ## Description
-Governments have a mandate to make non-sensitive data open, e.g. Australian [Government Public Data Policy Statement](https://www.pmc.gov.au/resource-centre/public-data/australian-government-public-data-policy-statement), which says inter alia “to release non-sensitive data as open by default... to extend the value of public data for the benefit of the Australian public.” FAIR data is a way to extend the value of data. The largest 20 nations, the G20, agreed to make [Open Data Principles](http://www.g20.utoronto.ca/2015/G20-Anti-Corruption-Open-Data-Principles.pdf) a priority at the 2015 meeting in Turkey, saying “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2).
+Governments have a mandate to make non-sensitive data open. For example, the Australian [Government Public Data Policy Statement](https://www.pmc.gov.au/resource-centre/public-data/australian-government-public-data-policy-statement) says  “Australian Government entitites will ... make non-sensitive data open by default...make high value data available for use by the public, industry and academia... ensure non-sensitive publicly funded research data is made open for use and reuse... to extend the value of public data for the benefit of the Australian public.” FAIR data is a way to extend the value of data. The largest 20 nations, the G20, agreed to make [Open Data Principles](http://www.g20.utoronto.ca/2015/G20-Anti-Corruption-Open-Data-Principles.pdf) a priority at the 2015 meeting in Turkey, saying “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2).
 
 ## Audience
 Government data custodians
@@ -47,7 +47,7 @@ Source: [Katie Hannan](mailto:katie.hannan@csiro.au), 2018, CC-BY.
 
 ##### Beginner Activity 
 **International**
-G20: Open Government Forum; G20 Turkey 2015. “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2)
+G20: Open Government Forum; G20 Turkey 2015. “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2) Read and consider G20 [Open Data Principles](http://www.g20.utoronto.ca/2015/G20-Anti-Corruption-Open-Data-Principles.pdf). 
 
 Familiarise yourself with your State or Territories Data Policy. See links in [Appendix 1](#Appendix-1).
 
@@ -141,8 +141,6 @@ See https://data.gov.au/dataset/list-of-australian-government-data-portals for a
 
 Some reusable content here - https://ecu.au.libguides.com/10-marine-science-rdm-things/Thing6 
 
-(Suggested by Humanities Sprint (note - link here with Humanities Spring page when finished?) -  Findable Things - Identifiers, Data Description)
-
 ##### Beginner Activity
 Read a data description on data.gov.au  eg [Arts Victoria](https://www.data.gov.au/organization/artsvictoria), [ABC](https://www.data.gov.au/organization/australianbroadcastingcorporation) or Research data Australia
 Eg [National Archive of Australia](https://researchdata.ands.org.au/contributors/national-archives-of-australia), [Australian Antarctic Data Centre](https://researchdata.ands.org.au/contributors/australian-antarctic-data-centre), [CSIRO](https://researchdata.ands.org.au/contributors/commonwealth-scientific-and-industrial-research-organisation) (Commonwealth Scientific and Industrial Research Org), [Geoscience Australia](https://researchdata.ands.org.au/contributors/geoscience-australia).
@@ -170,7 +168,7 @@ Alternatively, post your description to a public cloud service, such as [Zenodo]
 
 ### Thing 5: Identifiers
 
-To make data findable, It has to be uniquely and persistently stored with an identifier. A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. (Source: Bio-Diversity Sprint doc **need to add link here**)
+To make data findable, It has to be uniquely and persistently stored with an identifier. A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. See also [ANDS Guide: Digital Object Identifiers (DOI) System for Research Data]](https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf).
 
 
 See who mints ANDS DOIs, including NSW Office of Heritage and Environment, Bureau of Meteorology, CSIRO, Geoscience Australia, Dept of Environment.
@@ -211,14 +209,14 @@ http://www.bom.gov.au/waterdata/index.shtml?selected=Copyright
 
 ### Thing 7: Dirty data
 
-Why is ”clean” data important? Public policy, changes to medical protocols and economic decisions all depend on accurate and complete data. Thing 10 looks at the why and what of “dirty data.”
+Why is ”clean” data important? Public policy, changes to medical protocols and economic decisions all depend on accurate and complete data. See further at ECU resource which looks at the why and what of “dirty data.”
 
 https://ecu.au.libguides.com/10-marine-science-rdm-things/Thing10 
 
 
 ##### Beginner Activity
 
-Read this case study? The Data Retriever automates the tasks of finding, downloading, and cleaning up publicly available data, and then stores them in a variety of databases and file formats. This lets data analysts spend less time cleaning up and managing data, and more time analysing it.
+Read this case study. The Data Retriever automates the tasks of finding, downloading, and cleaning up publicly available data, and then stores them in a variety of databases and file formats. This lets data analysts spend less time cleaning up and managing data, and more time analysing it.
 https://frictionlessdata.io/articles/the-data-retriever/ 
 
 * Bad data guide - https://github.com/Quartz/bad-data-guide 
@@ -274,31 +272,32 @@ Standardised, accepted terms and protocols used for data collection
 
 ##### Data Impact
 
-Data reuse - hard to check/track when you don’t have persistent identifiers and there’s not much of a data citation culture.
+Data reuse - It is hard to check/track when you don’t have persistent identifiers and there’s not much of a data citation culture.
 
 Web stats
 Selected data.gov.au web analytics - https://search.data.gov.au/dataset/ds-dga-9fa9bfda-96b3-4214-8a09-497af105524b/details?q=data.gov.au
 
 Some old uses of open data: https://data.gov.au/showcase
 
-Use in GovHack - 
+Use in GovHack(AU) - https://twitter.com/govhackau?lang=en
 
 Tracking identifiers - data citation
 
+##### Beginner Activity
 Looking at the broader impact of how the data has been used and the benefits it has brought to society, industry, economy, etc. is a richer source of impact evidence than just looking at citations.
 
 https://www.ands.org.au/working-with-data/articulating-the-value-of-open-data/data-engagement-and-impact
 
 
 
-#### Other topics: (consider where fit in FAIR)
-**Data People** - data technologists, data librarians, data trainers, data leaders, data scientists
-**Data Governance** - policy, procedure, planning, improving systems, request funding, build business cases for change
-**Data Training** - when: induction, checkups, when problems occur; what? Store, describe, how and why do data. Advanced topics eg sensitive data, spatial data, vocabularies, provenance.
+#### Postscript: Other topics to consider: 
+* **Data People** - data technologists, data librarians, data trainers, data leaders, data scientists
+* **Data Governance** - policy, procedure, planning, improving systems, request funding, build business cases for change
+* **Data Training** - when: induction, checkups, when problems occur; what? Store, describe, how and why do data. Advanced topics eg sensitive data, spatial data, vocabularies, provenance.
 
 See for example slide 54 in this [Data Readiness](https://www.slideshare.net/RichardFerrers/the-national-eresearch-and-data-management-landscape-cdu-data-readiness-training-nov-18) slideshow as well as the 24th edition of [Share](https://www.ands.org.au/news-and-events/share-newsletter/share-24) (cover shown below).
 
-![https://www.ands.org.au/__data/assets/image/0008/417716/share-24-cover-image-700x500.jpg](https://www.ands.org.au/__data/assets/image/0008/417716/share-24-cover-image-700x500.jpg)
+![People in Data](https://www.ands.org.au/__data/assets/image/0008/417716/share-24-cover-image-700x500.jpg)
 
 ### References:
 
