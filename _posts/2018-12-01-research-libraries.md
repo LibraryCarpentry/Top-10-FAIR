@@ -30,7 +30,7 @@ There’s a lot of hype about the FAIR Data Principles. But why should librarian
 * Where are you at in your own understanding of the FAIR Data Principles?
 
 **Want more?**  
-* Read TIB's expanded walk through of the [FAIR data principles](https://blogs.tib.eu/wp/tib/wp-content/uploads/sites/3/2017/09/The-FAIR-Data-Principles.pdf) (18 minute read). Take note of the roles for scientists and repositories and think about where you might use these examples in discussion with researchers and colleagues.
+Read TIB's expanded walk through of the [FAIR data principles](https://blogs.tib.eu/wp/tib/wp-content/uploads/sites/3/2017/09/The-FAIR-Data-Principles.pdf) (18 minute read). Take note of the roles for scientists and repositories and think about where you might use these examples in discussion with researchers and colleagues.
 
 ### Thing 2: How FAIR are your data?
 The FAIR Principles are easily understood in theory but more challenging when applied in practice. In this exercise, you will be using the Australian Research Data Commons (ARDC) Data self-assessment tool to assess the 'FAIRness' of one of your library’s datasets.
@@ -112,8 +112,8 @@ The FAIR data principles call for open, standardised protocols for accessing dat
 
 **Activity:**  
 1. Find out how well your library supports [ORCIDs](https://orcid.org/) and [DOIs](http://www.doi.org/):
-2. Do your library systems support the identification of researchers via an ORCID? Do you authenticate against the ORCID registry? Do you have an ORCID?
-3. Do your library systems, such as your institutional repository, support the issuing of Digital Object Identifiers (DOIs) for research data and related materials?
+* Do your library systems support the identification of researchers via an ORCID? Do you authenticate against the ORCID registry? Do you have an ORCID?
+* Do your library systems, such as your institutional repository, support the issuing of Digital Object Identifiers (DOIs) for research data and related materials?
 
 **Consider:**  
 * What other types of persistent identifiers do you think your library should support? Why or why not?
