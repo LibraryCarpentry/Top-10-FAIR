@@ -267,7 +267,7 @@ Have a browse around the stunning level of data description and data contained i
 Other examples:
 * Geosciences Australia - http://ldweb.ga.gov.au/def/voc/ga/ 
 * National Environmental Information Infrastructure - http://www.neii.gov.au/vocabulary/vocabulary-providers
-* Australian Governments' Interactive Functions Thesaurus (AGIFT) - http://www.naa.gov.au/information-management/managing-information-and-records/describing/AGIFT/index.aspx (maintained by Australian Government Linked Open Data [working group](http://www.linked.data.gov.au))
+* Australian Governments' Interactive Functions Thesaurus (AGIFT) - http://www.naa.gov.au/information-management/managing-information-and-records/describing/AGIFT/index.aspx (of interest to Australian Government Linked Open Data [working group](http://www.linked.data.gov.au))
 
 **Data Dictionaries**
 
