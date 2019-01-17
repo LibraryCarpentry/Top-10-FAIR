@@ -4,19 +4,19 @@
 
 # Basic
 name:               "Top 10 FAIR Data & Software Things"
-description:        "Description of Top 10..."
+description:        "The Top 10 FAIR Data & Software Global Sprint was held online over the course of two-days (29-30 November 2018), where participants from around the world were invited to develop brief guides (stand alone, self paced training materials), called “Things”, that can be used by the research community to understand FAIR in different contexts as well as some initial steps to consider. "
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//https://libcce.github.io/Top-10-FAIR/"
-author:             "libcce"
+url:                "//https://librarycarpentry.org/Top-10-FAIR/"
+author:             "librarycarpentry"
 twitter:
-  username:         "libcce"
+  username:         "LibCarpentry"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
 
 # URL
-baseurl:            "https://libcce.github.io/Top-10-FAIR/"
+baseurl:            "https://librarycarpentry.org/Top-10-FAIR/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
@@ -26,9 +26,9 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//libcce.github.io/Top-10-FAIR/about"
-  - name:           "Download"
-    href:           "//github.com/libcce/Top-10-FAIR/releases"
+    href:           "//librarycarpentry.org/Top-10-FAIR/about"
+  - name:           "Download (Not Yet Available)"
+    href:           "//librarycarpentry.org/Top-10-FAIR"
 
 # Sass
 sass:

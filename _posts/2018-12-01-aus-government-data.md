@@ -2,33 +2,28 @@
 title: "Australian Government Data/Collections"
 ---
 
+## Sprinters: 
+Katie Hannan, Data Librarian (CSIRO), Richard Ferrers, Research Data Analyst (ARDC), Keith Russell, Manager Engagements (ARDC)
+
 ## FAIR data
 See ARDC image [summarising](https://www.ands.org.au/__data/assets/image/0011/1416098/FAIR-Data-image-map-graphic-v2-721px.png) what FAIR means; see also [Force 11](https://www.force11.org/group/fairgroup/fairprinciples) definition.
 
 ![ARDC](https://www.ands.org.au/__data/assets/image/0011/1416098/FAIR-Data-image-map-graphic-v2-721px.png)
 Figure 1; FAIR in a nutshell. Image: ARDC 2018 - CC-BY 4.0.
 
-##### Brief Description
-Governments have a mandate to make non-sensitive data open, e.g. Australian [Government Public Data Policy Statement](https://www.pmc.gov.au/resource-centre/public-data/australian-government-public-data-policy-statement), which says inter alia “to release non-sensitive data as open by default... to extend the value of public data for the benefit of the Australian public.” FAIR data is a way to extend the value of data. The largest 20 nations, the G20, agreed to make [Open Data Principles](http://www.g20.utoronto.ca/2015/G20-Anti-Corruption-Open-Data-Principles.pdf) a priority at the 2015 meeting in Turkey, saying “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2).
+## Description
+Governments have a mandate to make non-sensitive data open. For example, the Australian [Government Public Data Policy Statement](https://www.pmc.gov.au/resource-centre/public-data/australian-government-public-data-policy-statement) says  “Australian Government entitites will ... make non-sensitive data open by default...make high value data available for use by the public, industry and academia... ensure non-sensitive publicly funded research data is made open for use and reuse... to extend the value of public data for the benefit of the Australian public.” FAIR data is a way to extend the value of data. The largest 20 nations, the G20, agreed to make [Open Data Principles](http://www.g20.utoronto.ca/2015/G20-Anti-Corruption-Open-Data-Principles.pdf) a priority at the 2015 meeting in Turkey, saying “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2).
 
-##### Audience
-Government Data custodians
+## Audience
+Government data custodians
 
-##### Goals
+## Goal
 Help government data custodians to understand FAIR data principles
 
-##### Sprinters (content creators): 
-Katie Hannan, Data Librarian, CSIRO
-Richard Ferrers, Research Data Analyst, ARDC
-Keith Russell, Manager Engagements, ARDC
-Hao Min, Senior Policy Officer, Data Policy & Analysis Section| Economics Branch, Australian Government Department of Jobs and Small Business 
+# NB: Nomenclature and data:  
+Where “data” is used here, we also mean collections such as Cultural Collections, historical collections, documents, artefacts and other valuable collections.
 
-Comments and edits are most welcome.
-
-
-**NB: Nomenclature and Data:**  Where “data” is used here, we also mean collections such as Cultural Collections, historical collections, documents, artefacts and other valuable collections.
-
-### Table of Contents
+## Table of contents
 1. [Thing 1 - Why is data important?](#thing-1)
 2. [Thing 2 - Open data vs FAIR data](#thing-2)
 3. [Thing 3 - Data discovery (F)](#thing-3)
@@ -40,30 +35,26 @@ Comments and edits are most welcome.
 0. [Thing 9 - Vocabularies (I)](#thing-9)
 0. [Thing 10 - Data Impact \(R\)](#thing-10)
 
-**Next steps:**  
-Perhaps can send to data.gov, data.vic, some other Govt data custodians for comment.  Eg Simon De Sousa (simon.desousa@dpc.vic.gov.au), Suneel Jethani (suneel.jethani@dpc.vic.gov.au). RF requested user feedback from data.vic (30.11). They may be able to suggest someone. 
+## Things
 
-**Other things to consider; data people, data governance, data training**
+### Thing 1: Why is data important? 
 
+Read G20, Australian and States policies on Open Data
 
-### Thing 1 
-
-**Why is data important? Read G20, Australian and States policies on Open Data**
 ![Figure 2](https://i.imgur.com/eGJmbkm.jpg)
 Figure 2; Data sharing drivers 
 Source: [Katie Hannan](mailto:katie.hannan@csiro.au), 2018, CC-BY.
 
-
 ##### Beginner Activity 
 **International**
-G20: Open Government Forum; G20 Turkey 2015. “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2)
+G20: Open Government Forum; G20 Turkey 2015. “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2) Read and consider G20 [Open Data Principles](http://www.g20.utoronto.ca/2015/G20-Anti-Corruption-Open-Data-Principles.pdf). 
 
-Familiarise yourself with your State or Territories Data Policy. See links in Appendix 1.
+Familiarise yourself with your State or Territories Data Policy. See links in [Appendix 1](#Appendix-1).
 
 **Australia** 
 
-* Public data policy statement - https://www.pmc.gov.au/public-data/public-data-policy 
-Office of the Australian Information Commissioner: Principles on open public sector information-  https://www.oaic.gov.au/information-policy/information-policy-resources/principles-on-open-public-sector-information
+* [Public data policy statement](https://www.pmc.gov.au/public-data/public-data-policy) 
+[Office of the Australian Information Commissioner: Principles on open public sector information](https://www.oaic.gov.au/information-policy/information-policy-resources/principles-on-open-public-sector-information)
   * Principle 1: Open access to information — a default position
 “information held by Australian Government agencies is a valuable national resource. If there is no legal need to protect the information it should be open to public access.”
   * Principle 3: Effective information governance
@@ -97,9 +88,7 @@ If your organisation doesn’t have a policy on open data, who are the key stake
 What main headings would you need to include as part of your data policy? 
 
 
-### Thing 2
-
-#####  Open Data vs FAIR data
+### Thing 2: Open data vs FAIR data
 
 Read https://www.go-fair.org/faq/ask-question-difference-fair-data-open-data/ 
 Can you think of examples of data you deal with that cannot be made Open but can be made FAIR?
@@ -119,14 +108,12 @@ How FAIR is your data? - https://www.ands-nectar-rds.org.au/fair-tool
 Suggest using this now, and then finishing off the modules, making some changes to a data collection and then testing again using the FAIR data tool.
 
 
-### Thing 3
+### Thing 3: Data discovery
 
-##### Data Discovery
-
-What’s a data repository?
-What’s a data portal?
-Where to find data? 
-Where to store data?
+* What’s a data repository?
+* What’s a data portal?
+* Where to find data? 
+* Where to store data?
 
 * Data.gov.au (and search.data.gov.au!) - find - this is an aggregator
 See https://data.gov.au/dataset/list-of-australian-government-data-portals for a list of Australian Gov Data Portals (current as of March 2017). Some other data portals appear on https://data.gov.au/harvest. 
@@ -144,20 +131,15 @@ See https://data.gov.au/dataset/list-of-australian-government-data-portals for a
 * Finland - https://vm.fi/en/opendata    
 * Singapore - https://data.gov.sg
 
-### Thing 4
-
-##### Describing your data or collection
+### Thing 4: Describing your data or collection
 
 * Including a description of data. What should go in a description?
 * What makes a good description? See [ANDS Content Providers Guide on descriptions](https://documentation.ands.org.au/display/DOC/Description) -> Best Practice -> Writing good descriptions
-  * Write the description for a reader who has a general familiarity with a research area but is not a specialist—this will make data more accessible for cross-disciplinary use.
-  * Don't use specialist acronyms or obscure jargon.
-  * Don't assume a reader has specialist knowledge.
-
+* Write the description for a reader who has a general familiarity with a research area but is not a specialist—this will make data more accessible for cross-disciplinary use.
+* Don't use specialist acronyms or obscure jargon.
+* Don't assume a reader has specialist knowledge.
 
 Some reusable content here - https://ecu.au.libguides.com/10-marine-science-rdm-things/Thing6 
-
-(Suggested by Humanities Sprint (note - link here with Humanities Spring page when finished?) -  Findable Things - Identifiers, Data Description)
 
 ##### Beginner Activity
 Read a data description on data.gov.au  eg [Arts Victoria](https://www.data.gov.au/organization/artsvictoria), [ABC](https://www.data.gov.au/organization/australianbroadcastingcorporation) or Research data Australia
@@ -184,11 +166,9 @@ Q: What type of data identifier does a government data custodian have?
 Publish your data description on your resume, especially if online e.g. [LinkedIn](https://www.linkedin.com/). Send your data description to your data librarian, for addition to your Institutional Repository or Data Portal.
 Alternatively, post your description to a public cloud service, such as [Zenodo](https://zenodo.org/), [Figshare](https://figshare.com/) or [Data Dryad](https://datadryad.org/). No data need be included. A description record is valuable in itself as it reveals the existence of data, previously unknown and inaccessible.
 
-### Thing 5
+### Thing 5: Identifiers
 
-##### Identifiers
-
-To make data findable, It has to be uniquely and persistently stored with an identifier. A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. (Source: Bio-Diversity Sprint doc **need to add link here**)
+To make data findable, It has to be uniquely and persistently stored with an identifier. A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. See also [ANDS Guide: Digital Object Identifiers (DOI) System for Research Data]](https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf).
 
 
 See who mints ANDS DOIs, including NSW Office of Heritage and Environment, Bureau of Meteorology, CSIRO, Geoscience Australia, Dept of Environment.
@@ -213,9 +193,7 @@ Visit http://www.doi.org/ and try resolving these DOI numbers:
 10.26179/5bf63428ea2a1
 10.26186/5b76556b396c0
 
-### Thing 6 
-
-##### Licensing
+### Thing 6: Licensing
 See the [licensing guide](https://www.ands.org.au/guides/research-data-rights-management): what is the appropriate licence for data produced by a government agency?
 
 **Refer to** [AU Govt Data Statement](https://www.pmc.gov.au/public-data/public-data-policy)**:**
@@ -229,17 +207,16 @@ Examples of licensing statements:
 http://www.bom.gov.au/waterdata/index.shtml?selected=Copyright
 
 
-### Thing 7
-##### Dirty Data
+### Thing 7: Dirty data
 
-Why is ”clean” data important? Public policy, changes to medical protocols and economic decisions all depend on accurate and complete data. Thing 10 looks at the why and what of “dirty data.”
+Why is ”clean” data important? Public policy, changes to medical protocols and economic decisions all depend on accurate and complete data. See further at ECU resource which looks at the why and what of “dirty data.”
 
 https://ecu.au.libguides.com/10-marine-science-rdm-things/Thing10 
 
 
 ##### Beginner Activity
 
-Read this case study? The Data Retriever automates the tasks of finding, downloading, and cleaning up publicly available data, and then stores them in a variety of databases and file formats. This lets data analysts spend less time cleaning up and managing data, and more time analysing it.
+Read this case study. The Data Retriever automates the tasks of finding, downloading, and cleaning up publicly available data, and then stores them in a variety of databases and file formats. This lets data analysts spend less time cleaning up and managing data, and more time analysing it.
 https://frictionlessdata.io/articles/the-data-retriever/ 
 
 * Bad data guide - https://github.com/Quartz/bad-data-guide 
@@ -254,8 +231,7 @@ https://frictionlessdata.io/articles/the-data-retriever/
 * Clean Your Data: Getting Started with OpenRefine [video] - https://www.youtube.com/watch?v=wGVtycv3SS0
 
 
-### Thing 8
-##### Working with sensitive data
+### Thing 8: Working with sensitive data
 What is sensitive data?
 
 FAIR data doesn’t need to be published as open data. See Thing 2.
@@ -274,13 +250,24 @@ Key points: “.....”
 Key points: “....”
 * Guiding Principles for Ethical Research (U.S National Institutes of Health) - https://www.nih.gov/health-information/nih-clinical-research-trials-you/guiding-principles-ethical-research
 
-### Thing 9
-**Vocabularies** - Assisting with interoperability
+### Thing 9: Vocabularies - Assisting with interoperability
 
-Repurpose content from here: https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23/thing-12 
+##### Beginner Activity
+Controlled vocabularies for data description
 
+In addition to selecting a metadata standard or schema, whenever possible you should also use a controlled vocabulary. A controlled vocabulary provides a consistent way to describe data - location, time, place name, and subject.
+
+Controlled vocabularies significantly improve data discovery. It makes data more shareable with researchers in the same discipline because everyone is ‘talking the same language’ when searching for specific data e.g. plants, animals, medical conditions, places etc
+
+1. Start by browsing Controlling your Language: a Directory of Metadata Vocabularies from JISC in the UK. Make sure you scroll down to 5. Conclusion - it’s worth a read.
+
+##### Advanced Activity
+Have a browse around the stunning level of data description and data contained in the [Atlas of Living Australia](http://www.ala.org.au/).
+
+Other examples:
 * Geosciences Australia - http://ldweb.ga.gov.au/def/voc/ga/ 
 * National Environmental Information Infrastructure - http://www.neii.gov.au/vocabulary/vocabulary-providers
+* Australian Governments' Interactive Functions Thesaurus (AGIFT) - http://www.naa.gov.au/information-management/managing-information-and-records/describing/AGIFT/index.aspx (maintained by Australian Government Linked Open Data [working group](http://www.linked.data.gov.au))
 
 **Data Dictionaries**
 
@@ -297,38 +284,41 @@ Standardised, accepted terms and protocols used for data collection
 
 ##### Data Impact
 
-Data reuse - hard to check/track when you don’t have persistent identifiers and there’s not much of a data citation culture.
+Data reuse - It is hard to check/track when you don’t have persistent identifiers and there’s not much of a data citation culture.
 
 Web stats
 Selected data.gov.au web analytics - https://search.data.gov.au/dataset/ds-dga-9fa9bfda-96b3-4214-8a09-497af105524b/details?q=data.gov.au
 
 Some old uses of open data: https://data.gov.au/showcase
 
-Use in GovHack - 
+Use in GovHack(AU) - https://twitter.com/govhackau?lang=en
 
 Tracking identifiers - data citation
 
+##### Beginner Activity
 Looking at the broader impact of how the data has been used and the benefits it has brought to society, industry, economy, etc. is a richer source of impact evidence than just looking at citations.
 
 https://www.ands.org.au/working-with-data/articulating-the-value-of-open-data/data-engagement-and-impact
 
 
 
-#### Other topics: (consider where fit in FAIR)
-**Data People** - data technologists, data librarians, data trainers, data leaders, data scientists
-**Data Governance** - policy, procedure, planning, improving systems, request funding, build business cases for change
-**Data Training** - when: induction, checkups, when problems occur; what? Store, describe, how and why do data. Advanced topics eg sensitive data, spatial data, vocabularies, provenance.
+#### Postscript: Other topics to consider: 
+* **Data People** - data technologists, data librarians, data trainers, data leaders, data scientists
+* **Data Governance** - policy, procedure, planning, improving systems, request funding, build business cases for change
+* **Data Training** - when: induction, checkups, when problems occur; what? Store, describe, how and why do data. Advanced topics eg sensitive data, spatial data, vocabularies, provenance.
 
 See for example slide 54 in this [Data Readiness](https://www.slideshare.net/RichardFerrers/the-national-eresearch-and-data-management-landscape-cdu-data-readiness-training-nov-18) slideshow as well as the 24th edition of [Share](https://www.ands.org.au/news-and-events/share-newsletter/share-24) (cover shown below).
 
-![https://www.ands.org.au/__data/assets/image/0008/417716/share-24-cover-image-700x500.jpg](https://www.ands.org.au/__data/assets/image/0008/417716/share-24-cover-image-700x500.jpg)
+![People in Data](https://www.ands.org.au/__data/assets/image/0008/417716/share-24-cover-image-700x500.jpg)
 
 ### References:
 
-Gov data links - https://toolkit.data.gov.au/index.php/Main_Page
-Public Records Office Victoria - https://www.prov.vic.gov.au/about-us/partnerships-and-collaborations/open-data
+* Gov data links - [https://toolkit.data.gov.au/index.php/Main_Page](https://toolkit.data.gov.au/index.php/Main_Page)
+* Public Records Office Victoria - [https://www.prov.vic.gov.au/about-us/partnerships-and-collaborations/open-data](https://www.prov.vic.gov.au/about-us/partnerships-and-collaborations/open-data)
 
-##### Appendix 1 - List of Australian State /Territory Government Open Data Policies
+### Appendix 1
+
+### List of Australian State /Territory Government Open Data Policies
 
 AU Federal Govt: Refer policy at Dept of Prime Minister and Cabinet. See also National Data Commissioner, ”responsible for implementing a simpler data sharing and release framework”.
 
@@ -336,32 +326,34 @@ Victoria AU: Data Access Policy - https://www.data.vic.gov.au/policy-and-standar
 “The Victorian Government recognises the benefits from and encourages the availability of Victorian government data for the public good. The DataVic Access Policy has been developed to support this recognition.”
 
 NSW
+
 Policy https://www.finance.nsw.gov.au/ict/resources/nsw-government-open-data-policy 
+
 “The objectives of this policy are to assist NSW Government agencies to:
 release data for use by the community, research, business and industry
 accelerate the use of data to derive new insights for better public services
 embed open data into business-as-usual...”
+
 Queensland
+
 Policy https://www.oic.qld.gov.au/publications/policies/open-data-strategy 
 
-
 Tasmania
+
 Policy http://www.egovernment.tas.gov.au/stats_matter/open_data/tasmanian_government_open_data_policy
 
 South Australia
+
 Policy https://digital.sa.gov.au/resources/topic/open-data/open-data-declaration 
 
 Western Australia
+
 Policy https://data.wa.gov.au/open-data-policy 
 
-
 ACT
-Policy http://www.cmd.act.gov.au/__data/assets/pdf_file/0011/859430/2016-Proactive-Release-of-Data-Open-Data-Policy.pdf  
 
+Policy [http://www.cmd.act.gov.au/__data/assets/pdf_file/0011/859430/2016-Proactive-Release-of-Data-Open-Data-Policy.pdf](http://www.cmd.act.gov.au/__data/assets/pdf_file/0011/859430/2016-Proactive-Release-of-Data-Open-Data-Policy.pdf)
 
 NT
-Policy (Darwin) https://www.darwin.nt.gov.au/sites/default/files/publications/attachments/policy_no_086_-_open_data.pdf 
 
-
-
-
+Policy (Darwin)[https://www.darwin.nt.gov.au/sites/default/files/publications/attachments/policy_no_086_-_open_data.pdf](https://www.darwin.nt.gov.au/sites/default/files/publications/attachments/policy_no_086_-_open_data.pdf)
