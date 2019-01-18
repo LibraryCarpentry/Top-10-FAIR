@@ -3,7 +3,7 @@ title: "Australian Government Data/Collections"
 ---
 
 ## Sprinters: 
-Katie Hannan, Data Librarian (CSIRO), Richard Ferrers, Research Data Analyst (ARDC), Keith Russell, Manager Engagements (ARDC)
+Katie Hannan, Data Librarian (CSIRO) & GovHack Board Member, Richard Ferrers, Research Data Analyst (ARDC), Keith Russell, Manager Engagements (ARDC)
 
 ## FAIR data
 See ARDC image [summarising](https://www.ands.org.au/__data/assets/image/0011/1416098/FAIR-Data-image-map-graphic-v2-721px.png) what FAIR means; see also [Force 11](https://www.force11.org/group/fairgroup/fairprinciples) definition.
@@ -39,7 +39,7 @@ Where “data” is used here, we also mean collections such as Cultural Collect
 
 ### Thing 1: Why is data important? 
 
-Read G20, Australian and States policies on Open Data
+Read G20, Australian Federal and State Government policies on Open Data
 
 ![Figure 2](https://i.imgur.com/eGJmbkm.jpg)
 Figure 2; Data sharing drivers 
@@ -70,14 +70,14 @@ See Appendix 1 for a list of Australian State Open Data Policies.
 
 ##### Intermediate Activity
 
-The following legislation may apply to the management of government data:
+The following legislation and guidelines may apply to the management of government data:
 
-* Archives Act 1983 - https://www.legislation.gov.au/Details/C2016C00772
-* Freedom of Information - http://my.csiro.au/Support-Services/Legal/FOI.aspx
-* Privacy - http://my.csiro.au/Support-Services/Legal/Privacy-Law.aspx
+* Archives Act 1983 - [https://www.legislation.gov.au/Details/C2016C00772](https://www.legislation.gov.au/Details/C2016C00772)
+* Freedom of Information - [https://www.oaic.gov.au/freedom-of-information/foi-act](https://www.oaic.gov.au/freedom-of-information/foi-act)
+* Privacy - [https://www.oaic.gov.au/privacy-law/australian-government-agencies-privacy-code/](https://www.oaic.gov.au/privacy-law/australian-government-agencies-privacy-code/)
 * Australian Government intellectual property rules - https://www.communications.gov.au/policy/policy-listing/australian-government-intellectual-property-rules 
-* Records Disposal Authority - An agency-specific records authority may have advice that you need to follow. Find your agency here - http://www.naa.gov.au/information-management/records-authorities/types-of-records-authorities/Agency-RA/index.aspx  
-* New Aus Govt Sharing and Release Legislation (open for public comment, shows where legislation is going): https://www.pmc.gov.au/sites/default/files/publications/australian-government-data-sharing-release-legislation_issues-paper.docx
+* Records Disposal Authority - An agency-specific records authority may have advice that you need to follow. Find your agency here - [http://www.naa.gov.au/information-management/records-authorities/types-of-records-authorities/Agency-RA/index.aspx](http://www.naa.gov.au/information-management/records-authorities/types-of-records-authorities/Agency-RA/index.aspx)
+* New Aus Govt Sharing and Release Legislation (open for public comment, shows where legislation is going): [https://www.pmc.gov.au/sites/default/files/publications/australian-government-data-sharing-release-legislation_issues-paper.docx](https://www.pmc.gov.au/sites/default/files/publications/australian-government-data-sharing-release-legislation_issues-paper.docx)
 
 
 
@@ -90,13 +90,13 @@ What main headings would you need to include as part of your data policy?
 
 ### Thing 2: Open data vs FAIR data
 
-Read https://www.go-fair.org/faq/ask-question-difference-fair-data-open-data/ 
+Read [https://www.go-fair.org/faq/ask-question-difference-fair-data-open-data/](https://www.go-fair.org/faq/ask-question-difference-fair-data-open-data/) 
 Can you think of examples of data you deal with that cannot be made Open but can be made FAIR?
 List some advantages in making this data FAIR.
 
 Does the current wording in the policy for Open Data encourage making the data FAIR? Where do you see gaps?
 
-See slide 14 here https://www.slideshare.net/sjDCC/open-fair-data-and-rdm 
+See slide 14 here [https://www.slideshare.net/sjDCC/open-fair-data-and-rdm](https://www.slideshare.net/sjDCC/open-fair-data-and-rdm) 
 
 ##### Beginner Activity
 
