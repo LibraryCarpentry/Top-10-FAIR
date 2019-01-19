@@ -1,3 +1,7 @@
+---
+title: "Oceanography"
+---
+
 # Top 10 FAIR data things for Oceanography - Draft    
 ##### UC San Diego Sprinters: Reid Otsuji, Stephanie Labou, Ryan Johnson, Guilherme Castelao, Bia Villas Boas
 ##### Version 1.0 (December, 2019)
@@ -319,14 +323,5 @@ On the ERDDAP server for **[Spray Underwater Glider data](https://spraydata.ucsd
 ---
 
 ## References
-1. [ANDS 23 (Research Data) Things]( https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23)
-
+1. [ANDS 23 (Research Data) Things]( https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23)  
 2. [Top 10 FAIR Data Things lessons](http://librarycarpentry.org/Top10FAIR/)
-
-
-
-
-
-
-
-
