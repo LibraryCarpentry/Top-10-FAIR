@@ -119,7 +119,7 @@ Historical research often concentrates on people, events, organisations and loca
 * [TaDiRAh](http://tadirah.dariah.eu/vocab/index.php) and [BARTOC](https://bartoc.org/) (Basel Register of Thesauri, Ontologies & Classifications  also offer valuable overviews of the ontologies that have been developed within specfic disciplines.
 * One of the ways to describe the provenance of data sets is by so-called nanopublications, i.e. a set of Resource Description Framework (RDF) triples (subject-predicate-object tuples). Although you do not need nanopublications to describe provenance, Nanopublications are a way of combining argument and provenance in a single package. Nanopublications rely on the Provenance Ontology to express provenance. You can read more about them and their application in historical research in this paper by Patrick Golden and Ryan Shaw: [Nanopublication beyond the sciences: the PeriodO period gazetteer](https://peerj.com/articles/cs-44/)
 
-Where possible, try to use terms that have been defined in these existing ontologies in your own data set.
+Where possible, try to use terms that have been defined in these existing ontologies in your own data set. An example where a specific vocabulary ([the VOC glossary](http://resources.huygens.knaw.nl/vocglossarium/index_html_en)) was used to markup a dataset can be found [here](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:75648). The dataset is part of a project to reconstruct the domestic market for colonial goods in the Dutch Republic.
 
 **ACTIVITIES:**  
 1. Try to find one or two terms that are relevant to your research using the resources that are mentioned above. You can aso use [Swoogle](http://swoogle.umbc.edu/2006/) to search for vocabularies related to your research. 
