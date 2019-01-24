@@ -145,6 +145,8 @@ A license describes the conditions under which your data or software is (re)usab
 2. Try to pick a license for a piece of software or code you are working on by using the [choose a license picker](https://choosealicense.com/)
 3. Learn more about licensing your data by reading [this guide](http://www.dcc.ac.uk/resources/how-guides/license-research-data) from the Digital Curation Center
 
+If you deposit your data in a repository there will be default options available. 
+
 ### Thing 9: Data citation
 When you have made use of someone else’s data, you are strongly recommended to attribute the original creators of these data by including a proper reference. Data sets, and even software applications, can be cited in the same way as textual publications such as articles and monographs. Structured data citations can also be used to calculate metrics about the reuse of the data. Data citations, regardless of citation style, typically contain the authors, the year, the title, the publisher and a persistent identifier.
 
