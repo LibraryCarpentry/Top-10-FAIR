@@ -7,34 +7,34 @@ title: "Oceanography"
 
 ## Table of contents
 
-### Findability
+### Findability:
 
 [Thing 1: Data repositories](#thing-1-data-repositories)  
 [Thing 2: Metadata](#thing-2-metadata)  
 [Thing 3: Permanent Identifiers](#thing-3-permanent-identifiers)  
 [Thing 4: Citations](#thing-4-citations)  
 
-### Accessibility
+### Accessibility:
 
 [Thing 5: Data formats](#thing-5-data-formats)  
 [Thing 6: Data Organization and Management](#thing-6-data-organization-and-management)  
 [Thing 7: Re-usable data](#thing-7-re-usable-data)  
 
-### Interoperability
+### Interoperability:
 
 [Thing 3: Permanent Identifiers](#thing-3-permanent-identifiers)  
 [Thing 6: Data Organization and Management](#thing-6-data-organization-and-management)  
 [Thing 2: Metadata](#thing-2-metadata)  
 [Thing 10: APIs and Apps](#thing-10-apis-and-apps)
 
-### Reusability
+### Reusability:
 
 [Thing 8: Tools of the trade](#thing-8-tools-of-the-trade)  
 [Thing 9: Reproducibility](#thing-9-reproducibility)  
 [Thing 10: APIs and Apps](#thing-10-apis-and-apps)
 
 
-## Description
+## Description:
 
 Oceanographic data encompasses a wide variety of data formats, file sizes, and states of data completeness. Data of interest may be available from public repositories, collected on an individual basis, or some combination of these, and each type has its own set of challenges. This “10 things” guide introduces 10 topics relevant to making oceanographic data FAIR: findable, accessible, interoperable, and reusable.
 
@@ -45,7 +45,7 @@ Oceanographic data encompasses a wide variety of data formats, file sizes, and s
 * Oceanography data stewards
 * Researchers, scholars and students in Oceanography
 
-## Goal
+## Goal:
 
 The goal of this lesson is to introduce oceanographers to FAIR data practices in their research workflow through 10 guided activities.
 
