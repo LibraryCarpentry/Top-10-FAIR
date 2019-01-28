@@ -8,29 +8,29 @@ This document was created by [Lisa Federer](https://github.com/informationista),
 
 ## Audience:
 
-- Biomedical researchers
-- Data [stewards](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6018669/)
-- Funding organizations
+* Biomedical researchers
+* Data [stewards](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6018669/)
+* Funding organizations
 
 # Things
 
 ## Thing 1: Metadata creation and curation
 
-## Beginner Activity
+### Beginner activity:
 
 1. Learn about the various types of metadata. DataOne defines metadata as "documentation about the data that describes the content, quality, condition, and other characteristics of a dataset. More importantly, metadata allows data to be discovered, accessed, and reused" [DataONE Education Module](https://www.dataone.org/education-modules).
 
-1.
-  - --Descriptive
-  - --Technical
-  - --Administrative
-  - --Provenance
+  * Descriptive
+  * Technical
+  * Administrative
+  * Provenance
+  
 2. Work through the DataOne Metadata Educational Module: Lesson 7 - [Metadata](https://www.dataone.org/education-modules).
 3. Explore the use of controlled vocabularies and Common Data Elements (CDE). A CDE is a &quot;data element that is [common to multiple data sets across different studies](https://www.nlm.nih.gov/cde/glossary.html#cdedefinition).&quot;. The NIH [Common Data Element (CDE) Resource Porta](https://www.nlm.nih.gov/cde/)l has identified CDEs for use in particular types of research or research domains after a formal evaluation and selection process.
-  - --Take the NIH CDE [interactive tour](https://cde.nlm.nih.gov/home?tour=yes)to learn how to use the site.
-  - --[Browse](https://cde.nlm.nih.gov/cde/search) the CDEs to explore how these might be used in your discipline.
+   * Take the NIH CDE [interactive tour](https://cde.nlm.nih.gov/home?tour=yes)to learn how to use the site.
+   * [Browse](https://cde.nlm.nih.gov/cde/search) the CDEs to explore how these might be used in your discipline.
 
-## Intermediate Activity
+### Intermediate activity
 
 1. Think about ways to standardized minimal/core metadata used across disciplines (or at least ability to [crosswalk](https://www.ands.org.au/online-services/rif-cs-schema/crosswalks-transform-your-metadata) between standards).
 2. Automated metadata creation can &quot;[help improve efficiency in time and resource management within preservation systems, and alleviate the problems associated to the &quot;metadata bottleneck](http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/automated-metadata-extraction)&quot;.
