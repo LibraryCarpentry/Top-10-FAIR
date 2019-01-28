@@ -3,18 +3,18 @@ title: "Oceanography"
 ---
 
 ## Sprinters:
-Reid Otsuji, Stephanie Labou, Ryan Johnson, Guilherme Castelao, Bia Villas Boas (UC San Diego)
+[Reid Otsuji](https://orcid.org/0000-0002-1842-0295), [Stephanie Labou](https://orcid.org/0000-0001-5633-5983), [Ryan Johnson](https://library.ucsd.edu/about/contact-us/librarians-and-subject-specialists/ryan-johnson.html), [Guilherme Castelao](https://scripps.ucsd.edu/profiles/gpimentacastelao), [Bia Villas Boas](http://orcid.org/0000-0001-6767-6556) (UC San Diego)
 
 ## Table of contents
 
-### Findable
+### Findability
 
 [Thing 1: Data repositories](#thing-1-data-repositories)  
 [Thing 2: Metadata](#thing-2-metadata)  
 [Thing 3: Permanent Identifiers](#thing-3-permanent-identifiers)  
 [Thing 4: Citations](#thing-4-citations)  
 
-### Accessible
+### Accessibility
 
 [Thing 5: Data formats](#thing-5-data-formats)  
 [Thing 6: Data Organization and Management](#thing-6-data-organization-and-management)  
@@ -27,13 +27,12 @@ Reid Otsuji, Stephanie Labou, Ryan Johnson, Guilherme Castelao, Bia Villas Boas 
 [Thing 2: Metadata](#thing-2-metadata)  
 [Thing 10: APIs and Apps](#thing-10-apis-and-apps)
 
-### Reusable
+### Reusability
 
 [Thing 8: Tools of the trade](#thing-8-tools-of-the-trade)  
 [Thing 9: Reproducibility](#thing-9-reproducibility)  
 [Thing 10: APIs and Apps](#thing-10-apis-and-apps)
 
----
 
 ## Description
 
@@ -302,7 +301,7 @@ Reproducibility increases impacts credibility and reuse.
 
 Read through the following best practices to make your work reproducible.
 
-### Best practices
+### Best practices:
 Making your project reproducible from the start of the project is ideal.  
 
 * Documenting each step of your research - from collecting or accessing data, to data wrangling and cleaning, to analysis - is the equivalent of creating a roadmap that other researchers can follow. Being explicit about your decisions to exclude certain values or adjust certain model parameters, and including your rationale for each step, help eliminate the guesswork in trying to reproduce your results.
