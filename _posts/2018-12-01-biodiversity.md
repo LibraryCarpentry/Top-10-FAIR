@@ -109,6 +109,7 @@ so that their websites and services contain consistently structured information.
 This structured information then makes it easier to discover, collate and analyse distributed data.
 
 Exercises can be found on the Bioschema website under "tutorials" and "how to".
+
 [https://bioschemas.gitbook.io/training-portal/](https://bioschemas.gitbook.io/training-portal/)
 
 ### Thing 6: Licenses
@@ -139,6 +140,7 @@ The Magnet URI scheme defines the format of magnet links, a de facto standard fo
 Using Magnet URI scheme directly on the publication will make all the data accessible. 
 
 [http://academictorrents.com/](http://academictorrents.com/)
+
 [https://en.wikipedia.org/wiki/Magnet_URI_scheme](https://en.wikipedia.org/wiki/Magnet_URI_scheme)
 
 **EXERCISE:**  
