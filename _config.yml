@@ -26,9 +26,11 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "/librarycarpentry.org/Top-10-FAIR/about"
+    href:           "/Top-10-FAIR/about"
+  - name:           "GitHub Repository"
+    href:           "https://github.com/LibraryCarpentry/Top-10-FAIR"
   - name:           "Download (Not Yet Available)"
-    href:           "/librarycarpentry.org/Top-10-FAIR"
+    href:           "/Top-10-FAIR"
 
 # Sass
 sass:
