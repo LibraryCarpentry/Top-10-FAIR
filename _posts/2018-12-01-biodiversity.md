@@ -3,8 +3,9 @@ title: Biodiversity
 ---
 
 ## Sprinters
+In alphabetic order:
 
-Eva Seidlmayer, Konrad Förstner, Mandela Fasemore, Silvia Di Giorgio, Till Sauerwein, Ilja Zeitlin, Susannah Bacon (ZB MED - Information Center for Life Science, Cologne, Germany), Chris Erdmann (The Carpentries, California Digital Library)
+Silvia Di Giorgio, Akinyemi Mandela Fasemore, Konrad Förstner, Till Sauerwein, Eva Seidlmayer (ZB MED - Information Center for Life Science, Cologne, Germany), Ilja Zeitlin, Susannah Bacon, Chris Erdmann (The Carpentries, California Digital Library)
 
 ## Audience: 
 Researchers
@@ -90,11 +91,11 @@ in finding an appropriate repository for their data:
 
 **EXERCISE:**  
 1) How many entries are returned for the a query specific for your research topic on re3data https://www.re3data.org?
-2) If you filter under subject what do you find?
+2) If you filter under "Subject" what do you find?
 3) Do you think something is missing from the results?
 4) Please try to submit a missing repository
 
-Try the Browse by Subject entry to the re3data-database 
+Try the "browse by Subject" entry to the re3data-database 
 since this gives a great overview on the wide landscape of research 
 data repositories: [https://www.re3data.org/browse/by-subject/](https://www.re3data.org/browse/by-subject/)
 
@@ -107,6 +108,7 @@ It does this by encouraging people in life science to use schema.org markup,
 so that their websites and services contain consistently structured information. 
 This structured information then makes it easier to discover, collate and analyse distributed data.
 
+Exercises can be found on the Bioschema website under "tutorials" and "how to".
 [https://bioschemas.gitbook.io/training-portal/](https://bioschemas.gitbook.io/training-portal/)
 
 ### Thing 6: Licenses
@@ -153,6 +155,8 @@ from across Europe
 
 [https://www.elixir-europe.org/platforms/interoperability](https://www.elixir-europe.org/platforms/interoperability)
 
+**EXERCISE:**  
+Use the elixir software bio.tools[https://bio.tools/](https://bio.tools/) to find the author of the RNA-seq python pipeline "READemption".
 
 ### Thing 9: Research data management
 
@@ -202,11 +206,12 @@ store and retrieve all important data types in digital format.
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/)
 [https://datamanagement.hms.harvard.edu/electronic-lab-notebooks](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks)
 
+**EXERCISE:**  
+Explore the demo lab notebook at [https://demo.elabftw.net/experiments.php](https://demo.elabftw.net/experiments.php)
+
 ### Thing 12: Containers
 
-In a scientific field we have most of the time deal with large amount of 
-data that they have to be processed before the publication. 
-One important aspect of the reproducibility challenge is ensuring computational analysis can be run reproducibly, even in different environments. 
+In a scientific field most of the time we have to deal with large amount of data that has to be processed before publication. One important aspect of the reproducibility challenge is ensuring computational analysis can be run reproducibly, even in different environments.
 
 [https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf](https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf)
 
