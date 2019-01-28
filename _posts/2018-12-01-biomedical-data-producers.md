@@ -90,18 +90,18 @@ A [source-code repository](https://en.wikipedia.org/wiki/Comparison_of_source-co
 ### Intermediate activity:
 
 1. Using a code repository ([Github](https://github.com/) repo or [Zenodo](https://zenodo.org/)), try to find data that goes with a published paper. Then answer some of the following questions:
-  1. Where is the data or code stored (for example, [Github](https://github.com/) repo or [Zenodo](https://zenodo.org/))?
-  2. Who created the objects (ORCID)?
-  3. Was there proper documentation for commercial software?
+  * Where is the data or code stored (for example, [Github](https://github.com/) repo or [Zenodo](https://zenodo.org/))?
+  * Who created the objects (ORCID)?
+  * Was there proper documentation for commercial software?
 
 ## Thing 6: Human and machine readability
 
 1. Read about the [FAIR principle](https://www.force11.org/fairprinciples) for making your code both human and machine readable, and the [FAIR Guiding Principles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/) article.
 2. Read the following report [Jointly designing a data FAIRPORT](https://www.lorentzcenter.nl/lc/web/2014/602/info.php3?wsid=602) from the Lorentz Center.
-3. Having code that is both human and machine readable supports
-  1. API access
-  2. Allows for automatic integration of multiple datasets
-  3. Use of standard formats widely accepted in the discipline
+3. Having code that is both human and machine readable supports:  
+  * API access
+  * Allows for automatic integration of multiple datasets
+  * Use of standard formats widely accepted in the discipline
 
 ## Thing 7: Maintain/preserve entire research environment (e.g. software)
 
@@ -112,9 +112,9 @@ A [source-code repository](https://en.wikipedia.org/wiki/Comparison_of_source-co
 
 1. [re3data.org](https://www.re3data.org/about) is a global registry of research data repositories that covers research data repositories from different academic disciplines. Register your dataset with re3data.org
 2. [re3data.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data.
-  1. Read their [Getting Started Guide](https://schema.org/docs/gs.html) to get indexed with Google.
+  * Read their [Getting Started Guide](https://schema.org/docs/gs.html) to get indexed with Google.
 3. Link your ORCID account to [fairsharing.org](https://fairsharing.org/), verify your email address, and create a public profile.
-  1. Familiarize yourself with their Standards, Databases, Policies, and Collections.
+  * Familiarize yourself with their Standards, Databases, Policies, and Collections.
 
 ## Thing 9: Broad consent
 
