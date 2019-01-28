@@ -46,7 +46,7 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 *Challenge me*  
 * Read [Project Documentation](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-1) and [Project Metadata](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2) in the Digital Antiquity Guides to Good Practice.
-* Draft documentation for your most recent project or a forthcoming project. Include information about the background, methodology employed or to be employed, a narrative on the site and its context (historically, archaeologically, culturally, etc). This documentation will not only facilitate the eventual dissemination of your data but also any proposals or publications about the work itself.
+* Draft documentation for your most recent project or a forthcoming project. Include information about the background, methodology employed or to be employed, a narrative on the site and its context (historically, archaeologically, culturally, etc.). This documentation will not only facilitate the eventual dissemination of your data but also any proposals or publications about the work itself.
 * Review the metadata for this project, document in a single location what metadata you currently record or plan to record and compare it to the metadata tables at [http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2](http://guides.archaeologydataservice.ac.uk/g2gp/CreateData_1-2]). Are you missing any Project Metadata? File-Level Metadata (general and technical)? How can you fill in any gaps?
 
 ## Thing 2: Preservation
@@ -64,7 +64,7 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 ## Thing 3: Training and community
 *Getting started*  
-* Review online resources and training materials for archaeological data management such as DataTrain's 'Open Access Post-Graduate Teaching Materials in Managing Research Data in Archaeology at [http://archaeologydataservice.ac.uk/learning/DataTrain.xhtml](http://archaeologydataservice.ac.uk/learning/DataTrain.xhtml).
+* Review online resources and training materials for archaeological data management such as DataTrain's 'Open Access Post-Graduate Teaching Materials in Managing Research Data in Archaeology' at [http://archaeologydataservice.ac.uk/learning/DataTrain.xhtml](http://archaeologydataservice.ac.uk/learning/DataTrain.xhtml).
 
 *Learn more*  
 * Attend a workshop at an upcoming Archaeology conference that focuses on data management or a session on the topic.
@@ -91,7 +91,7 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 * Consider your current metadata practices - do they follow any schema or incorporate any vocabularies? Are your metadata fields described and documented explicitly?
 
 *Learn more*  
-* Review some of the vocabularies and thesauri related to archaeological data including Getty Vocabularies at <http://www.getty.edu/research/tools/vocabularies/index.html> and  Perio.dO at <http://perio.do/en/>.
+* Review some of the vocabularies and thesauri related to archaeological data including Getty Vocabularies at <http://www.getty.edu/research/tools/vocabularies/index.html> and  PeriodO at <http://perio.do/en/>.
 * Consider whether these vocabularies could be incorporated into your data practices and workflow.
 
 *Challenge me*  
@@ -105,7 +105,7 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 *Learn more*  
 * Investigate tools that facilitate data cleaning and documentation such as Open Refine at <http://guides.archaeologydataservice.ac.uk/g2gp/ArchivalStrat_1-3>.
-* Attend a workshop or go through a tutorial to learn how to use the tool and its features including exporting out the record of the cleaning, etc
+* Attend a workshop or go through a tutorial to learn how to use the tool and its features including exporting out the record of the cleaning, etc.
 
 *Challenge me*  
 * Choose a recent dataset you've collected and go through the processing and cleaning workflow. Be sure to document every step and follow conventions for file names, file formats, and backup creation.
@@ -114,11 +114,11 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 *Getting started*  
 * Learn more about why sharing data matters in archaeology. Explore publications on archaeological data, reuse, and publishing including *Openness and archaeology's information ecosystem* at <https://escholarship.org/uc/item/9tq378jg> and *Other People's Data: A Demonstration of the Imperative of Publishing Primary Data* at <https://escholarship.org/uc/item/1nt1v9n2>
 * Consider times you haven't been able to access data associated with your research. How did you address this issue? 
-* Consider times you have tried to use collaborators or colleagues data in your own research. What steps did you have to take to make sense of the data, to incorporate it into your own dataset, or to analyze it? What might have made this process easier?
+* Consider times you have tried to use collaborators' or colleagues' data in your own research. What steps did you have to take to make sense of the data, to incorporate it into your own dataset, or to analyze it? What might have made this process easier?
 
 *Learn more*  
 * Learn more about sensitive data and what you can do to protect while still making it accessible from resources such as ANDS (<https://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data>) and ADS (<http://archaeologydataservice.ac.uk/advice/sensitiveDataPolicy.xhtml>)
-* Consider whether there are any ethical or legal restrictions around data in your own work. Discuss these considerations with the approproate representatives and determine what the best plan for sharing data is for all relevant parties. 
+* Consider whether there are any ethical or legal restrictions around data in your own work. Discuss these considerations with the appropriate representatives and determine what the best plan for sharing data is for all relevant parties. 
 
 *Challenge me*  
 * Learn more about the differences between publishing and sharing data then either:
@@ -127,18 +127,18 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 
 ## Thing 8: Citation
 *Getting started*  
-* Data citation continues the tradition of acknowledging other people’s work and ideas. Along with books, journals and other scholarly works, it is now possible to formally cite research datasets and even the software that was used to create or analyse the data. Consider if there are times your data was reused by someone else and whether you received scholarly credit.
+* Data citation continues the tradition of acknowledging other people’s work and ideas. Along with books, journals and other scholarly works, it is now possible to formally cite research datasets and even the software that was used to create or analyze the data. Consider if there are times your data was reused by someone else and whether you received scholarly credit.
 * Read the Force11 Joint Declaration of Data Citation Principles at <https://www.force11.org/datacitationprinciples>.
 * Watch this video on persistent identifiers and data citation at <https://www.youtube.com/watch?v=PgqtiY7oZ6k>.
 * Search data repositories and services such as ADS, tDAR, and Open Context and see how their recommended citations are formatted.
 
 *Learn more*  
-* Consider how many times you've read research papers and felt the data was either insufficient or inaccessbile and how this impacted your interpretation. 
+* Consider how many times you've read research papers and felt the data was either insufficient or inaccessible and how this impacted your interpretation. 
 * Have a discussion with your colleagues about their perspectives on publishing data so that it is findable, in formats that are accessible, and with enough descriptive metadata and documentation to be reusable. Have any of them ever cited a dataset? Why or why not? What would be needed for this to become a common practice in archaeology?
 
 *Challenge me*  
 * Include citations to datasets, not just scholarly articles and books, relevant to your work in your next publication.
-* Consider whether persistent identifiers (PIDs) should be routinely applied to all research outputs. Remember that PIDs carry an expectation of persistence (maintenance costs etc) but can be used to collect metrics as well as link articles and data (evidence of impact).
+* Consider whether persistent identifiers (PIDs) should be routinely applied to all research outputs. Remember that PIDs carry an expectation of persistence (maintenance costs, etc.) but can be used to collect metrics as well as link articles and data (evidence of impact).
 
 
 ## Thing 9: Licensing
@@ -150,7 +150,7 @@ Archaeologists collect and work with a wide range of data types: textual, visual
 * Read through the licensing agreements and policies for data services and repositories, starting with [ADS](http://archaeologydataservice.ac.uk/advice/termsOfUseAndAccess.xhtml), [tDAR](https://www.tdar.org/about/policies/contributors-agreement/), and [Open Context](https://opencontext.org/about/publishing). Consider whether these policies align with your datasets and obligations.
 
 *Challenge me*  
-* Determine which license is appropriate for you data and if possible, release one of your own datasets by depositing into an archive or repository. Consider consulting with a data service representative or data librarian about your selection. 
+* Determine which license is appropriate for your data and if possible, release one of your own datasets by depositing into an archive or repository. Consider consulting with a data service representative or data librarian about your selection. 
 
 ## Thing 10: FAIR in archaeology
 *Getting started*  
