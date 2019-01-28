@@ -36,11 +36,11 @@ title: "Oceanography"
 
 ## Description:
 
-Oceanographic data encompasses a wide variety of data formats, file sizes, and states of data completeness. Data of interest may be available from public repositories, collected on an individual basis, or some combination of these, and each type has its own set of challenges. This “10 things” guide introduces 10 topics relevant to making oceanographic data FAIR: findable, accessible, interoperable, and reusable.
+Oceanographic data encompasses a wide variety of data formats, file sizes, and states of data completeness. Data of interest may be available from public repositories, collected on an individual basis, or some combination of these, and each type has its own set of challenges. This “10 Things” guide introduces 10 topics relevant to making oceanographic data FAIR: findable, accessible, interoperable, and reusable.
 
 ## Audience:
 
-* Library staff and programers who provide research support
+* Library staff and programmers who provide research support
 * Oceanographers
 * Oceanography data stewards
 * Researchers, scholars and students in Oceanography
@@ -120,7 +120,7 @@ Go to re3data.org and search for a data repository related to your research subj
 You’ve been given this DOI: **10.6075/J03N21KQ**
 
 * What would you do to find the dataset this DOI references?
-* Using the above approach you just identified, what is associated with this DOI? Who was the creator of this dataset? When was that published? Who funded that research?
+* Using the above approach, you just identified, what is associated with this DOI? Who was the creator of this dataset? When was that published? Who funded that research?
 
 ### Activity 3:
 
@@ -164,7 +164,7 @@ Oceanographic data can include everything from maps and images to high dimension
 
 ### Discussion 2:
 
-* What are the advantages and disadvantages of storing in plain ASCII, like a CSV file versus a binary, like netCDF? Does the characteristics of the data influence that decision, i.e. the prefered format for a time series would be different than a numerical model output, or a gene sequence?
+* What are the advantages and disadvantages of storing in plain ASCII, like a CSV file versus a binary, like netCDF? Does the characteristics of the data influence that decision, i.e. the preferred format for a time series would be different than a numerical model output, or a gene sequence?
 
 
 ## Thing 6: Data organization and management
@@ -188,12 +188,12 @@ Good data organization is the foundation of your research project.  Data often h
 
 ### Identifying vulnerabilities
 
-* **Scenario 1:** Your entire office/lab building burns down overnight. No one is harmed, because no on was there, but all electronics in the building perish beyond hope of repair. The next morning, can you access any of your data?
+* **Scenario 1:** Your entire office/lab building burns down overnight. No one is harmed, because no one was there, but all electronics in the building perish beyond hope of repair. The next morning, can you access any of your data?
 * **Scenario 2:** The cloud server you use (everything from Google Drive to GitHub) crashes. Can you still access your most up to date data?
 
 ### Discussion 1:
 
-* From either of the two scenarios, can your data survive a disaster? What some of the things that you think you are doing incorrectly to prevent data loss?
+* From either of the two scenarios, can your data survive a disaster? What are some of the things that you think you are doing incorrectly to prevent data loss?
 
 ### Discussion 2:
 
@@ -201,7 +201,7 @@ Good data organization is the foundation of your research project.  Data often h
 
 ### The Data Management Plan (DMP)
 
-Some research institutions and research funders now require a Data Management Plan (DMP) for new research projects. Let's talk about the importance of a DMP and what should a DMP cover.  Think about it you would you be able to create create a DMP?
+Some research institutions and research funders now require a Data Management Plan (DMP) for new research projects. Let's talk about the importance of a DMP and what should a DMP cover.  Think about it you would you be able to create a DMP?
 
 ### What is a DMP?
 A Data Management Plan (DMP) documents how data will be managed, stored and shared during and after a research project. Some research funders are now requesting that researchers submit a DMP as part of their project proposal.
@@ -229,7 +229,7 @@ There are many Data Management Plan (DMP) templates in the DMPTool.
 There are two aspects to reusability: reusable data, and reusable derived data/process products.
 
 ### Reusable data
-Reusable data is the result of successful implementation of the other “things” discussed so far. Reusable data (1) has a license which specifies reuse scenarios, (2) is in a domain-suitable format and an “open” format when possible, and (3) is associated with extensive metadata consistent with community and domain standards.
+Reusable data is the result of successful implementation of the other “Things” discussed so far. Reusable data (1) has a license which specifies reuse scenarios, (2) is in a domain-suitable format and an “open” format when possible, and (3) is associated with extensive metadata consistent with community and domain standards.
 
 ### Process/derived data products
 What is often overlooked in terms of reusability are the products created to automate research steps. Whether it’s using the command line, Python, R, or some other programming platform, automation scripts in and of themselves are a useful output that can be reused. For example, data cleaning scripts can be reapplied to datasets that are continually updated, rather than starting from scratch each time. Modeling scripts can be re-used and adapted as parameters are updated. Additionally, these research automation products make any data-related decision you made explicit: if future data users have questions about exclusions, aggregations, or derivations, the methodology used is transparent in these products.
@@ -278,7 +278,7 @@ Keep in mind, in an ideal world these three ideas are what we all wish for, howe
 * Open sources tools are only as good as the community that supports it. Unlike commercial software there is no official technical support.  Additionally, not all open source licenses are permissive.
 * Training time can be significant.
 
-If Open source tools are not an option and commerical sfotware is necessary for your project, there are benefits and issues to consider when using proprietary or commercial software tools.
+If Open source tools are not an option and commercial software is necessary for your project, there are benefits and issues to consider when using proprietary or commercial software tools.
 
 ### Benefits:
 
@@ -316,9 +316,9 @@ Research often takes months, if not years, to complete a certain project, so by 
 Think about a project you have completed or are currently working on.  
 
 * What are some of the best practices you have adopted to make your research reproducible for others?
-* Was there any pain points that you encounter or are dealing with now?
+* Were there any pain points that you encounter or are dealing with now?
 * Is there something you can do about it now?
-* What are the most relevant "things" previously mentioned in this document that you could use to make your research more reproducible?
+* What are the most relevant "Things" previously mentioned in this document that you could use to make your research more reproducible?
 
 
 ## Thing 10: APIs and applications (apps)
