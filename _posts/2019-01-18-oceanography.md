@@ -2,11 +2,8 @@
 title: "Oceanography"
 ---
 
-# Top 10 FAIR data things for Oceanography
-
-##### UC San Diego Sprinters: Reid Otsuji, Stephanie Labou, Ryan Johnson, Guilherme Castelao, Bia Villas Boas
-
-##### Version 1.0 (December, 2019)
+## Sprinters:
+Reid Otsuji, Stephanie Labou, Ryan Johnson, Guilherme Castelao, Bia Villas Boas (UC San Diego)
 
 ## Table of contents
 
@@ -38,22 +35,22 @@ title: "Oceanography"
 
 ---
 
-### Brief Description
+## Description
 
 Oceanographic data encompasses a wide variety of data formats, file sizes, and states of data completeness. Data of interest may be available from public repositories, collected on an individual basis, or some combination of these, and each type has its own set of challenges. This “10 things” guide introduces 10 topics relevant to making oceanographic data FAIR: findable, accessible, interoperable, and reusable.
 
-### Audience
+## Audience:
 
 * Library staff and programers who provide research support
 * Oceanographers
 * Oceanography data stewards
 * Researchers, scholars and students in Oceanography
 
-### Lesson Goals
+## Goal
 
 The goal of this lesson is to introduce oceanographers to FAIR data practices in their research workflow through 10 guided activities.
 
----
+# Things
 
 ## Thing 1: Data repositories
 
@@ -79,15 +76,14 @@ There are numerous data repositories for finding oceanographic data. Many of the
 
 At some point, you may want or need to deposit your own data into a data repository, so that others may find and build upon your work. Many funding agencies now require data collected or created with the grant funds to be shared with the broader community. For instance, the National Science Foundation (NSF) Division of Ocean Sciences (OCE) [mandates sharing of data](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp) as well as metadata files and any derived data products. Finding the “right” repository for your data can be overwhelming, but there are resources available to help pick the best location for your data. For instance, OCE has a list of [approved](https://www.nsf.gov/geo/oce/oce-data-sample-repository-list.jsp) repositories in which to submit final data products.
 
-### Activity 1
+### Activity 1:
 
 * Go to [re3data.org](https://www.re3data.org/) and search for a data repository related to your research subject area. How many results did you get? Which of these repositories looks most relevant to your research area? Is it easy to find a dataset in those repositories that covered the California coast (or any other region of your choice) during the last year?
 
-### Activity 2
+### Activity 2:
 
 * What is the next journal you would like to publish in? (Alternatively: what is a top journal in your field?) Can you find the data submission requirements for this journal?
 
----
 
 ## Thing 2: Metadata
 
@@ -95,21 +91,20 @@ High quality metadata (information about the data, such as creator, keywords, un
 
 Using controlled vocabularies in metadata allows for serendipitous discovery in user searches. Additionally, using a metadata schema to mark up a dataset can make your data findable to the world.
 
-### Activity 1
+### Activity 1:
 
 * Using [schema.org](https://schema.org/) markup, look at the metadata elements pertaining to  scholarly articles: https://schema.org/ScholarlyArticle. Imagine you have an article you have hosted on your personal website, and you would like to add markup so that it could be more readily indexed by [Google Dataset Search](https://toolbox.google.com/datasetsearch). What metadata elements would be most important to include? (This resource will help you: [https://developers.google.com/search/docs/data-types/dataset](https://developers.google.com/search/docs/data-types/dataset))
 
-### Activity 2
+### Activity 2:
 
 * OpenRefine example for making data FAIR.
 
 Read this walkthrough of how to “FAIRify” a dataset using the data cleaning tool OpenRefine: [https://docs.google.com/document/d/1hQ0KBnMpQq93-HQnVa1AR5v4esk6BRlG6NvnnzJuAPQ/edit#heading=h.v3puannmxh4u](https://docs.google.com/document/d/1hQ0KBnMpQq93-HQnVa1AR5v4esk6BRlG6NvnnzJuAPQ/edit#heading=h.v3puannmxh4u)
 
-### Discussion
+### Discussion:
 
 * If you had _thousands_ of keywords in a dataset you wanted to associate with a controlled vocabulary relevant to your field, what would be your approach? What tools do you think would best automate this task?
 
----
 
 ## Thing 3: Permanent identifiers
 
@@ -117,32 +112,31 @@ Permanent identifiers (PIDs) are a necessary step for keeping track of data. Web
 
 Identifiers exist for researchers as well: [OCRID](https://orcid.org/) is essentially a DOI for an individual researcher. This ensures that if you have a common name, change your name, change your affiliation, or otherwise change your author information, you still get credit for your own and maintain a full, identifiable list of your scientific contributions.
 
-### Activity 1
+### Activity 1:
 
 Go to re3data.org and search for a data repository related to your research subject area. From the repository you choose, pick a dataset. Does it have a DOI? What is? Who is the creator of that dataset? What is the ORCID of the author?
 
-### Activity 2
+### Activity 2:
 
 You’ve been given this DOI: **10.6075/J03N21KQ**
 
 * What would you do to find the dataset this DOI references?
 * Using the above approach you just identified, what is associated with this DOI? Who was the creator of this dataset? When was that published? Who funded that research?
 
-### Activity 3
+### Activity 3:
 
 * Go to the [ORCID website](https://orcid.org/) and create an ORCID if you do not have one already. Can you identify the creator associated with the DOI on the activity 1?
 
-### Discussion
+### Discussion:
 
 * What would be a positive benefit for having a personal persistent ID such as ORCID?  Are there any drawbacks or concerns?
 
----
 
 ## Thing 4: Citations
 
 Citing data properly is equally as important as citing journal articles and other papers. In general, a data citation should include: author/creator, date of publication, title of dataset, publisher/organization (for instance, NOAA), and unique identifier (preferably DOI).
 
-### Activity 1
+### Activity 1:
 
 * Read through this [overview](https://www.dataone.org/citing-dataone) of citing data from DataONE. This has information application to any data citations, as well as guidelines specific to DataONE.
 * Think of the last dataset you worked with. Is it something you collected, or was it from a public repository? How would you cite this data?
@@ -154,57 +148,55 @@ Long-term data stewardship is an important factor for keeping data open and acce
 
 * After completing the last activity, discuss how Open is data in the discipline? Are there long-term considerations and protocols for the data that is produced?
 
-#### Tip: Resources that can help make your data more open and accessible or to protect your data
+### Tip: Resources that can help make your data more open and accessible or to protect your data
 
 * [Open Science Framework](https://osf.io)  
 * [Figshare](https://figshare.com/)
 * [Oceanographic data centers](#thing-1-data-repositories)
 
----
 
-## Thing 5: Data Formats
+## Thing 5: Data formats
 
 Oceanographic data can include everything from maps and images to high dimensional numeric data. Some data are saved as common, near-universal formats (such as csv files), while others require specialized knowledge and software to open properly (e.g., netCDF).  Explore the Intrinsic characteristics of the dataset that  influence the choice of the format, such as a time series versus a regular 3-D grid of temperature varying on time;  robust ways to connect the data with metadata; size factors, binary versus ASCII file; and think about why a format to store/archive data is not necessarily the best way to distribute data.
 
-#### Discussion 1
+### Discussion 1:
 
 * what are the most common data formats used in your field? What level of technical/domain knowledge is required to open, edit, and interactive with these data types?  
 
-#### Discussion 2
+### Discussion 2:
 
 * What are the advantages and disadvantages of storing in plain ASCII, like a CSV file versus a binary, like netCDF? Does the characteristics of the data influence that decision, i.e. the prefered format for a time series would be different than a numerical model output, or a gene sequence?
 
----
 
 ## Thing 6: Data organization and management
 
 Good data organization is the foundation of your research project.  Data often has a longer lifespan than the project it is originally associated with and may be reused for follow-up projects or by other researchers. Data is critical to solving research questions, but lots of data are lost or poorly managed.  Poor data organization can directly impact the project or future reuse.  
 
-### Activity 1
+### Activity 1:
 
-#### Considerations for basic data organization and management
+### Considerations for basic data organization and management
 
-### Group Discussion 1
+### Group Discussion 1:
 
 * Is your data file structure something that a new lab member could easily learn, or are datasets organized in a more haphazard fashion?
 * Do you have any documentation associated describing how to navigate your data structures?
 
-### Group Discussion 2
+### Group Discussion 2:
 
 * Talk about where/how you are currently storing data you are working with. Would another lab member be able to access all your data if needed?
 
-### Activity 2
+### Activity 2:
 
-#### Identifying vulnerabilities
+### Identifying vulnerabilities
 
 * **Scenario 1:** Your entire office/lab building burns down overnight. No one is harmed, because no on was there, but all electronics in the building perish beyond hope of repair. The next morning, can you access any of your data?
 * **Scenario 2:** The cloud server you use (everything from Google Drive to GitHub) crashes. Can you still access your most up to date data?
 
-### Discussion
+### Discussion 1:
 
 * From either of the two scenarios, can your data survive a disaster? What some of the things that you think you are doing incorrectly to prevent data loss?
 
-### Discussion
+### Discussion 2:
 
 * Think about a time when you had or potentially had a data disaster - how could the disaster have been avoided? What, if anything, have you changed about your data storage and workflow as a result?
 
@@ -215,24 +207,23 @@ Some research institutions and research funders now require a Data Management Pl
 ### What is a DMP?
 A Data Management Plan (DMP) documents how data will be managed, stored and shared during and after a research project. Some research funders are now requesting that researchers submit a DMP as part of their project proposal.
 
-### Activity 1
+### Activity 1:
 
 * Start by watching [The DMPTool: A Brief Overview 90 second video](https://youtu.be/xT1by-p5jUw) to see what the DMPTool can do for researhers and data managers.
 * Next, review this short [introduction to Data Management Plans](https://www.ands.org.au/working-with-data/data-management/data-management-plans).
 * Now browse through some public DMPs from the [DMPTool](https://dmptool.org/public_plans), choose one or two of the DMPs related to oceanography and read them to see the type of information they capture.
 
-### Activity 2
+### Activity 2:
 
 There are many Data Management Plan (DMP) templates in the DMPTool.
 
 * Choose one DMP funder template you would potentially use for a grant proposal in the DMPTool. Spend 5-10 minutes starting to complete the template, based on a research project you have been involved with in the past.
 
-### Discussion
+### Discussion:
 
 * You will have noticed that DMPs can be very short, or extremely long and complex. What do you think are the two or three pieces of information essential to include in every DMP and why?
 * After completing the second activity, what are strengths and weaknesses of your chosen template?
 
----
 
 ## Thing 7: Re-usable data
 
@@ -244,15 +235,14 @@ Reusable data is the result of successful implementation of the other “things�
 ### Process/derived data products
 What is often overlooked in terms of reusability are the products created to automate research steps. Whether it’s using the command line, Python, R, or some other programming platform, automation scripts in and of themselves are a useful output that can be reused. For example, data cleaning scripts can be reapplied to datasets that are continually updated, rather than starting from scratch each time. Modeling scripts can be re-used and adapted as parameters are updated. Additionally, these research automation products make any data-related decision you made explicit: if future data users have questions about exclusions, aggregations, or derivations, the methodology used is transparent in these products.
 
-### Discussion 1
+### Discussion 1:
 
 * How many people have made public or shared part of their research automaton pipeline? If you haven’t shared this, what prevented you from sharing?
 
-### Discussion 2
+### Discussion 2:
 
 * Are there instances where your own research would have been improved if you had access to other people’s process products?
 
----
 
 ## Thing 8: Tools of the trade
 
@@ -279,32 +269,31 @@ Keep in mind, in an ideal world these three ideas are what we all wish for, howe
 
 ### Things to consider when using open source tools
 
-#### Benefits
+### Benefits:
 
 * Open source tools often have active development community.  Quality for end users is usually higher because the community are users of the software being developed.  In turn, open source costs for development are cheaper.  
 * With a larger community of development, security problems and vulnerabilities are discovered and fixed quickly. Another major advantage of open source is the possibility to verify exactly which procedures are being applied, avoiding the use of "black-boxes" and allowing for a thorough inspection of the methods.
 
-#### Issues
+### Issues:
 
 * Open sources tools are only as good as the community that supports it. Unlike commercial software there is no official technical support.  Additionally, not all open source licenses are permissive.
 * Training time can be significant.
 
 If Open source tools are not an option and commerical sfotware is necessary for your project, there are benefits and issues to consider when using proprietary or commercial software tools.
 
-#### Benefits
+### Benefits:
 
 * This type of software often comes with official technical support such as a customer service phone number or email.
 
-#### Issues
+### Issues:
 
 * Proprietary or commercial tools are often quite expensive at the individual level.
 * Universities may have campus-wide licenses, but if you move institutions, you may find yourself without the software you had been using.
 
-### Discussion
+### Discussion:
 
 * Think about the tools you use for conducting data clean up, analysis, and for creating visualizations and reports for publications.  What were the deciding factors for selecting the applications you used or are using for your project?
 
----
 
 ## Thing 9: Reproducibility
 
@@ -323,7 +312,7 @@ This is useful not only for anyone else who wants to test your analysis - often 
 
 Research often takes months, if not years, to complete a certain project, so by starting with reproducibility in mind from the beginning, you can often save yourself time and energy later on.
 
-### Discussion
+### Discussion:
 
 Think about a project you have completed or are currently working on.  
 
@@ -332,15 +321,14 @@ Think about a project you have completed or are currently working on.
 * Is there something you can do about it now?
 * What are the most relevant "things" previously mentioned in this document that you could use to make your research more reproducible?
 
----
 
-## Thing 10: APIs and Apps
+## Thing 10: APIs and applications (apps)
 
 APIs (Application Programming Interfaces) allow programmatic access to many databases and tools. They can directly access or query existing data, without the need to download entire datasets, which can be very large.
 
 Certain software platforms, such as R and Python, often have packages available to facilitate access to large, frequently used database APIs. For instance, the [R package “rnoaa”](https://ropensci.org/tutorials/rnoaa_tutorial/) can access and import various NOAA data sources directly from the R console. You can think of it as using an API from the comfort of a tool you’re already familiar with. This not only saves time and computer memory, but also ensures that as databases are updated, so are your results: re-running your code automatically pulls in new data (unless you have specified a more restricted date range).
 
-### Activity
+### Activity:
 
 On the ERDDAP server for [Spray Underwater Glider data](https://spraydata.ucsd.edu/erddap/tabledap/binnedCUGN90.html), select temperature data for the line 90 ([https://spraydata.ucsd.edu/erddap/tabledap/binnedCUGN90.html](https://spraydata.ucsd.edu/erddap/tabledap/binnedCUGN90.html)).
 
@@ -348,13 +336,7 @@ On the ERDDAP server for [Spray Underwater Glider data](https://spraydata.ucsd.e
 * Choose the format of your preference, and instead of submit the request, generate an URL.
 * Copy and paste the generated URL in your browser.
 
-### Discussion
+### Discussion:
 
 * Think about the last online data source you accessed. Is there an API for this data source? Is there a way to access this data from within your preferred analysis software?
 
----
-
-## References
-
-1. [ANDS 23 (Research Data) Things]( https://www.ands.org.au/working-with-data/skills/23-research-data-things/all23)  
-2. [Top 10 FAIR Data Things lessons](http://librarycarpentry.org/Top-10-FAIR/)
