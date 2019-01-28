@@ -26,7 +26,7 @@ The distributing DataCite-agency for Life Sciences is PUBLISSO:
 
 * ORCID is a self-identifier for authors to avoid author name ambiguity. Use ORCIDs from the start of data creation, i.e. attach data creator name/ORCID to dataset as a metadata field. Include ORCIDs with datasets in repositories (e.g. in Sequence Read Archive (SRA), include the ORCID for the data creator).  This allows for the tracking of data provenance (the origins, custody, and ownership of research data). 
 
-**EXERCISE:**  
+**Exercise:**  
 For easy look up, we have a list of DOIs below. Can you match the right document to the appropriate DOI? HINT: Start from here [https://www.doi.org/](https://www.doi.org/)!
 
 1) 10.1103/PhysRev.48.73
@@ -44,7 +44,7 @@ HINT check the prefix!
 
 Which part indicates the publishing institution? The prefix or the suffix of a DOI?
 
-**ORCID EXERCISE:**   
+**ORCID Exercise:**   
 Go through the [Getting Started with ORCID Integration](https://members.orcid.org/api/getting-started).
 
 ### Thing 2: Citations
@@ -54,7 +54,7 @@ It supports various data and license types. It also supports source code from Gi
 
 See [https://zenodo.org/](https://zenodo.org/)
 
-**EXERCISE:**  
+**Exercise:**  
 * Use the Zenodo Sandbox to upload an example dataset, software program, etc.  
 [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/)
 
@@ -69,7 +69,7 @@ Questions:
 
 [Wikidata](https://www.wikidata.org/wiki/Wikidata) provides a common source of open data which can be used by Wikimedia projects such as Wikipedia, and by anyone else, under a public domain license.
 
-**EXERCISE:**  
+**Exercise:**  
 Go to Wikidata and find the publication date of the book “On the origin of species”.
 
 * Switch over to the linked dataset of the author of the book and see his other publications.
@@ -89,7 +89,7 @@ in finding an appropriate repository for their data:
 * [https://www.re3data.org/browse/by-subject/](https://www.re3data.org/browse/by-subject/)
 * [https://repositoryfinder.datacite.org/](https://repositoryfinder.datacite.org/)
 
-**EXERCISE:**  
+**Exercise:**  
 1) How many entries are returned for the a query specific for your research topic on re3data https://www.re3data.org?
 2) If you filter under "Subject" what do you find?
 3) Do you think something is missing from the results?
@@ -121,7 +121,7 @@ boundary intended by the authors and also enhance accessibility for target group
 * [https://wiki.creativecommons.org/wiki/Data_and_CC_licenses](https://wiki.creativecommons.org/wiki/Data_and_CC_licenses)
 * [http://www.dcc.ac.uk/resources/how-guides/license-research-data](http://www.dcc.ac.uk/resources/how-guides/license-research-data)
 
-**EXERCISE:**  
+**Exercise:**  
 1) Use the link below to select the appropriate licence with the following intentions;
 2) Allow your work to be adapted and also allow it to be used commercially.
 [https://creativecommons.org/choose](https://creativecommons.org/choose)
@@ -143,7 +143,7 @@ Using Magnet URI scheme directly on the publication will make all the data acces
 
 [https://en.wikipedia.org/wiki/Magnet_URI_scheme](https://en.wikipedia.org/wiki/Magnet_URI_scheme)
 
-**EXERCISE:**  
+**Exercise:**  
 1) Upload any small data set of your choice with the above link 
 2) Share with a colleague a link to access it over torrent 
 
@@ -157,8 +157,8 @@ from across Europe
 
 [https://www.elixir-europe.org/platforms/interoperability](https://www.elixir-europe.org/platforms/interoperability)
 
-**EXERCISE:**  
-Use the elixir software bio.tools[https://bio.tools/](https://bio.tools/) to find the author of the RNA-seq python pipeline "READemption".
+**Exercise:**  
+Use the elixir software bio.tools ([https://bio.tools/](https://bio.tools/)) to find the author of the RNA-seq python pipeline "READemption".
 
 ### Thing 9: Research data management
 
@@ -166,6 +166,7 @@ Use the elixir software bio.tools[https://bio.tools/](https://bio.tools/) to fin
 It provides a resource for different resources to be integrated into single platform
 
     [http://bio2rdf.org/](http://bio2rdf.org/)
+    
     [https://www.ncbi.nlm.nih.gov/pubmed/18472304](https://www.ncbi.nlm.nih.gov/pubmed/18472304)
 
 - GFBio is the authoritative, national contact point for issues concerning the management and standardisation of biological and environmental research data during the entire data life cycle (from acquisition to archiving and data publication). GFBio mediates expertises and services between the GFBio data centers and the scientific community, covering all areas of research data management.
@@ -193,7 +194,7 @@ Example: [https://api.crossref.org/works/10.1371/journal.pcbi.1004668](https://a
 1) Pick the DOI of a dataset in Zenodo
 2) Open [https://api.datacite.org/works/<DOI>](https://api.datacite.org/works/<DOI>) <= replace <DOI> with the DOI of the Zenodo entry
 
-Example [https://api.datacite.org/works/10.5281/zenodo.1574835](https://api.datacite.org/works/10.5281/zenodo.1574835)
+Example: [https://api.datacite.org/works/10.5281/zenodo.1574835](https://api.datacite.org/works/10.5281/zenodo.1574835)
 
 ## Reusability:
 ### Thing 11: Digitalization
@@ -206,9 +207,10 @@ An electronic lab notebook must be able to create, import,
 store and retrieve all important data types in digital format. 
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/)
+
 [https://datamanagement.hms.harvard.edu/electronic-lab-notebooks](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks)
 
-**EXERCISE:**  
+**Exercise:**  
 Explore the demo lab notebook at [https://demo.elabftw.net/experiments.php](https://demo.elabftw.net/experiments.php)
 
 ### Thing 12: Containers
