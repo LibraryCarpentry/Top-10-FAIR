@@ -3,10 +3,10 @@ title: "Humanities: Historical Research"
 ---
  
 ## Sprinters: 
-Kristina Hettne, Peter Verhaar (Centre for Digital Scholarship at Leiden University), Ben Companjen, Laurents Sesink, Fieke Schoots ((Centre for Digital Scholarship at Leiden University, reviewer), Erik Schultes (GO FAIR, reviewer), Rajaram Kaliyaperumal (Leiden Universitair Medisch Centrum, reviewer), Erzsebet Toth-Czifra (DARIAH, reviewer), Ricardo de Miranda Azevedo (Maastricht University, reviewer). 
+Kristina Hettne, Peter Verhaar (Centre for Digital Scholarship at Leiden University), Ben Companjen, Laurents Sesink, Fieke Schoots ((Centre for Digital Scholarship at Leiden University, reviewer), Erik Schultes (GO FAIR, reviewer), Rajaram Kaliyaperumal (Leiden Universitair Medisch Centrum, reviewer), Erzsebet Toth-Czifra (DARIAH, reviewer), Ricardo de Miranda Azevedo (Maastricht University, reviewer), Sanne Muurling (Leiden University Library, reviewer). 
 
 ## Description:
-This document offers a concise overview of the ten topics that are most essential for scholars in the field of historical research who aim to publish their data set in accordance with the FAIR principles. In historical research, research data mostly consists of databases (spreadsheets, relational databases), text corpora, images, sound recordings or video materials. 
+This document offers a concise overview of the ten topics that are most essential for scholars in the field of historical research who aim to publish their data set in accordance with the FAIR principles. In historical research, research data mostly consists of databases (spreadsheets, relational databases), text corpora, images, interviews, sound recordings or video materials. 
 
 ## Things
 
@@ -23,7 +23,7 @@ Data repositories enable researchers to share their data sets. The following dat
  
 A number of additional data repositories can be found by going to [re3data.org](https://www.re3data.org/), and by clicking on Browse > Browse by subject > History
 
-Choosing a repository that complies with the [CoreTrustSeal](https://www.coretrustseal.org/) criteria for long term repositories is recommended.
+Choosing a repository that complies with the [CoreTrustSeal](https://www.coretrustseal.org/) criteria for long term repositories is recommended. This way, the durable findability of the data is guaranteed.
 
 **ACTIVITIES:**  
 1. Study the data set that can be found via [https://doi.org/10.17026/dans-zw3-fkxb](https://doi.org/10.17026/dans-zw3-fkxb). How can the dataset be downloaded? Which formats are available?
@@ -35,14 +35,14 @@ Metadata are often captured using a fixed metadata schema. A schema is a set of 
 
 **ACTIVITIES:**  
 1. Read the [Digital Scholarship @ Leiden](https://digitalscholarshipleiden.nl/articles/metadata-4-machines-help-you-find-and-reuse-relevant-research-data) blog to learn about metadata for humans and machines
-2. Log in at [Zenodo.org](https://zenodo.org/) and click on Upload > New Upload. On the web page that appears, take stock of the various metadata fields that need to be completed.  
+2. Log in at [Zenodo.org](https://zenodo.org/) and click on Upload > New Upload. On the web page that appears, take stock of the various metadata fields that need to be completed. Zenodo is an international repository. Different countries and institutions might have other preferred repositories, such as [DANS EASY](https://easy.dans.knaw.nl/). DANS EASY list the following specific requirements for historical sciences: Historical sciences: 1) a description of the (archival) sources; 2) the selection procedure used; 3) the way in which the sources were used; and 4) which standards or classification systems (such as HISCO) were used. Read more at https://dans.knaw.nl/en/deposit/information-about-depositing-data/before-depositing 
 
 ### Thing 3: Persistent identifiers
-Datasets need to be deposited in repositories which assign persistent identifiers (PIDs) to ensure that online references to publications, research data, and people remain available in the future. A PID is a specific type of a [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) which is managed by an organisation that links a persistent identification code with the most recent Uniform Resource Locator (URL).
+Datasets need to be deposited in repositories that assign persistent identifiers (PIDs) to ensure that online references to publications, research data, and persons remain available in the future. A PID is a specific type of a [Uniform Resource Identifier](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier) (URI), which is managed by an organisation that links a persistent identification code with the most recent Uniform Resource Locator (URL).
 
 Academic journals mostly work with DOIs. DOIs are globally unique identifiers that provide persistent access to publications, datasets, software applications, and a wide range of other research results. DOI has been an ISO standard since 2012. A typical DOI looks as follows: [http://doi.org/10.17026/dans-x4b-uy8q](http://doi.org/10.17026/dans-x4b-uy8q). When users click on this DOI, the DOI is resolved to an actual web address. 
 
-Next to identifiers for data sets and for publications, it is also possible to create PIDs for people.  Open Researcher and Contributor Identifier (ORCID) is an international system for the persistent identification of academic authors. It is a non-proprietary system, managed by an international consortium consisting of universities, national libraries, research institutes and data repositories. When your research results are associated with an ORCID, this information can be exchanged effectively across databases, across countries and across academic disciplines. You always retain full control over your own ORCID id. It is the de facto standard when submitting a research article or grant application, or depositing research data.
+Next to identifiers for data sets and for publications, it is also possible to create PIDs for people.  [Open Researcher and Contributor Identifier](https://orcid.org/) (ORCID) is an international system for the persistent identification of academic authors. It is a non-proprietary system, managed by an international consortium consisting of universities, national libraries, research institutes and data repositories. When your research results are associated with an ORCID, this information can be exchanged effectively across databases, across countries and across academic disciplines. You always retain full control over your own ORCID id. It is the de facto standard when submitting a research article or grant application, or depositing research data.
 
 **ACTIVITIES:**  
 1. Watch the video “[Persistent identifiers and data citation explained](https://www.youtube.com/watch?v=PgqtiY7oZ6k)” by Research Data Netherlands. 
@@ -55,9 +55,9 @@ Next to identifiers for data sets and for publications, it is also possible to c
 ## Accessible  
 
 ### Thing 4: Open data
-The FAIR principles stipulate that data and metadata ought to be “retrievable by their identifier using a standardised communication protocol” ([requirement A1](https://www.go-fair.org/fair-principles/542-2/)). This requirement does not necessarily imply that the data should fully be available in open access. It principally means that there needs to be a protocol which users may follow to obtain of the data set. There can be many good reasons for limiting the access to a file. Public accessibility may be difficult because of privacy laws or copyright protection regulations, for example.
+The FAIR principles stipulate that data and metadata ought to be “retrievable by their identifier using a standardised communication protocol” ([requirement A1](https://www.go-fair.org/fair-principles/542-2/)). This requirement does not necessarily imply that the data should fully be available in open access. It principally means that there needs to be a protocol that users may follow to obtain of the data set. There can be many good reasons for limiting the access to a file. Public accessibility may be difficult because of privacy laws or copyright protection regulations, for example.
 
-The accessibility of the data may occasionally be complicated by the fact that the data have been stored using a proprietary format. For formats which are associated with specific software applications, it can be difficult to guarantee their long-term usability, accessibility and preservation. For this reason, the DANS EASY archive in The Netherlands works with a list  ‘preferred formats’. 
+The accessibility of the data may occasionally be complicated by the fact that the data have been stored using a so-called proprietary format, i.e. a format that owned exclusively by a single company. For formats which are associated with specific software applications, it can be difficult to guarantee their long-term usability, accessibility and preservation. For this reason, the DANS EASY archive in The Netherlands works with a list  ‘preferred formats’. 
 
 **ACTIVITIES:**  
 1. Read the [article on the website of DANS about preferred formats](https://dans.knaw.nl/en/deposit/information-about-depositing-data/before-depositing/file-formats), and about what you can do to improve the durability of non-preferred formats. 
@@ -71,7 +71,7 @@ The accessibility of the data may occasionally be complicated by the fact that t
 ## Interoperable
 
 ### Thing 5: Data structuring and organisation
-Well-structured and well-organised data can evidently be reused much more easily. This section explains how researchers can organize their data in such a way that they can be analysed effectively by data science tools. Many historians capture their data in spreadsheets. As is explained by Broman and Woo (2018), there are a number of important principles to bear in mind when you work with spreadsheets.
+Well-structured and well-organised data can evidently be reused much more easily. This section explains how researchers can organize their data in such a way that they can be analysed effectively with data science tools. Many historians capture their data in spreadsheets. As is explained by Broman and Woo (2018), there are a number of important principles to bear in mind when you work with spreadsheets.
  
 * It is important to be consistent. Terminology should be used invariably.
 * Avoid empty cells. Use a consistent code for data which is unavailable, such as ‘NA’ used in R.
@@ -96,7 +96,7 @@ Read Karl Broman and Kara H. Woo, “[Data organization in spreadsheets](https:/
 
 Tim Berners-Lee, the inventor of the Web, argued that there are [five levels  of open data](https://5stardata.info/en/). Creators of data can earn five stars by following the steps below.
  
-1. Data sets can be awarded one star if it has been made public. This is clearly the case for data which have been published via an open licence in a data repository.
+1. Data sets can be awarded one star if it has been made public. This is clearly the case for data which have been published via an open license in a data repository.
 2. In order to win a second star, the open data needs to be made available as machine-readable data. This criterion can be satisfied by providing access to an Excel Spreadsheet, for instance.
 3. One disadvantage of an Excel spreadsheet is that users need proprietary software to open the data. The third star can be awarded to datasets which are captured using open formats, such as CSV or TXT.
 4. A fourth star can be awarded when the entities in the data set are identified using persistent identifiers. Such PIDs have the effect that other researcher can effectively link to the data set.
@@ -117,9 +117,9 @@ Historical research often concentrates on people, events, organisations and loca
 * Aspects of books can be described using terms from the [Bibliographic Ontology](http://bibliontology.com/) and the [FABIO ontology](https://sparontologies.github.io/fabio/current/fabio.html).
 * [GeoNames](https://www.geonames.org/) defined persistent identifiers to locations, e.g. [https://www.geonames.org/2751773/leiden.html](https://www.geonames.org/2751773/leiden.html).
 * [TaDiRAh](http://tadirah.dariah.eu/vocab/index.php) and [BARTOC](https://bartoc.org/) (Basel Register of Thesauri, Ontologies & Classifications  also offer valuable overviews of the ontologies that have been developed within specfic disciplines.
-* One of the ways to describe the provenance of data sets is by so-called nanopublications. Although you do not need nanopublications to describe provenance, Nanopublications are a way of combining argument and provenance in a single package. Nanopublications rely on the Provenance Ontology to express provenance. You can read more about them and their application in historical research in this paper by Patrick Golden and Ryan Shaw: [Nanopublication beyond the sciences: the PeriodO period gazetteer](https://peerj.com/articles/cs-44/)
+* One of the ways to describe the provenance of data sets is by so-called nanopublications, i.e. a set of Resource Description Framework (RDF) triples (subject-predicate-object tuples). Although you do not need nanopublications to describe provenance, Nanopublications are a way of combining argument and provenance in a single package. Nanopublications rely on the Provenance Ontology to express provenance. You can read more about them and their application in historical research in this paper by Patrick Golden and Ryan Shaw: [Nanopublication beyond the sciences: the PeriodO period gazetteer](https://peerj.com/articles/cs-44/)
 
-Where possible, try to use terms that have been defined in these existing ontologies in your own data set.
+Where possible, try to use terms that have been defined in these existing ontologies in your own data set. An example where a specific vocabulary ([the VOC glossary](http://resources.huygens.knaw.nl/vocglossarium/index_html_en)) was used to markup a dataset can be found [here](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:75648). The dataset is part of a project to reconstruct the domestic market for colonial goods in the Dutch Republic.
 
 **ACTIVITIES:**  
 1. Try to find one or two terms that are relevant to your research using the resources that are mentioned above. You can aso use [Swoogle](http://swoogle.umbc.edu/2006/) to search for vocabularies related to your research. 
@@ -128,13 +128,13 @@ Tip 1: Search for “person” to get an idea of how the thesaurus works.
 Tip 2: All the terms used can be found in the last release of the model: [http://www.cidoc-crm.org/get-last-official-release](http://www.cidoc-crm.org/get-last-official-release).
 
 ### Thing 7: FAIR data modelling
-The fourth and the fifth star in Berner Lee’s model can be awarded when the data are stored in a format in which the topics their properties and their characteristics are identified using URIs whenever possible. More concretely, it implies that you record your data using the Resource Description Framework (RDF) format. RDF, simply put, is a technology which enables you to publish the contents of a database via the web. It is based on a simple data model which assumes that all statements about resources can be reduced to a basic form, consisting of a subject, a predicate and an object. RDF assertions are also known as triples. In a FAIR data model, elements of data are organised and identified using PIDs. The same goes for the relations between these elements. The FAIR data model is a graphical view of the data that act as a metadata key to a spreadsheet but it can also be used as a guide to expose data as a linked data graph in Resource Description Framework (RDF) format. 
+The fourth and the fifth star in Berner Lee’s model can be awarded when the data are stored in a format in which the topics their properties and their characteristics are identified using URIs whenever possible. More concretely, it implies that you record your data using the Resource Description Framework (RDF) format. RDF, simply put, is a technology which enables you to publish the contents of a database via the web. It is based on a simple data model which assumes that all statements about resources can be reduced to a basic form, consisting of a subject, a predicate and an object. RDF assertions are also known as triples. In a FAIR data model, elements of data are organised and identified using PIDs. The same goes for the relations between these elements. The FAIR data model is a graphical view of the data that act as a metadata key to a spreadsheet but it can also be used as a guide to expose data as a linked data graph in RDF format. 
 
 Existing data sets can be converted to RDF by making use of the [FAIRifier ](https://github.com/DTL-FAIRData/FAIRifier/wiki) software. This application is based on [OpenRefine](http://openrefine.org/). Other examples of tools to generate RDF are [Karma](http://usc-isi-i2.github.io/karma/) and [RML](http://rml.io/). In the FAIRifier, it is possible to upload a CSV file. After this, the data set can be connected to elements from existing ontologies.
 
 **ACTIVITIES:**  
 1. Learn about the basics of RDF modeling by going through the [first 15 slides](http://dublincore.org/resources/training/ASIST-Webinar-20160518/webinar-en.pdf) of the webinar about the [UNESCO Thesaurus](http://vocabularies.unesco.org/browser/thesaurus/en/).
-2. Dig in deep by exploring the [FAIRifier](https://github.com/DTL-FAIRData/FAIRifier/wiki) for a dataset you already have available in csv.
+2. Dig in deep by exploring the [FAIRifier](https://github.com/DTL-FAIRData/FAIRifier/wiki) for a dataset you already have available in CSV.
 
 ## Reusable
 ### Thing 8: Licensing 
@@ -144,6 +144,8 @@ A license describes the conditions under which your data or software is (re)usab
 1. Try to pick a license for a data set you are working on by using the [Creative Commons license picker](https://creativecommons.org/choose/)
 2. Try to pick a license for a piece of software or code you are working on by using the [choose a license picker](https://choosealicense.com/)
 3. Learn more about licensing your data by reading [this guide](http://www.dcc.ac.uk/resources/how-guides/license-research-data) from the Digital Curation Center
+
+If you deposit your data in a repository there will be default options available. 
 
 ### Thing 9: Data citation
 When you have made use of someone else’s data, you are strongly recommended to attribute the original creators of these data by including a proper reference. Data sets, and even software applications, can be cited in the same way as textual publications such as articles and monographs. Structured data citations can also be used to calculate metrics about the reuse of the data. Data citations, regardless of citation style, typically contain the authors, the year, the title, the publisher and a persistent identifier.
