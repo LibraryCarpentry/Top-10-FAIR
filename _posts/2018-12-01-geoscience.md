@@ -2,10 +2,8 @@
 title: "Geoscience"
 ---
 
-Version 1.0 (9 December 2018)
-
 ## Sprinters:  
-John Brown, [Janice Chan](https://github.com/icecjan/), Niamh Quigley (Curtin University, Perth, Western Australia)
+[John Brown](https://staffportal.curtin.edu.au/staff/profile/view/John.Brown), [Janice Chan](https://github.com/icecjan/), Niamh Quigley (Curtin University, Perth, Western Australia)
 
 ## Audience:  
 Researchers
@@ -87,7 +85,7 @@ Information sources that were commonly used in the past such as [maps](http://ww
 1. This [video](https://youtu.be/qEmmeFFafUs) (2.5 min) from the US Library of Congress shows the vulnerability of “born digital” objects like research data: they are fragile; they are dependent on software and hardware; and they require active management.
 2. Look at the ANDS page on [file formats](https://www.ands.org.au/working-with-data/data-management/data-preservation).
    
-**Consider**: If your research was put into a time capsule and unearthed in 50 years time, would future researchers be able to determine if your research is still useful to them? If you were allowed to update the time capsule every 5 years, what would you change to make it easier for those unearthing it?
+**Consider**: If your research was put into a time capsule and unearthed in 50 years' time, would future researchers be able to determine if your research is still useful to them? If you were allowed to update the time capsule every 5 years, what would you change to make it easier for those unearthing it?
 
 ### Activity 2: Readme files
 
@@ -111,7 +109,7 @@ When authors cite an article they have used ideas from, they formally and public
 
 The increase in available computational power over the last 50 years has led to a massive increase in the usage of computational analysis methods in geoscience.
 
-As such techniques become more commonplace, it’s important to distinguish between the data itself, the tools used to analyse data and any discrete components within those tools. In some cases a particular function of the software is critical to the analysis process; in other cases the critical part is an interchangeable block of code within that software package. Recognising the difference between these two is important as it changes who gets credit for their previous work and who gets left unsung.
+As such techniques become more commonplace, it’s important to distinguish between the data itself, the tools used to analyse data and any discrete components within those tools. In some cases, a particular function of the software is critical to the analysis process; in other cases the critical part is an interchangeable block of code within that software package. Recognising the difference between these two is important as it changes who gets credit for their previous work and who gets left unsung.
 
 It’s not always easy to know which to cite, but trying to give recognition for the creation of software and software components can make huge impacts on the career of a researcher, especially if they create scientific software!
 
@@ -130,10 +128,10 @@ Digital Object Identifiers (DOIs) are a type of ‘persistent identifier’. DOI
 
 Each DOI is unique but a typical DOI looks like this: [http://dx.doi.org/10.4225/06/577F022BA6954](http://dx.doi.org/10.4225/06/577F022BA6954)
 
-1. Start by watching this short 4.5 minute video [Persistent identifiers and data citation](https://youtu.be/PgqtiY7oZ6k) explained from Research Data Netherlands. It gives you a succinct, clear explanation of how DOIs underpin data citation.
+1. Start by watching this short 4.5-minute video [Persistent identifiers and data citation](https://youtu.be/PgqtiY7oZ6k)  explained from Research Data Netherlands. It gives you a succinct, clear explanation of how DOIs underpin data citation.
 2. Have a look at the poster [Building a culture of data citation](https://www.ands.org.au/__data/assets/pdf_file/0003/383025/data_citation_poster.pdf) and follow the arrows to see how DOIs are attached to data sets and are used in data citation.
 3. Let’s go to a Research Data Australia data record which shows how DOIs are used. Click on this DOI to ‘resolve’ the DOI and take us to the record: [http://dx.doi.org/10.4225/06/577F022BA6954](http://dx.doi.org/10.4225/06/577F022BA6954).
-4. Click on the **Cite** icon on the upper left of the record (under the green **Access the data** tab). No matter where the DOI appears it always resolves back to its original dataset record to avoid duplication. i.e. many records, one copy.
+4. Click on the **Cite** icon on the upper left of the record (under the green **Access the data**  tab). No matter where the DOI appears it always resolves back to its original dataset record to avoid duplication. i.e. many records, one copy.
 5. DOIs can also be applied to grey literature, a term that refers to research that is either unpublished or has been published in non-commercial form, such as government reports. For example, reports like this: [http://doi.org/10.4225/06/583d354b89060](http://doi.org/10.4225/06/583d354b89060).
 
 ### Activity 2: IGSNs
@@ -153,7 +151,7 @@ Each IGSN is unique but a typical IGSN looks like this [IEEVB00C3](https://app.g
 
 Data citation best practice, as discussed in Thing 3, enables citation metrics for data to be tracked and analysed. Data citations are available from the Clarivate Data Citation Index which is a commercial product.
 
-Altmetrics is an alternative measure to help understand the influence of your work. It refers to metrics such as number of views, number of downloads, number of mentions in policy documents, social media, and social bookmarking platforms associated with any research research outputs that have a DOI or other persistent identifiers. Because of their immediacy, altmetrics can be an early indicator of the impact or reach of a dataset; long before formal citation metrics can be assessed.
+Altmetrics is an alternative measure to help understand the influence of your work. It refers to metrics such as number of views, number of downloads, number of mentions in policy documents, social media, and social bookmarking platforms associated with any research outputs that have a DOI or other persistent identifiers. Because of their immediacy, altmetrics can be an early indicator of the impact or reach of a dataset; long before formal citation metrics can be assessed.
 
 1. Start by looking at the altmetrics for this [phylogenomics article](http://www.sciencemag.org/articleusage?gca=sci;346/6210/763) published in Science. Note the usage statistics, including number and pattern of downloads, for this article since it was published in November 2014.
 2. Now click on the “donut” or the link to ‘See More Details’ to see the wealth of information available.
