@@ -3,7 +3,7 @@ title: "Research Data Management Support"
 ---
 
 ## Sprinters:
-[Lena Karvovskaya](https://www.uu.nl/medewerkers/EKarvovskaya), [Otto Lange](https://www.uu.nl/staff/OALange), [Iza Witkowska](https://www.uu.nl/staff/IMWitkowska), [Jacques Flores](https://www.uu.nl/staff/JPFlores) ([Research Data Management (RDM) support at Utrecht University](https://www.uu.nl/en/research/research-data-management/contact-us)). 
+[Lena Karvovskaya](https://www.uu.nl/medewerkers/EKarvovskaya), [Otto Lange](https://www.uu.nl/staff/OALange), [Iza Witkowska](https://www.uu.nl/staff/IMWitkowska), [Jacques Flores](https://www.uu.nl/staff/JPFlores) ([Research Data Management (RDM) support at Utrecht University](https://www.uu.nl/en/research/research-data-management/contact-us))
 
 ## Description:
 This is an umbrella-like document with links to various resources. The aim of the document is to help researchers who want to share their data in a sustainable way. However, we consider the border between librarians and researchers to be a blurred one. This is because, ultimately, librarians support researchers that would like to share their data. We primarily wish to target researchers and support staff irregardless of their experience: those who have limited technical knowledge and want to achieve a very general understanding of the FAIR principles and those who are more advanced technically and want to make use of more technical resources. The resources we will link to for each of the 10 FAIR Things will often be on two levels of technicality. 
@@ -17,8 +17,7 @@ Our primary audience consists of researchers and support staff at Utrecht Univer
 
 **Background:** The advancement of science thrives on the timely sharing and accessibility of research data.  Timely and sustainable sharing is only possible if there are infrastructures and services that enable it.  
 
-1. Read up on [the role of libraries in implementing the FAIR
-Data Principles](https://libereurope.eu/wp-content/uploads/2017/12/LIBER-FAIR-Data.pdf). Think about the advantages and opportunities made possible by digitalization in your research area. Think about the challenges. Have you or your colleagues ever experienced data loss? Is the falsification/fabrication of data an issue with digital data? How easy it to figure out if the data you found online is reliable? Say you found a very useful resource available online and you want to refer to it in your work; can you be sure that it is still there several years later?  
+1. Read up on [the role of libraries in implementing the FAIR Data Principles](https://libereurope.eu/wp-content/uploads/2017/12/LIBER-FAIR-Data.pdf). Think about the advantages and opportunities made possible by digitalization in your research area. Think about the challenges. Have you or your colleagues ever experienced data loss? Is the falsification/fabrication of data an issue with digital data? How easy it to figure out if the data you found online is reliable? Say you found a very useful resource available online and you want to refer to it in your work; can you be sure that it is still there several years later?
 
 2. For more information, you can refer to this [detailed explanation](https://www.go-fair.org/fair-principles/) of FAIR principles developed by the Dutch Center for Life Sciences (DTLS).
 
