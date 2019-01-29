@@ -12,7 +12,7 @@ See ARDC image [summarising](https://www.ands.org.au/__data/assets/image/0011/14
 Figure 1; FAIR in a nutshell. Image: ARDC 2018 - CC-BY 4.0.
 
 ## Description:
-Governments have a mandate to make non-sensitive data open. For example, the Australian [Government Public Data Policy Statement](https://www.pmc.gov.au/resource-centre/public-data/australian-government-public-data-policy-statement) says  “Australian Government entitites will ... make non-sensitive data open by default...make high value data available for use by the public, industry and academia... ensure non-sensitive publicly funded research data is made open for use and reuse... to extend the value of public data for the benefit of the Australian public.” FAIR data is a way to extend the value of data. The largest 20 nations, the G20, agreed to make [Open Data Principles](http://www.g20.utoronto.ca/2015/G20-Anti-Corruption-Open-Data-Principles.pdf) a priority at the 2015 meeting in Turkey, saying “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2).
+Governments have a mandate to make non-sensitive data open. For example, the Australian [Government Public Data Policy Statement](https://www.pmc.gov.au/resource-centre/public-data/australian-government-public-data-policy-statement) says  “Australian Government entities will ... make non-sensitive data open by default...make high value data available for use by the public, industry and academia... ensure non-sensitive publicly funded research data is made open for use and reuse... to extend the value of public data for the benefit of the Australian public.” FAIR data is a way to extend the value of data. The largest 20 nations, the G20, agreed to make [Open Data Principles](http://www.g20.utoronto.ca/2015/G20-Anti-Corruption-Open-Data-Principles.pdf) a priority at the 2015 meeting in Turkey, saying “Transparency... Global transformation, facilitated by technology, fuelled by data and information.. Open data is at the center of this global shift.” (p.2).
 
 ## Audience:
 Government data custodians
@@ -75,7 +75,7 @@ The following legislation may apply to the management of government data:
 * Privacy - http://my.csiro.au/Support-Services/Legal/Privacy-Law.aspx
 * Australian Government intellectual property rules - https://www.communications.gov.au/policy/policy-listing/australian-government-intellectual-property-rules 
 * Records Disposal Authority - An agency-specific records authority may have advice that you need to follow. Find your agency here - http://www.naa.gov.au/information-management/records-authorities/types-of-records-authorities/Agency-RA/index.aspx  
-* New Aus Govt Sharing and Release Legislation (open for public comment, shows where legislation is going): https://www.pmc.gov.au/sites/default/files/publications/australian-government-data-sharing-release-legislation_issues-paper.docx
+* New Australian Government Sharing and Release Legislation (open for public comment, shows where legislation is going): https://www.pmc.gov.au/sites/default/files/publications/australian-government-data-sharing-release-legislation_issues-paper.docx
 
 
 
@@ -110,7 +110,7 @@ Suggest using this now, and then finishing off the modules, making some changes 
 * Where to store data?
 
 * Data.gov.au (and search.data.gov.au!) - find - this is an aggregator
-See https://data.gov.au/dataset/list-of-australian-government-data-portals for a list of Australian Gov Data Portals (current as of March 2017). Some other data portals appear on https://data.gov.au/harvest. 
+See https://data.gov.au/dataset/list-of-australian-government-data-portals for a list of Australian Government Data Portals (current as of March 2017). Some other data portals appear on https://data.gov.au/harvest. 
 * [CSIRO DAP](https://data.csiro.au/dap/home?execution=e1s1) - find/store
 * [National Map](https://nationalmap.gov.au/) - find
 * Re3data.org  - registry of research repositories (etc)
@@ -187,7 +187,7 @@ Visit http://www.doi.org/ and try resolving these DOI numbers:
 ## Thing 6: Licensing
 See the [licensing guide](https://www.ands.org.au/guides/research-data-rights-management): what is the appropriate licence for data produced by a government agency?
 
-**Refer to** [AU Govt Data Statement](https://www.pmc.gov.au/public-data/public-data-policy)**:**
+**Refer to** [Australian Government Data Statement](https://www.pmc.gov.au/public-data/public-data-policy)**:**
 “At a minimum, Australian Government entities will publish appropriately anonymised government data by default: ...under a __*Creative Commons By Attribution licence*__ (ie CC_BY licence) unless a clear case is made to the Department of the Prime Minister and Cabinet for another open licence.”
 
 Specific CC licences, which require DPC  approval, include NC - non-commercial, SA - share alike, and the very restrictive (and not-recommended ANDS) ND - no derivatives allowed.
@@ -262,7 +262,7 @@ Standardised, accepted terms and protocols used for data collection
 * Australian Institute of Health and Welfare - http://meteor.aihw.gov.au/content/index.phtml/itemId/274816 
 * Australian Business Register - https://abr.gov.au/For-Government-agencies/Accessing-ABR-data/ABR-Data-Dictionary/
 * Health.VIC - https://www2.health.vic.gov.au/about/reporting-planning-data/data-dictionaries
-* SA GOV electronic forms data dictionary - https://www.sa.gov.au/editors/electronic-forms-platform/data-dictionary
+* South Australian electronic forms data dictionary - https://www.sa.gov.au/editors/electronic-forms-platform/data-dictionary
 * Growing up in Australia Data Dictionary - https://growingupinaustralia.gov.au/data-and-documentation/data-dictionary
 * Department of Social Services Settlement Database Data Dictionary - https://www.dss.gov.au/our-responsibilities/settlement-services/programs-policy/settlement-services/settlement-reporting-facility/help-for-settlement-reports/data-dictionary
 
@@ -294,49 +294,36 @@ See for example slide 54 in this [Data Readiness](https://www.slideshare.net/Ric
 
 ![People in Data](https://www.ands.org.au/__data/assets/image/0008/417716/share-24-cover-image-700x500.jpg)
 
-### References:
+## References:
 
-* Gov data links - [https://toolkit.data.gov.au/index.php/Main_Page](https://toolkit.data.gov.au/index.php/Main_Page)
-* Public Records Office Victoria - [https://www.prov.vic.gov.au/about-us/partnerships-and-collaborations/open-data](https://www.prov.vic.gov.au/about-us/partnerships-and-collaborations/open-data)
+* [Government data links](https://toolkit.data.gov.au/index.php/Main_Page)
+* [Public Records Office Victoria](https://www.prov.vic.gov.au/about-us/partnerships-and-collaborations/open-data)
 
-### Appendix:
+## Appendix:
 
-### List of Australian State /Territory Government Open Data Policies
+### List of Australian state/territory government open data policies:
 
-AU Federal Govt: Refer policy at Dept of Prime Minister and Cabinet. See also National Data Commissioner, ”responsible for implementing a simpler data sharing and release framework”.
+Australian Federal Government: Refer policy at Dept of Prime Minister and Cabinet. See also National Data Commissioner, ”responsible for implementing a simpler data sharing and release framework”.
 
-Victoria AU: Data Access Policy - https://www.data.vic.gov.au/policy-and-standards-0
+[Victoria Data Access Policy](https://www.data.vic.gov.au/policy-and-standards-0)
+
 “The Victorian Government recognises the benefits from and encourages the availability of Victorian government data for the public good. The DataVic Access Policy has been developed to support this recognition.”
 
-NSW
-
-Policy https://www.finance.nsw.gov.au/ict/resources/nsw-government-open-data-policy 
+[New South Wales Policy (NSW)](https://www.finance.nsw.gov.au/ict/resources/nsw-government-open-data-policy)
 
 “The objectives of this policy are to assist NSW Government agencies to:
 release data for use by the community, research, business and industry
 accelerate the use of data to derive new insights for better public services
 embed open data into business-as-usual...”
 
-Queensland
+[Queensland Policy](https://www.oic.qld.gov.au/publications/policies/open-data-strategy)
 
-Policy https://www.oic.qld.gov.au/publications/policies/open-data-strategy 
+[Tasmania Policy](http://www.egovernment.tas.gov.au/stats_matter/open_data/tasmanian_government_open_data_policy)
 
-Tasmania
+[South Australia Policy](https://digital.sa.gov.au/resources/topic/open-data/open-data-declaration)
 
-Policy http://www.egovernment.tas.gov.au/stats_matter/open_data/tasmanian_government_open_data_policy
+[Western Australia Policy](https://data.wa.gov.au/open-data-policy)
 
-South Australia
+[Australian Capital Territory Policy](http://www.cmd.act.gov.au/__data/assets/pdf_file/0011/859430/2016-Proactive-Release-of-Data-Open-Data-Policy.pdf)
 
-Policy https://digital.sa.gov.au/resources/topic/open-data/open-data-declaration 
-
-Western Australia
-
-Policy https://data.wa.gov.au/open-data-policy 
-
-ACT
-
-Policy [http://www.cmd.act.gov.au/__data/assets/pdf_file/0011/859430/2016-Proactive-Release-of-Data-Open-Data-Policy.pdf](http://www.cmd.act.gov.au/__data/assets/pdf_file/0011/859430/2016-Proactive-Release-of-Data-Open-Data-Policy.pdf)
-
-NT
-
-Policy (Darwin)[https://www.darwin.nt.gov.au/sites/default/files/publications/attachments/policy_no_086_-_open_data.pdf](https://www.darwin.nt.gov.au/sites/default/files/publications/attachments/policy_no_086_-_open_data.pdf)
+[Northern Territory Policy (Darwin)](https://www.darwin.nt.gov.au/sites/default/files/publications/attachments/policy_no_086_-_open_data.pdf)
