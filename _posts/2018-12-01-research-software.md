@@ -43,7 +43,7 @@ The name alone does not tell people much about your software. In order for other
 **Activity:**  
 Think of minimum set of information (metadata) which will help others find your software. This can include short descriptive text and meaningful keywords.
 
-[Codemeta](https://codemeta.github.io/terms/) is a set of keywords used to describe software and way to structure them in machine readable way. Example of Codemeta used in a software package. For example look at https://github.com/NLeSC/boatswain/blob/master/codemeta.json or https://github.com/datacite/maremma
+[Codemeta](https://codemeta.github.io/terms/) is a set of keywords used to describe software and way to structure them in machine readable way. Example of Codemeta used in a software package. For example, look at https://github.com/NLeSC/boatswain/blob/master/codemeta.json or https://github.com/datacite/maremma
 
 [Edam](http://edamontology.org/page) is an example of an ontology that provides terminology that can be used to describe bioinformatics software.
 
@@ -69,11 +69,11 @@ Here are some examples of research software registries:
 ### Thing 3: Get and use a unique and persistent identifier for your software
 It will help others find and access the particular version of your software.
 Unique means that the identifier will point on and only version and location of your software.
-Persistent means that it will pointing to the same version and location for long, specified amount of time. For example Zenodo provides you with a DOI (Digital Object Identifier) that will be resolvable for at least the next 20 years.
+Persistent means that it will pointing to the same version and location for long, specified amount of time. For example, Zenodo provides you with a DOI (Digital Object Identifier) that will be resolvable for at least the next 20 years.
 Recent initiatives, such as Software Heritage, propose to associate a permalinks as intrinsic SHA1 identifier to software (see example through the id: swh:1:dir:005bc6218c7a0a9ede654f9a177058adcde98a50 / permalinks: https://archive.softwareheritage.org/swh:1:dir:005bc6218c7a0a9ede654f9a177058adcde98a50/)
 
 **Activity:**  
-If you have registered your software in a registry, chances are good that they provide a unique and persistent identifier. If not, obtain an identifier from another organisation. If you have multiple identifiers, choose one that you use as your main identifier. Make sure you use it consistently when referring to your software, e.g. on your own website, code repository or in publications.
+If you have registered your software in a registry, chances are good that they provide a unique and persistent identifier. If not, obtain an identifier from another organization. If you have multiple identifiers, choose one that you use as your main identifier. Make sure you use it consistently when referring to your software, e.g. on your own website, code repository or in publications.
 
 [Making your code citable with Zenodo](https://guides.github.com/activities/citable-code/)
 
@@ -83,7 +83,7 @@ If you have registered your software in a registry, chances are good that they p
 In order for anyone to use your software, they need to be able to download an executable version along with documentation. For interpreted languages like Python and R, the code is also the executable version. For compiled languages like Java and C, the executable version is a binary file, and the code might not be accessible. Downloading the software and documentation is possible, for instance, from a project website, a git repository or from a software registry.
 
 **Activity:**  
-Using the identifier as your starting point, ask a colleague to try to get your software (binary/script). Can he/she download it? Does he/she also have access to the documentation? Is there anything preventing him/her from getting to it? Is it hosted on a reliable platform (long term persistent, such as zenodo, pypi, CRAN)?
+Using the identifier as your starting point, ask a colleague to try to get your software (binary/script). Can he/she download it? Does he/she also have access to the documentation? Is there anything preventing him/her from getting to it? Is it hosted on a reliable platform (long term persistent, such as Zenodo, PyPI, CRAN)?
 
 ## Interoperability
 
@@ -94,7 +94,7 @@ Your software performs one or more operations that take an input and transform i
 List all operations that your software provides, and describe them along with corresponding input and output data types. If possible, use terms from a domain ontology like EDAM.
 
 ### Thing 6: Use standard (community agreed) formats for inputs and outputs
-In order for people to use your software, they need to know how to feed data to it -- standard formats are easy ways to exchange data between different pieces of software. By sticking to standards it is possible to use the output from another piece of software as an input to your software (or the other way around). For example, FASTA is a format for representing molecular sequences (DNA, RNA, protein, …) that most sequence analysis tools can handle. NetCDF is a standard file format used sharing of array-oriented scientific data.
+In order for people to use your software, they need to know how to feed data to it -- standard formats are easy ways to exchange data between different pieces of software. By sticking to standards, it is possible to use the output from another piece of software as an input to your software (or the other way around). For example, FASTA is a format for representing molecular sequences (DNA, RNA, protein, …) that most sequence analysis tools can handle. NetCDF is a standard file format used sharing of array-oriented scientific data.
 
 **Activity:**  
 What are the relevant standards in your field? Which are the groups/organizations that are responsible for standards in your field? Is there a place where you can find the relevant standards and a detailed description? What other tools use these standards? If possible, use such standard formats as input/output of your software and state which you are using. (Avoid to define your own standards! http://imgs.xkcd.com/comics/standards.png)
@@ -108,7 +108,7 @@ Your software should include sufficient documentation: instructions on how to in
 Ask a colleague to look at your software’s documentation. Is he/she able to install your software? Can he/she run it? Can he/she produce the expected results?
 
 ### Thing 8: Give your software a license
-A license tells your (potential) users what they are allowed to do with your software (and what not to do), and can protect your intellectual property. Without a license people may spend time trying to figure out if they are allowed to use your software -- make things easy for them. Therefore it is important that you choose a software license that meets your intentions. [Choose a license website](https://choosealicense.com/) provides a simple guide for picking the right license for your software.
+A license tells your (potential) users what they are allowed to do with your software (and what not to do), and can protect your intellectual property. Without a license people may spend time trying to figure out if they are allowed to use your software -- make things easy for them. Therefore, it is important that you choose a software license that meets your intentions. [Choose a license website](https://choosealicense.com/) provides a simple guide for picking the right license for your software.
 
 **Activity:**  
 * Follow [the 4OSS lesson](https://softdev4research.github.io/4OSS-lesson/03-use-license/index.html) to learn more about licenses and their implications.
