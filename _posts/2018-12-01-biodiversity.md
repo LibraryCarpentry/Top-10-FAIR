@@ -3,7 +3,7 @@ title: Biodiversity
 ---
 
 ## Sprinters:
-Silvia Di Giorgio, Akinyemi Mandela Fasemore, Konrad Förstner, Till Sauerwein, Eva Seidlmayer (ZB MED - Information Center for Life Science, Cologne, Germany), Ilja Zeitlin, Susannah Bacon, Chris Erdmann (The Carpentries, California Digital Library)
+[Silvia Di Giorgio](https://twitter.com/digiorgiosilvia), [Akinyemi Mandela Fasemore](https://sea-region.github.com/fasemoreakinyemi), [Konrad Förstner](https://twitter.com/konradfoerstner), [Till Sauerwein](https://twitter.com/TillSauerwein), [Eva Seidlmayer](https://sea-region.github.com/EvaSeidlmayer) (ZB MED - Information Center for Life Science, Cologne, Germany), [Ilja Zeitlin](https://rd-alliance.org/users/ilja-zeitlin), [Susannah Bacon](https://twitter.com/ardcsbacon), [Chris Erdmann](https://twitter.com/libcce) (The Carpentries, California Digital Library)
 
 ## Audience: 
 Researchers
@@ -18,8 +18,8 @@ To make data findable, it has to be uniquely and persistently stored with an ide
 
 * A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the address bar (e. g.  [https://doi.org/10.1109/5.771073](https://doi.org/10.1109/5.771073)). Also, see: [ANDS Guide: Digital Object Identifier (DOI) System for Research Data](https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf).
 
-**NOTE:**
-The distributing DataCite-agency for Life Sciences is PUBLISSO:  
+**NOTE:**  
+The distributing DataCite-agency (i.e. issues DOIs) for Life Sciences is PUBLISSO:  
 [https://www.publisso.de/wir-fuer-sie/doi-service/](https://www.publisso.de/wir-fuer-sie/doi-service/)
 
 * ORCID is a self-identifier for authors to avoid author name ambiguity. Use ORCIDs from the start of data creation, i.e. attach data creator name/ORCID to dataset as a metadata field. Include ORCIDs with datasets in repositories (e.g. in Sequence Read Archive (SRA), include the ORCID for the data creator).  This allows for the tracking of data provenance (the origins, custody, and ownership of research data). 
@@ -27,18 +27,18 @@ The distributing DataCite-agency for Life Sciences is PUBLISSO:
 **Exercise:**  
 For easy look up, we have a list of DOIs below. Can you match the right document to the appropriate DOI? HINT: Start from here [https://www.doi.org/](https://www.doi.org/)!
 
-1) 10.1103/PhysRev.48.73
-2) 10.5962/bhl.title.28875
+1. 10.1103/PhysRev.48.73
+2. 10.5962/bhl.title.28875
 
 * _On the origin of species_
 * _The Particle Problem in the General Theory of Relativity_
 
 Which of these is not a valid DOI?
 
-1) 10.1037/arc0000014
-2) 12.1093/fMicb.2018.00257 
-3) 10.1101/468025
-HINT check the prefix!
+1. 10.1037/arc0000014
+2. 12.1093/fMicb.2018.00257 
+3. 10.1101/468025
+HINT: Check the prefix (before the forward slash)!
 
 Which part indicates the publishing institution? The prefix or the suffix of a DOI?
 
@@ -47,7 +47,7 @@ Go through the [Getting Started with ORCID Integration](https://members.orcid.or
 
 ## Thing 2: Citations
 
-Zenodo for example is a tool that makes scientific data and publications easier to cite.  
+Zenodo, for example, is a tool that makes scientific data and publications easier to cite.  
 It supports various data and license types. It also supports source code from GitHub repositories.
 
 See [https://zenodo.org/](https://zenodo.org/)
@@ -57,9 +57,9 @@ See [https://zenodo.org/](https://zenodo.org/)
 [https://sandbox.zenodo.org/](https://sandbox.zenodo.org/)
 
 Questions:  
-1) Which metadata field do you have to add when uploading data and why? 
-2) Which field are mandatory and which once are not. 
-3) Which identifiers can you use. 
+1. Which metadata fields do you have to add when uploading data and why? 
+2. Which fields are mandatory and which ones are not?
+3. What identifiers can you use?
 
 ![Uploading to Zenodo (Sandbox)](http://www.researchobject.org/pages/wp-content/uploads/2018/04/zenodo-03-info.png)
 
