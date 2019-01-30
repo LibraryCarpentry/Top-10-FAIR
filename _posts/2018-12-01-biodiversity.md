@@ -172,16 +172,16 @@ Use the elixir software bio.tools ([https://bio.tools/](https://bio.tools/)) to 
 
 Make the data accessible via an API, in a structured data format that can be automatically read and processed by a computer. See the [Open Data Handbook Glossary - Machine readable](http://opendatahandbook.org/glossary/en/terms/machine-readable/).
 
-#### Exercise - Crossref:
-1) Pick the DOI of a publication of your choice
-2) Open a Web browser and add the url
-3) [https://api.crossref.org/works/](https://api.crossref.org/works/)<DOI> <= replace <DOI> with the DOI of the publication. 
+### Exercise - Crossref:
+1. Pick the DOI of a publication of your choice.
+2. Open a Web browser and add the url.
+3. [https://api.crossref.org/works/DOI](https://api.crossref.org/works/DOI) <= replace DOI with the DOI of the publication. 
 
 Example: [https://api.crossref.org/works/10.1371/journal.pcbi.1004668](https://api.crossref.org/works/10.1371/journal.pcbi.1004668)
 
-#### Exercise - DataCite:
-1) Pick the DOI of a dataset in Zenodo
-2) Open [https://api.datacite.org/works/<DOI>](https://api.datacite.org/works/<DOI>) <= replace <DOI> with the DOI of the Zenodo entry
+### Exercise - DataCite:
+1. Pick the DOI of a dataset in Zenodo.
+2. Open [https://api.datacite.org/works/DOI](https://api.datacite.org/works/DOI) <= replace DOI with the DOI of the Zenodo entry.
 
 Example: [https://api.datacite.org/works/10.5281/zenodo.1574835](https://api.datacite.org/works/10.5281/zenodo.1574835)
 
