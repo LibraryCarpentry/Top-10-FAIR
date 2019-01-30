@@ -133,8 +133,8 @@ Using Magnet URI scheme directly on the publication will make all the data acces
 * [Magnet URI Scheme](https://en.wikipedia.org/wiki/Magnet_URI_scheme)
 
 **Exercise:**  
-1) Upload any small data set of your choice with the above link.
-2) Share with a colleague a link to access it over torrent.
+1. Upload any small data set of your choice with the above link.
+2. Share with a colleague a link to access it over torrent.
 
 ## Interoperability:
 
@@ -202,7 +202,6 @@ Learn Docker & Containers using Interactive Browser-Based Scenarios: [https://ww
 Blockchain technology has the potential to be a technical solution to the current reproducibility crisis in science, and could "reduce waste and make more research results true". See:
 
 * [Mapping the blockchain for science landscape](https://hackernoon.com/mapping-the-blockchain-for-science-landscape-546b61bfbd1)
-* [Blockchain_for_science_and_knowledge_creation_-_A_technical_fix_to_the_reproducibility_crisis](https://www.researchgate.net/publication/306107836_Blockchain_for_science_and_knowledge_creation_-_A_technical_fix_to_the_reproducibility_crisis)
 * [Blockchain for science and knowledge creation: A technical fix to the reproducibility crisis?](https://zenodo.org/record/60223/files/ZenodoBlockchainforScienceKnowledgeCreation.pdf)
 
 **Living document example:**  
