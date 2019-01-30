@@ -88,7 +88,7 @@ with finding an appropriate repository for their data:
 * [Repository Finder](https://repositoryfinder.datacite.org/)
 
 **Exercise:**  
-1. How many entries are returned for the a query specific for your research topic on [re3data](https://www.re3data.org)?
+1. How many entries are returned for the query specific for your research topic on [re3data](https://www.re3data.org)?
 2. If you filter under "Subject", what do you find?
 3. Do you think something is missing from the results? If so, [suggest a repository](https://www.re3data.org/suggest).
 
@@ -164,7 +164,7 @@ Make the data accessible via an API, in a structured data format that can be aut
 
 ### Exercise - Crossref:
 1. Pick the DOI of a publication of your choice.
-2. Open a Web browser and add the url.
+2. Open a Web browser and add the URL.
 3. [https://api.crossref.org/works/DOI](https://api.crossref.org/works/DOI) <= replace DOI with the DOI of the publication. 
 
 Example: [https://api.crossref.org/works/10.1371/journal.pcbi.1004668](https://api.crossref.org/works/10.1371/journal.pcbi.1004668)
