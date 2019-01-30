@@ -22,8 +22,6 @@ To make data findable, it has to be uniquely and persistently stored with an ide
 The distributing DataCite-agency (i.e. issues DOIs) for Life Sciences is PUBLISSO:  
 [https://www.publisso.de/wir-fuer-sie/doi-service/](https://www.publisso.de/wir-fuer-sie/doi-service/)
 
-* ORCID is a self-identifier for authors to avoid author name ambiguity. Use ORCIDs from the start of data creation, i.e. attach data creator name/ORCID to dataset as a metadata field. Include ORCIDs with datasets in repositories (e.g. in Sequence Read Archive (SRA), include the ORCID for the data creator).  This allows for the tracking of data provenance (the origins, custody, and ownership of research data). 
-
 **Exercise:**  
 For easy look up, we have a list of DOIs below. Can you match the right document to the appropriate DOI? HINT: Start from here [https://www.doi.org/](https://www.doi.org/)!
 
@@ -42,7 +40,9 @@ HINT: Check the prefix (before the forward slash)!
 
 Which part indicates the publishing institution? The prefix or the suffix of a DOI?
 
-**ORCID Exercise:**   
+**ORCID Exercise:** 
+ORCID is a self-identifier for authors to avoid author name ambiguity. Use ORCIDs from the start of data creation, i.e. attach data creator name/ORCID to dataset as a metadata field. Include ORCIDs with datasets in repositories (e.g. in Sequence Read Archive (SRA), include the ORCID for the data creator).  This allows for the tracking of data provenance (the origins, custody, and ownership of research data). 
+
 Go through the [Getting Started with ORCID Integration](https://members.orcid.org/api/getting-started).
 
 ## Thing 2: Citations
@@ -119,32 +119,31 @@ Knowing the appropriate licenses to use for your data can help others understand
 ### Thing 7: Availability via torrents
 
 The era of Big Data is finally upon us. A prerequisite for accessibility is availability. Well established sharing protocols 
-like torrents will ensure data are perpetually available without the constraint of time and space.
-Using the torrent protocol for scientific data will lead to some of the below advantages:
+like torrents will ensure data are perpetually available without the constraint of time and space. Using the torrent protocol for scientific data will lead to some of the below advantages:
+
 * Immutability 
 * Distribution capabilities (lower cost for distributing the data) 
-* No sole maintainer (we don’t have to rely only on one specific maintainer because data can be cloned and maintained across the peer-networks
+* No sole maintainer (we don’t have to rely only on one specific maintainer because data can be cloned and maintained across the peer-networks)
 
 The Magnet URI scheme defines the format of magnet links, a de facto standard for identifying files by their content, via cryptographic hash value rather than by their location.
 
-Using Magnet URI scheme directly on the publication will make all the data accessible. 
+Using Magnet URI scheme directly on the publication will make all the data accessible. For more information, read: 
 
-[http://academictorrents.com/](http://academictorrents.com/)
-
-[https://en.wikipedia.org/wiki/Magnet_URI_scheme](https://en.wikipedia.org/wiki/Magnet_URI_scheme)
+* [Academic Torrents](http://academictorrents.com/)
+* [Magnet URI Scheme](https://en.wikipedia.org/wiki/Magnet_URI_scheme)
 
 **Exercise:**  
-1) Upload any small data set of your choice with the above link 
-2) Share with a colleague a link to access it over torrent 
+1) Upload any small data set of your choice with the above link.
+2) Share with a colleague a link to access it over torrent.
 
 ## Interoperability:
 
-### Thing 8: ELIXIR platforms  
+## Thing 8: ELIXIR platforms  
 
 Standardisation of life science data will ensure interoperability across different sub fields. 
 ELIXIR is an intergovernmental organisation that brings together life science resources from across Europe.
 
-* [https://www.elixir-europe.org/platforms/interoperability](https://www.elixir-europe.org/platforms/interoperability)
+* [ELIXIR Interoperability Platform](https://www.elixir-europe.org/platforms/interoperability)
 
 **Exercise:**  
 Use the ELIXIR software [bio.tools](https://bio.tools/) to find the author of the RNA-seq python pipeline "READemption".
@@ -180,44 +179,34 @@ Example: [https://api.datacite.org/works/10.5281/zenodo.1574835](https://api.dat
 
 ## Thing 11: Digitalization
 
-If the methods to record complex experiments are prone to error, 
-so that reproducible results cannot be guaranteed, how could you ever be sure you’re dealing with real insights and not random information?
-The electronic lab notebook provides the missing infrastructure for data recording, 
-retrieval and integrity.
-An electronic lab notebook must be able to create, import, 
-store and retrieve all important data types in digital format. 
+If the methods to record complex experiments are prone to error, so that reproducible results cannot be guaranteed, how can you ever be sure you’re dealing with real insights and not random information? The electronic lab notebook provides the missing infrastructure for data recording, retrieval and integrity. An electronic lab notebook must be able to create, import, 
+store and retrieve all important data types in digital format. For more information, read: 
 
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/)
-
-[https://datamanagement.hms.harvard.edu/electronic-lab-notebooks](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks)
+* [Kanza, Samantha et al. “Electronic lab notebooks: can they replace paper?” Journal of cheminformatics vol. 9,1 31. 24 May. 2017, doi:10.1186/s13321-017-0221-3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5443717/)
+* [Electronic Lab Notebook Matrix](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks)
 
 **Exercise:**  
 Explore the demo lab notebook at [https://demo.elabftw.net/experiments.php](https://demo.elabftw.net/experiments.php)
 
 ## Thing 12: Containers
 
-In a scientific field most of the time we have to deal with large amount of data that has to be processed before publication. One important aspect of the reproducibility challenge is ensuring computational analysis can be run reproducibly, even in different environments.
+In a scientific field, most of the time we have to deal with large amounts of data that have to be processed before publication. One important aspect of the reproducibility challenge is ensuring computational analysis can be reproduced, even in different environments. For more information, read:
 
-[https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf](https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf)
+* [Grüning, Björn, et al. "Practical computational reproducibility in the life sciences." Cell systems 6.6 (2018): 631-635.](https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf)
 
 ### Exercise:
-[https://www.katacoda.com/courses/docker](https://www.katacoda.com/courses/docker)
-
+Learn Docker & Containers using Interactive Browser-Based Scenarios: [https://www.katacoda.com/courses/docker](https://www.katacoda.com/courses/docker)
 
 ## Thing 13: Blockchain for Life Science
 
-This technology could be a technical solution to the 
-current reproducibility crisis in science, and could "reduce waste and make more research results true".
+Blockchain technology has the potential to be a technical solution to the current reproducibility crisis in science, and could "reduce waste and make more research results true". See:
 
 * [Mapping the blockchain for science landscape](https://hackernoon.com/mapping-the-blockchain-for-science-landscape-546b61bfbd1)
-
 * [Blockchain_for_science_and_knowledge_creation_-_A_technical_fix_to_the_reproducibility_crisis](https://www.researchgate.net/publication/306107836_Blockchain_for_science_and_knowledge_creation_-_A_technical_fix_to_the_reproducibility_crisis)
-
 * [Blockchain for science and knowledge creation: A technical fix to the reproducibility crisis?](https://zenodo.org/record/60223/files/ZenodoBlockchainforScienceKnowledgeCreation.pdf)
 
-Living document: 
-
-[https://www.blockchainforscience.com/2017/02/23/blockchain-for-open-science-the-living-document/](https://www.blockchainforscience.com/2017/02/23/blockchain-for-open-science-the-living-document/)
+**Living document example:**  
+See Blockchain for Open Science – the living document: [https://www.blockchainforscience.com/2017/02/23/blockchain-for-open-science-the-living-document/](https://www.blockchainforscience.com/2017/02/23/blockchain-for-open-science-the-living-document/)
 
 ### Supplementary information:
 
