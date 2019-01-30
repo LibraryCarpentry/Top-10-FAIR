@@ -78,24 +78,21 @@ Go to Wikidata and find the publication date of the book “On the origin of spe
 This project aims to accelerate scientific discovery and enhance the integrity, 
 transparency, and reproducibility of data. To enable FAIR data sharing, data need to be deposited in 
 a repository that is taking steps to make data as open and FAIR as possible.
-This is not clear-cut because at this time, there is no such thing as a FAIR 
+It's not clear-cut what is FAIR at this time, there is no such thing as a FAIR 
 stamp - although the CoreTrustSeal certification provides a good indication. 
-Under the auspices of the Enabling FAIR Data Project, AGU, re3data, 
-and DataCite therefore decided to develop new tools to assist researchers 
-in finding an appropriate repository for their data:
+Therefore, under the auspices of the Enabling FAIR Data Project, American Geophysical Union (AGU), re3data, 
+and DataCite, these organisations have decided to develop new tools to assist researchers 
+with finding an appropriate repository for their data:
 
-* [https://www.re3data.org/browse/by-subject/](https://www.re3data.org/browse/by-subject/)
-* [https://repositoryfinder.datacite.org/](https://repositoryfinder.datacite.org/)
+* [Browse Subject Repositories](https://www.re3data.org/browse/by-subject/)
+* [Repository Finder](https://repositoryfinder.datacite.org/)
 
 **Exercise:**  
-1) How many entries are returned for the a query specific for your research topic on re3data https://www.re3data.org?
-2) If you filter under "Subject" what do you find?
-3) Do you think something is missing from the results?
-4) Please try to submit a missing repository
+1. How many entries are returned for the a query specific for your research topic on [re3data](https://www.re3data.org)?
+2. If you filter under "Subject", what do you find?
+3. Do you think something is missing from the results? If so, [suggest a repository](https://www.re3data.org/suggest).
 
-Try the "browse by Subject" entry to the re3data-database 
-since this gives a great overview on the wide landscape of research 
-data repositories: [https://www.re3data.org/browse/by-subject/](https://www.re3data.org/browse/by-subject/)
+**Try** the "browse by Subject" entry to the re3data-database since this gives a great overview on the wide landscape of research data repositories: [https://www.re3data.org/browse/by-subject/](https://www.re3data.org/browse/by-subject/)
 
 ## Accessibility
 
