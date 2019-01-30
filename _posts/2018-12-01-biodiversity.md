@@ -45,7 +45,7 @@ Which part indicates the publishing institution? The prefix or the suffix of a D
 **ORCID Exercise:**   
 Go through the [Getting Started with ORCID Integration](https://members.orcid.org/api/getting-started).
 
-### Thing 2: Citations
+## Thing 2: Citations
 
 Zenodo for example is a tool that makes scientific data and publications easier to cite.  
 It supports various data and license types. It also supports source code from GitHub repositories.
@@ -63,7 +63,7 @@ Questions:
 
 ![Uploading to Zenodo (Sandbox)](http://www.researchobject.org/pages/wp-content/uploads/2018/04/zenodo-03-info.png)
 
-### Thing 3: Wikidata
+## Thing 3: Wikidata
 
 [Wikidata](https://www.wikidata.org/wiki/Wikidata) provides a common source of open data which can be used by Wikimedia projects such as Wikipedia, and by anyone else, under a public domain license.
 
@@ -73,7 +73,7 @@ Go to Wikidata and find the publication date of the book “On the origin of spe
 * Switch over to the linked dataset of the author of the book and see his other publications.
 * What did he publish in 1839?
 
-### Thing 4: Registry of Research Data Repositories (re3data)
+## Thing 4: Registry of Research Data Repositories (re3data)
 
 This project aims to accelerate scientific discovery and enhance the integrity, 
 transparency, and reproducibility of data. To enable FAIR data sharing, data need to be deposited in 
@@ -97,32 +97,27 @@ Try the "browse by Subject" entry to the re3data-database
 since this gives a great overview on the wide landscape of research 
 data repositories: [https://www.re3data.org/browse/by-subject/](https://www.re3data.org/browse/by-subject/)
 
-## Accessibility:
+## Accessibility
 
-### Thing 5: Bioschema.org
+## Thing 5: Bioschemas
 
-Bioschemas aims to improve data interoperability in life sciences. 
-It does this by encouraging people in life science to use schema.org markup, 
-so that their websites and services contain consistently structured information. 
-This structured information then makes it easier to discover, collate and analyse distributed data.
+[bioschemas.org](http://bioschemas.org/) aims to improve data interoperability in the life sciences. It does this by encouraging people in the life sciences to use [schema.org](https://schema.org/) markup, so that their websites and services contain consistently structured information (metadata). This structured information then makes it easier to discover, collate and analyse distributed data.
 
 Exercises can be found on the Bioschema website under "tutorials" and "how to".
 
-[https://bioschemas.gitbook.io/training-portal/](https://bioschemas.gitbook.io/training-portal/)
+* [https://bioschemas.gitbook.io/training-portal/](https://bioschemas.gitbook.io/training-portal/)
 
-### Thing 6: Licenses
+## Thing 6: Licenses
 
-Being well informed about the appropriate licenses will ensure data is available within the 
-boundary intended by the authors and also enhance accessibility for target groups.
+Knowing the appropriate licenses to use for your data can help others understand how they can use your data and can also help with improving accessibility.
 
-* [https://opensource.org/licenses](https://opensource.org/licenses)
-* [https://wiki.creativecommons.org/wiki/Data_and_CC_licenses](https://wiki.creativecommons.org/wiki/Data_and_CC_licenses)
-* [http://www.dcc.ac.uk/resources/how-guides/license-research-data](http://www.dcc.ac.uk/resources/how-guides/license-research-data)
+* [Open Source Licenses](https://opensource.org/licenses)
+* [Data and Creative Commons licenses](https://wiki.creativecommons.org/wiki/Data_and_CC_licenses)
+* [How to License Research Data](http://www.dcc.ac.uk/resources/how-guides/license-research-data)
 
 **Exercise:**  
-1) Use the link below to select the appropriate licence with the following intentions;
-2) Allow your work to be adapted and also allow it to be used commercially. 
-[https://creativecommons.org/choose](https://creativecommons.org/choose)
+1. Use the [Creative Commons License Tool](https://creativecommons.org/choose) to select the appropriate license with the following intentions;
+2. Allow your work to be adapted and also allow it to be used commercially. 
 
 ### Thing 7: Availability via torrents
 
@@ -147,16 +142,15 @@ Using Magnet URI scheme directly on the publication will make all the data acces
 
 ## Interoperability:
 
-### Thing 8: Elixir platforms  
+### Thing 8: ELIXIR platforms  
 
-Standardization of life science data will ensure interoperability across different sub fields. 
-ELIXIR is an intergovernmental organisation that brings together life science resources 
-from across Europe
+Standardisation of life science data will ensure interoperability across different sub fields. 
+ELIXIR is an intergovernmental organisation that brings together life science resources from across Europe.
 
-[https://www.elixir-europe.org/platforms/interoperability](https://www.elixir-europe.org/platforms/interoperability)
+* [https://www.elixir-europe.org/platforms/interoperability](https://www.elixir-europe.org/platforms/interoperability)
 
 **Exercise:**  
-Use the elixir software bio.tools ([https://bio.tools/](https://bio.tools/)) to find the author of the RNA-seq python pipeline "READemption".
+Use the ELIXIR software [bio.tools](https://bio.tools/) to find the author of the RNA-seq python pipeline "READemption".
 
 ## Thing 9: Research data management
 
@@ -185,8 +179,9 @@ Example: [https://api.crossref.org/works/10.1371/journal.pcbi.1004668](https://a
 
 Example: [https://api.datacite.org/works/10.5281/zenodo.1574835](https://api.datacite.org/works/10.5281/zenodo.1574835)
 
-## Reusability:
-### Thing 11: Digitalization
+## Reusability
+
+## Thing 11: Digitalization
 
 If the methods to record complex experiments are prone to error, 
 so that reproducible results cannot be guaranteed, how could you ever be sure you’re dealing with real insights and not random information?
@@ -202,17 +197,17 @@ store and retrieve all important data types in digital format.
 **Exercise:**  
 Explore the demo lab notebook at [https://demo.elabftw.net/experiments.php](https://demo.elabftw.net/experiments.php)
 
-### Thing 12: Containers
+## Thing 12: Containers
 
 In a scientific field most of the time we have to deal with large amount of data that has to be processed before publication. One important aspect of the reproducibility challenge is ensuring computational analysis can be run reproducibly, even in different environments.
 
 [https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf](https://www.cell.com/cell-systems/pdf/S2405-4712(18)30140-6.pdf)
 
-#### Exercise:
+### Exercise:
 [https://www.katacoda.com/courses/docker](https://www.katacoda.com/courses/docker)
 
 
-### Thing 13: Blockchain for Life Science
+## Thing 13: Blockchain for Life Science
 
 This technology could be a technical solution to the 
 current reproducibility crisis in science, and could "reduce waste and make more research results true".
