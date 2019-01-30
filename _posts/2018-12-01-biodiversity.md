@@ -2,9 +2,7 @@
 title: Biodiversity
 ---
 
-## Sprinters
-In alphabetic order:
-
+## Sprinters:
 Silvia Di Giorgio, Akinyemi Mandela Fasemore, Konrad Förstner, Till Sauerwein, Eva Seidlmayer (ZB MED - Information Center for Life Science, Cologne, Germany), Ilja Zeitlin, Susannah Bacon, Chris Erdmann (The Carpentries, California Digital Library)
 
 ## Audience: 
@@ -12,13 +10,13 @@ Researchers
 
 # Things
 
-## Findability:
+## Findability
 
-### Thing  1: Identifiers 
+## Thing 1: Identifiers 
 
 To make data findable, it has to be uniquely and persistently stored with an identifier. 
 
-* A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the adress bar (e. g.  [https://doi.org/10.1109/5.771073](https://doi.org/10.1109/5.771073)). Also, see: [ANDS Guide: Digital Object Identifier (DOI) System for Research Data](https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf).
+* A digital object identifier (DOI) is a unique, case-insensitive, alphanumeric character sequence and can be very helpful for this purpose. You can reach the identified digital object by using the DOI as a URL. Just fill in the DOI in the address bar (e. g.  [https://doi.org/10.1109/5.771073](https://doi.org/10.1109/5.771073)). Also, see: [ANDS Guide: Digital Object Identifier (DOI) System for Research Data](https://www.ands.org.au/__data/assets/pdf_file/0006/715155/Digital-Object-Identifiers.pdf).
 
 **NOTE:**
 The distributing DataCite-agency for Life Sciences is PUBLISSO:  
@@ -123,7 +121,7 @@ boundary intended by the authors and also enhance accessibility for target group
 
 **Exercise:**  
 1) Use the link below to select the appropriate licence with the following intentions;
-2) Allow your work to be adapted and also allow it to be used commercially.
+2) Allow your work to be adapted and also allow it to be used commercially. 
 [https://creativecommons.org/choose](https://creativecommons.org/choose)
 
 ### Thing 7: Availability via torrents
@@ -160,28 +158,19 @@ from across Europe
 **Exercise:**  
 Use the elixir software bio.tools ([https://bio.tools/](https://bio.tools/)) to find the author of the RNA-seq python pipeline "READemption".
 
-### Thing 9: Research data management
+## Thing 9: Research data management
 
-- Bio2RDF is a large network of linked data for the life sciences. 
-It provides a resource for different resources to be integrated into single platform
+**Bio2RDF** is a large network of linked data for the life sciences. The database provides interlinked life science data using semantic web technologies. To learn more about Bio2RDF, read _[Bio2RDF: towards a mashup to build bioinformatics knowledge systems](https://www.ncbi.nlm.nih.gov/pubmed/18472304)_.
 
-    [http://bio2rdf.org/](http://bio2rdf.org/)
-    
-    [https://www.ncbi.nlm.nih.gov/pubmed/18472304](https://www.ncbi.nlm.nih.gov/pubmed/18472304)
+* [http://bio2rdf.org/](http://bio2rdf.org/)
 
-- GFBio is the authoritative, national contact point for issues concerning the management and standardisation of biological and environmental research data during the entire data life cycle (from acquisition to archiving and data publication). GFBio mediates expertises and services between the GFBio data centers and the scientific community, covering all areas of research data management.
+**The German Federation for Biological Data (GFBio)** is the authoritative, national contact point for issues concerning the management and standardisation of biological and environmental research data during the entire data life cycle (from acquisition to archiving and data publication). GFBio mediates expertises and services between the GFBio data centers and the scientific community, covering all areas of research data management.
 
-    [https://www.gfbio.org/](https://www.gfbio.org/)
+* [https://www.gfbio.org/](https://www.gfbio.org/)
 
+## Thing 10: Machine-readability 
 
-### Thing 10: Machine-readability 
-
-
-
-Make the data accessible via an API for automated reading 
-
-[http://opendatahandbook.org/glossary/en/terms/machine-readable/](http://opendatahandbook.org/glossary/en/terms/machine-readable/)
-
+Make the data accessible via an API, in a structured data format that can be automatically read and processed by a computer. See the [Open Data Handbook Glossary - Machine readable](http://opendatahandbook.org/glossary/en/terms/machine-readable/).
 
 #### Exercise - Crossref:
 1) Pick the DOI of a publication of your choice
@@ -240,32 +229,28 @@ Living document:
 
 ### Supplementary information:
 
-Research Data Infrastructure for the Life Sciences (NFDI4Life) 
+**Research Data Infrastructure for the Life Sciences (NFDI4Life)**  
+NFDI4Life brings together research communities across the life sciences domain in the context of the planned National Research Data Infrastructure (NFDI). As a response to the increasing scientific and societal demand for data and data analysis, NFDI4Life brings together scientific communities and research data infrastructures broadly covering the life sciences with particular focus on the subdomains biology, medicine (with veterinary medicine), epidemiology, nutrition, agricultural and environmental science as well as biodiversity research.
 
-* NFDI4Life brings together research communities across the life sciences domain in the context of the planned National Research Data Infrastructure (NFDI). As a response to the increasing scientific and societal demand for data and data analysis, NFDI4Life brings together scientific communities and research data infrastructures broadly covering the life sciences with particular focus on the subdomains biology, medicine (with veterinary medicine), epidemiology, nutrition, agricultural and environmental science as well as biodiversity research.
+* [https://www.nfdi4life.de/](https://www.nfdi4life.de/)
 
-    [https://www.nfdi4life.de/](https://www.nfdi4life.de/)
+**Carpentries Community**  
+The carpentries develops and teaches workshops on the fundamental data skills needed to conduct research. 
 
-* Carpentries Community 
+* [https://carpentries.org/](https://carpentries.org/)
 
-    The carpentries develops and teaches workshops on the fundamental data skills needed to conduct research. 
+**Go-FAIR-Initiative**  
 
-    [https://carpentries.org/](https://carpentries.org/)
-
-
-* Go-FAIR-Initiative
-
-    GO FAIR follows a bottom-up open implementation strategy for the European Open 
-    Science Cloud (EOSC) as part of a broader global Internet of FAIR Data & Services. 
+GO FAIR follows a bottom-up open implementation strategy for the European Open 
+Science Cloud (EOSC) as part of a broader global Internet of FAIR Data & Services. 
     
-    [https://eosc-portal.eu/](https://eosc-portal.eu/)
-    
-    [https://www.go-fair.org/](https://eosc-portal.eu/)
+* [https://eosc-portal.eu/](https://eosc-portal.eu/)
+* [https://www.go-fair.org/](https://eosc-portal.eu/)
 
-* FAIRDOM
+**FAIRDOM**  
 FAIRDOM supports researchers, students, trainers, funders and publishers to make their data, operating procedures and models, Findable, Accessible, Interoperable and Reusable (FAIR).
 
-   [https://fair-dom.org/about-fairdom/](https://fair-dom.org/about-fairdom/)
+* [https://fair-dom.org/about-fairdom/](https://fair-dom.org/about-fairdom/)
 
 
 
