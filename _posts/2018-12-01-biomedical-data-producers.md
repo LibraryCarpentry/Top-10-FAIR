@@ -4,7 +4,7 @@ title: "Biomedical Data Producers, Stewards, and Funders"
 
 ## Sprinters:
 
-[Lisa Federer](https://github.com/informationista) (National Library of Medicine), [Douglas Joubert](https://github.com/doujouDC) (National Institutes of Health Library), Allissa Dillman (National Center for Biotechnology Information), Kenneth Wilkins (National Institute of Diabetes and Digestive and Kidney Diseases), Ishwar Chandramouliswaran (National Institute of Allergy and Infectious Diseases), Vivek Navale (NIH Center for Information Technology), Susan Wright ( National Institute on Drug Abuse)
+[Lisa Federer](https://github.com/informationista) (National Library of Medicine), [Douglas Joubert](https://github.com/doujouDC) (National Institutes of Health Library), [Allissa Dillman](https://twitter.com/dchackathons) (National Center for Biotechnology Information), [Kenneth Wilkins](https://www.niddk.nih.gov/about-niddk/staff-directory/biography/wilkins-kenneth) (National Institute of Diabetes and Digestive and Kidney Diseases), [Ishwar Chandramouliswaran](https://www.linkedin.com/in/ishwarc/) (National Institute of Allergy and Infectious Diseases), [Vivek Navale](https://www.rd-alliance.org/users/vivek-navale) (NIH Center for Information Technology), [Susan Wright](https://www.drugabuse.gov/about-nida/organization/divisions/division-basic-neuroscience-behavioral-research-dbnbr/office-director-od) ( National Institute on Drug Abuse)
 
 ## Audience:
 
@@ -30,17 +30,17 @@ title: "Biomedical Data Producers, Stewards, and Funders"
    * Take the NIH CDE [interactive tour](https://cde.nlm.nih.gov/home?tour=yes)to learn how to use the site.
    * [Browse](https://cde.nlm.nih.gov/cde/search) the CDEs to explore how these might be used in your discipline.
 
-### Intermediate activity
+### Intermediate activity:
 
-1. Think about ways to standardized minimal/core metadata used across disciplines (or at least ability to [crosswalk](https://www.ands.org.au/online-services/rif-cs-schema/crosswalks-transform-your-metadata) between standards).
-2. Automated metadata creation can &quot;[help improve efficiency in time and resource management within preservation systems, and alleviate the problems associated to the &quot;metadata bottleneck](http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/automated-metadata-extraction)&quot;.
-  1. Review the  Digital Curation Centre (&quot;DCC&quot;)  [Automated Metadata Generation](http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/automated-metadata-extraction)primer page.
-  2. Download the [DCC Digital Curation Reference Manual](http://www.dcc.ac.uk/webfm_send/1513), and think about ways you might be able to automate metadata creation at your organization.
-  3. Watch the [ALCTS Session 1: Automating Descriptive Metadata Creation: Tools and Workflows](http://www.ala.org/alcts/events/ac/2016/vc-sess1) webinar which examine workflows for automating the creation of descriptive metadata.
+1. Think about ways you can standardize minimal/core metadata to use across disciplines. For example, [crosswalk](https://www.ands.org.au/online-services/rif-cs-schema/crosswalks-transform-your-metadata) between standards).
+2. Automated metadata creation can "[help improve efficiency in time and resource management within preservation systems, and alleviate the problems associated to the &quot;metadata bottleneck](http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/automated-metadata-extraction)".
+  1. Review the  Digital Curation Centre (DCC)  [Automated Metadata Generation](http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters/automated-metadata-extraction) primer page.
+  2. Download the [DCC Digital Curation Reference Manual](http://www.dcc.ac.uk/webfm_send/1513) and think about the ways you might be able to automate metadata creation at your organization.
+  3. Watch the [ALCTS Session 1: Automating Descriptive Metadata Creation: Tools and Workflows](http://www.ala.org/alcts/events/ac/2016/vc-sess1) webinar which examines workflows for automating the creation of descriptive metadata.
 
 ## Thing 2: Use of standard data models
 
-1. Explore the [OMOP Common Data Mode](https://www.ohdsi.org/data-standardization/the-common-data-model/)l (CDM), which allows for the systematic analysis of disparate observational databases to determine why you might want to use the OMOP CDM.
+1. Explore the [OMOP Common Data Mode](https://www.ohdsi.org/data-standardization/the-common-data-model/)l (CDM), which allows for the systematic analysis of disparate observational databases.
 2. Review one of the [OMOP Community Meeting presentations](https://www.ohdsi.org/resources/presentations/community-meeting-presentations/) and think about how this might align to the work of your organization.
 3. Familiarize yourself with one of the Observational Health Data Sciences and Informatics [GitHub repositories](https://github.com/OHDSI).
 
@@ -54,7 +54,7 @@ title: "Biomedical Data Producers, Stewards, and Funders"
 2. Learn how a Digital Object Identifier (DOI) can be used to create a unique reference to your data. Watch a [video](http://www.doi.org/driven_by_DOI.html) that explain what DOIs are and how they work, and how they benefit managers of digital content.
 3. Read the [Digital Preservation Handbook](https://www.dpconline.org/handbook/technical-solutions-and-tools/persistent-identifiers) to learn about all of the elements that comprise a persistent identifier.
 
-### Intermediate Activity
+### Intermediate Activity:
 
 [ORCID](https://orcid.org/) allows you to create persistent digital identifiers for authors.
 
@@ -64,11 +64,11 @@ title: "Biomedical Data Producers, Stewards, and Funders"
   1. Test the [ORCID Application Programming Interface (API)](https://orcid.org/content/register-client-application-sandbox).
 4. As a best practice, use ORCIDs from the start of data creation. For example, you can attach data creator name/ORCID to dataset as a metadata field. Include ORCIDs with datasets in repositories (e.g. in [Sequence Read Archive (SRA)](https://www.ncbi.nlm.nih.gov/sra), include the ORCID for the data creator).  This allows for the tracking of your research and enables citation of your data.
 
-## Thing 4: Versioning and data &quot;retirement&quot;
+## Thing 4: Versioning and data "retirement"
 
 ### Beginner activity:
 
-A [source-code repository](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities) is a file archive and web hosting facility where a large amount of source code, for software, web pages, and other resources, is kept, either publicly or privately (Wikipedia, not sure how to cite). Advantages of versioning include:
+A [source-code repository](https://en.wikipedia.org/wiki/Comparison_of_source-code-hosting_facilities) is a file archive and web hosting facility where a large amount of source code, for software, web pages, and other resources, is kept, either publicly or privately. Advantages of versioning include:
 
 1. Persistence of identifiers pointing to different/earlier versions
 2. Maintaining previous versions of code, software, and data.
@@ -77,7 +77,7 @@ A [source-code repository](https://en.wikipedia.org/wiki/Comparison_of_source-co
 
 ### Intermediate activity:
 
-1. GitHub is one of the [most popular](https://en.wikipedia.org/wiki/List_of_most_popular_websites) options for code hosting. Explore alternative [ptions](https://opensource.com/article/18/8/github-alternatives) for code hosting.
+1. GitHub is one of the [most popular](https://en.wikipedia.org/wiki/List_of_most_popular_websites) options for code hosting. Explore alternative [options](https://opensource.com/article/18/8/github-alternatives) for code hosting.
 2. Work through the [Library Carpentry Introduction to GitHub](https://librarycarpentry.org/lc-git/) module.
 
 ## Thing 5: Linking research objects
@@ -89,14 +89,14 @@ A [source-code repository](https://en.wikipedia.org/wiki/Comparison_of_source-co
 
 ### Intermediate activity:
 
-1. Using a code repository ([Github](https://github.com/) repo or [Zenodo](https://zenodo.org/)), try to find data that goes with a published paper. Then answer some of the following questions:
+1. Using a ([Github](https://github.com/) code repository or [Zenodo](https://zenodo.org/)), try to find data that goes with a published paper. Then answer some of the following questions:
   * Where is the data or code stored (for example, [Github](https://github.com/) repo or [Zenodo](https://zenodo.org/))?
   * Who created the objects (ORCID)?
-  * Was there proper documentation for commercial software?
+  * Was there proper documentation? License information (regarding commercial use)?
 
 ## Thing 6: Human and machine readability
 
-1. Read about the [FAIR principle](https://www.force11.org/fairprinciples) for making your code both human and machine readable, and the [FAIR Guiding Principles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/) article.
+1. Read about the [FAIR principles](https://www.force11.org/fairprinciples) for making your code both human and machine readable, and the [FAIR Guiding Principles](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4792175/) article.
 2. Read the following report [Jointly designing a data FAIRPORT](https://www.lorentzcenter.nl/lc/web/2014/602/info.php3?wsid=602) from the Lorentz Center.
 3. Having code that is both human and machine readable supports:  
   * API access
@@ -111,7 +111,7 @@ A [source-code repository](https://en.wikipedia.org/wiki/Comparison_of_source-co
 ## Thing 8: Indexing repositories to enable findability
 
 1. [re3data.org](https://www.re3data.org/about) is a global registry of research data repositories that covers research data repositories from different academic disciplines. Register your dataset with re3data.org
-2. [re3data.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data.
+2. [Schema.org](https://schema.org/) is a collaborative, community activity with a mission to create, maintain, and promote schemas for structured data.
   * Read their [Getting Started Guide](https://schema.org/docs/gs.html) to get indexed with Google.
 3. Link your ORCID account to [fairsharing.org](https://fairsharing.org/), verify your email address, and create a public profile.
   * Familiarize yourself with their Standards, Databases, Policies, and Collections.
@@ -130,6 +130,6 @@ Informed consent for human subjects should be broad enough to make reuse possibl
 
 ### Intermediate activity:
 
-1. Explore the Make Data Count Project, where you can learn about  [COUNTER Code of Practice](https://www.projectcounter.org/code-of-practice-sections/general-information/) as well as the [Code of Practice for Research Data Usage Metrics](https://peerj.com/preprints/26505/).
+1. Explore the [Make Data Count Project](https://makedatacount.org/), where you can learn about  [COUNTER Code of Practice](https://www.projectcounter.org/code-of-practice-sections/general-information/) as well as the [Code of Practice for Research Data Usage Metrics](https://peerj.com/preprints/26505/).
 2. Learn how [Zenodo](http://blog.zenodo.org/2018/07/18/2018-07-18-usage-statistics/) and [DataONE](https://www.dataone.org/news/new-usage-metrics) have responded to the Make Data Count recommendations.
 
