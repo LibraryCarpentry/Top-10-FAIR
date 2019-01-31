@@ -18,7 +18,7 @@ title: "Biomedical Data Producers, Stewards, and Funders"
 
 ### Beginner activity:
 
-1. Learn about the various types of metadata. DataOne defines metadata as "documentation about the data that describes the content, quality, condition, and other characteristics of a dataset. More importantly, metadata allows data to be discovered, accessed, and reused" [DataONE Education Module](https://www.dataone.org/education-modules).
+1. Learn about the various types of metadata. DataOne defines metadata as "documentation about the data that describes the content, quality, condition, and other characteristics of a dataset. More importantly, metadata allows data to be discovered, accessed, and reused" - [DataONE Education Module](https://www.dataone.org/education-modules).
 
   * Descriptive
   * Technical
@@ -27,7 +27,7 @@ title: "Biomedical Data Producers, Stewards, and Funders"
   
 2. Work through the DataOne Metadata Educational Module: Lesson 7 - [Metadata](https://www.dataone.org/education-modules).
 3. Explore the use of controlled vocabularies and Common Data Elements (CDE). A CDE is a "data element that is [common to multiple data sets across different studies](https://www.nlm.nih.gov/cde/glossary.html#cdedefinition)." The NIH [Common Data Element (CDE) Resource Porta](https://www.nlm.nih.gov/cde/)l has identified CDEs for use in particular types of research or research domains after a formal evaluation and selection process.
-   * Take the NIH CDE [interactive tour](https://cde.nlm.nih.gov/home?tour=yes)to learn how to use the site.
+   * Take the NIH CDE [interactive tour](https://cde.nlm.nih.gov/home?tour=yes) to learn how to use the site.
    * [Browse](https://cde.nlm.nih.gov/cde/search) the CDEs to explore how these might be used in your discipline.
 
 ### Intermediate activity:
