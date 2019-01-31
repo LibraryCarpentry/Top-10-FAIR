@@ -18,7 +18,6 @@ Our primary audience consists of researchers and support staff at Utrecht Univer
 **Background:** The advancement of science thrives on the timely sharing and accessibility of research data.  Timely and sustainable sharing is only possible if there are infrastructures and services that enable it.  
 
 1. Read up on [the role of libraries in implementing the FAIR Data Principles](https://libereurope.eu/wp-content/uploads/2017/12/LIBER-FAIR-Data.pdf). Think about the advantages and opportunities made possible by digitalization in your research area. Think about the challenges. Have you or your colleagues ever experienced data loss? Is the falsification/fabrication of data an issue with digital data? How easy it to figure out if the data you found online is reliable? Say you found a very useful resource available online and you want to refer to it in your work; can you be sure that it is still there several years later?
-
 2. For more information, you can refer to this [detailed explanation](https://www.go-fair.org/fair-principles/) of FAIR principles developed by the Dutch Center for Life Sciences (DTLS).
 
 ## Thing 2: Metadata
