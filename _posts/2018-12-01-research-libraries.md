@@ -3,7 +3,7 @@ title: "Research Libraries"
 ---
 
 ## Sprinters:
-[Liz Stokes](https://twitter.com/ragamouf), [Natasha Simons](https://twitter.com/n_simons), [Chris Erdmann](https://twitter.com/libcce), [Sharyn Wise](https://orcid.org/0000-0001-7677-780X), [Tom Honeyman](https://www.linkedin.com/in/tom-honeyman-478277151/), [Josh Quan](https://github.com/wrathofquan), [Scott Peterson](https://github.com/scottcpeterson), [Amy Neeser](https://twitter.com/pseudoamyloid)
+[Liz Stokes](https://twitter.com/ragamouf), [Natasha Simons](https://twitter.com/n_simons), [Tom Honeyman](https://www.linkedin.com/in/tom-honeyman-478277151/) (Australian Research Data Commons), [Chris Erdmann](https://twitter.com/libcce) (Library Carpentry/The Carpentries/California Digital Library), [Sharyn Wise](https://orcid.org/0000-0001-7677-780X) (University of Technology, Sydney), [Josh Quan](https://github.com/wrathofquan), [Scott Peterson](https://github.com/scottcpeterson), [Amy Neeser](https://twitter.com/pseudoamyloid) (UC Berkeley)
 
 ## Description:
 To translate FAIR principles into useable concepts for research-facing support staff (e.g. librarians).
