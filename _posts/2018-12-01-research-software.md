@@ -43,7 +43,10 @@ The name alone does not tell people much about your software. In order for other
 **Activity:**  
 Think of minimum set of information (metadata) which will help others find your software. This can include short descriptive text and meaningful keywords.
 
-[Codemeta](https://codemeta.github.io/terms/) is a set of keywords used to describe software and way to structure them in machine readable way. Example of Codemeta used in a software package. For example, look at https://github.com/NLeSC/boatswain/blob/master/codemeta.json or https://github.com/datacite/maremma
+[Codemeta](https://codemeta.github.io/terms/) is a set of keywords used to describe software and way to structure them in machine readable way. For examples of Codemeta used in software packages see:
+
+* [https://github.com/NLeSC/boatswain/blob/master/codemeta.json](https://github.com/NLeSC/boatswain/blob/master/codemeta.json)
+* [https://github.com/datacite/maremma](https://github.com/datacite/maremma)
 
 [Edam](http://edamontology.org/page) is an example of an ontology that provides terminology that can be used to describe bioinformatics software.
 
@@ -70,7 +73,7 @@ Here are some examples of research software registries:
 It will help others find and access the particular version of your software.
 Unique means that the identifier will point on and only version and location of your software.
 Persistent means that it will pointing to the same version and location for long, specified amount of time. For example, Zenodo provides you with a DOI (Digital Object Identifier) that will be resolvable for at least the next 20 years.
-Recent initiatives, such as Software Heritage, propose to associate a permalinks as intrinsic SHA1 identifier to software (see example through the id: swh:1:dir:005bc6218c7a0a9ede654f9a177058adcde98a50 / permalinks: https://archive.softwareheritage.org/swh:1:dir:005bc6218c7a0a9ede654f9a177058adcde98a50/)
+Recent initiatives, such as Software Heritage, propose to associate a permalinks as intrinsic SHA1 identifier to software (see example through the id: swh:1:dir:005bc6218c7a0a9ede654f9a177058adcde98a50 / permalinks: [https://archive.softwareheritage.org/swh:1:dir:005bc6218c7a0a9ede654f9a177058adcde98a50/](https://archive.softwareheritage.org/swh:1:dir:005bc6218c7a0a9ede654f9a177058adcde98a50/))
 
 **Activity:**  
 If you have registered your software in a registry, chances are good that they provide a unique and persistent identifier. If not, obtain an identifier from another organization. If you have multiple identifiers, choose one that you use as your main identifier. Make sure you use it consistently when referring to your software, e.g. on your own website, code repository or in publications.
@@ -97,7 +100,7 @@ List all operations that your software provides, and describe them along with co
 In order for people to use your software, they need to know how to feed data to it -- standard formats are easy ways to exchange data between different pieces of software. By sticking to standards, it is possible to use the output from another piece of software as an input to your software (or the other way around). For example, FASTA is a format for representing molecular sequences (DNA, RNA, protein, …) that most sequence analysis tools can handle. NetCDF is a standard file format used sharing of array-oriented scientific data.
 
 **Activity:**  
-What are the relevant standards in your field? Which are the groups/organizations that are responsible for standards in your field? Is there a place where you can find the relevant standards and a detailed description? What other tools use these standards? If possible, use such standard formats as input/output of your software and state which you are using. (Avoid to define your own standards! http://imgs.xkcd.com/comics/standards.png)
+What are the relevant standards in your field? Which are the groups/organizations that are responsible for standards in your field? Is there a place where you can find the relevant standards and a detailed description? What other tools use these standards? If possible, use such standard formats as input/output of your software and state which you are using. (Avoid to define your own standards! [http://imgs.xkcd.com/comics/standards.png](http://imgs.xkcd.com/comics/standards.png))
 
 ## Reusability
 
