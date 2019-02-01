@@ -52,7 +52,7 @@ Think of minimum set of information (metadata) which will help others find your 
 
 Take the [4OSS lesson episode about metadata and registries](https://softdev4research.github.io/4OSS-lesson/05-use-registry/index.html) and walk through the exercise.
 
-This example: http://r-pkgs.had.co.nz/description.html#description
+This example: [http://r-pkgs.had.co.nz/description.html#description](http://r-pkgs.had.co.nz/description.html#description)
 
 ### Thing 2: Register your software in a software registry
 People search for research software using search engines like Google. Registering your software in a dedicated registry will make it findable by search engines, because the registries take care about search engine optimization etc. The registries will usually ask you to provide descriptions (metadata) as above.
