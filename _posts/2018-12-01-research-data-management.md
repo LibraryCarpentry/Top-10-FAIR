@@ -3,7 +3,7 @@ title: "Research Data Management Support"
 ---
 
 ## Sprinters:
-[Lena Karvovskaya](https://www.uu.nl/medewerkers/EKarvovskaya), [Otto Lange](https://www.uu.nl/staff/OALange), [Iza Witkowska](https://www.uu.nl/staff/IMWitkowska), [Jacques Flores](https://www.uu.nl/staff/JPFlores) ([Research Data Management (RDM) support at Utrecht University](https://www.uu.nl/en/research/research-data-management/contact-us))
+[Lena Karvovskaya](https://www.uu.nl/medewerkers/EKarvovskaya), [Otto Lange](https://www.uu.nl/staff/OALange), [Iza Witkowska](https://www.uu.nl/staff/IMWitkowska), [Jacques Flores](https://www.uu.nl/staff/JPFlores) (Research Data Management (RDM) support at Utrecht University)
 
 ## Description:
 This is an umbrella-like document with links to various resources. The aim of the document is to help researchers who want to share their data in a sustainable way. However, we consider the border between librarians and researchers to be a blurred one. This is because, ultimately, librarians support researchers that would like to share their data. We primarily wish to target researchers and support staff irregardless of their experience: those who have limited technical knowledge and want to achieve a very general understanding of the FAIR principles and those who are more advanced technically and want to make use of more technical resources. The resources we will link to for each of the 10 FAIR Things will often be on two levels of technicality. 
