@@ -3,7 +3,7 @@ title: Biodiversity
 ---
 
 ## Sprinters:
-[Silvia Di Giorgio](https://twitter.com/digiorgiosilvia), [Akinyemi Mandela Fasemore](https://sea-region.github.com/fasemoreakinyemi), [Konrad Förstner](https://twitter.com/konradfoerstner), [Till Sauerwein](https://twitter.com/TillSauerwein), [Eva Seidlmayer](https://sea-region.github.com/EvaSeidlmayer) (ZB MED - Information Center for Life Science, Cologne, Germany), [Ilja Zeitlin](https://rd-alliance.org/users/ilja-zeitlin), [Susannah Bacon](https://twitter.com/ardcsbacon), [Chris Erdmann](https://twitter.com/libcce) (The Carpentries, California Digital Library)
+[Silvia Di Giorgio](https://twitter.com/digiorgiosilvia), [Akinyemi Mandela Fasemore](https://sea-region.github.com/fasemoreakinyemi), [Konrad Förstner](https://twitter.com/konradfoerstner), [Till Sauerwein](https://twitter.com/TillSauerwein), [Eva Seidlmayer](https://sea-region.github.com/EvaSeidlmayer) (ZB MED - Information Center for Life Science, Cologne, Germany), [Ilja Zeitlin](https://rd-alliance.org/users/ilja-zeitlin), [Susannah Bacon](https://twitter.com/ardcsbacon), [Chris Erdmann](https://twitter.com/libcce) (Library Carpentry/The Carpentries/California Digital Library)
 
 ## Audience: 
 Researchers
