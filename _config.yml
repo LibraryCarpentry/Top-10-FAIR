@@ -29,8 +29,10 @@ nav:
     href:           "/Top-10-FAIR/about"
   - name:           "GitHub Repository"
     href:           "https://github.com/LibraryCarpentry/Top-10-FAIR"
-  - name:           "Download (Not Yet Available)"
-    href:           "/Top-10-FAIR"
+  - name:           "Download/Cite"
+    href:           "http://doi.org/10.5281/zenodo.2555498"
+  - name:           "#Top10FAIR"
+    href:           "https://twitter.com/search?f=tweets&vertical=default&q=%23top10fair&src=typd&lang=en"
 
 # Sass
 sass:
