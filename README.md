@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2555498.svg)](https://doi.org/10.5281/zenodo.2555498)
+
 # Top 10 FAIR Data & Software Things
 
 Top 10 FAIR Data & Software Things is hosted by Library Carpentry and maintained by the Sprinters.
@@ -22,7 +24,7 @@ All participants should agree to abide by the [Software Carpentry Code of Conduc
 
 ## Citation
 
-Coming soon
+Christopher Erdmann, Natasha Simons, Reid Otsuji, Stephanie Labou, Ryan Johnson, Guilherme Castelao, … Tim Dennis. (2019, February). Top 10 FAIR Data & Software Things. Zenodo. http://doi.org/10.5281/zenodo.2555498
 
 ## Kiko Theme
 
