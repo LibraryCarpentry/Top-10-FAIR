@@ -13,3 +13,7 @@ Sprinters worked off of a [primer](https://docs.google.com/document/d/1TwJyButvA
 Participants greeted each other throughout the Sprint and created an overall welcoming environment. As the Sprint shifted to different timezones, it was a chance for participants to catch up. The Zoom and Gitter channels were a way for many to connect over FAIR but also discuss other topics. A number of participants did not know what to expect from a Library Carpentry/Carpentries-like event but found a welcoming environment where everyone could participate. 
 
 The Top 10 FAIR Data & Software Things [repository](https://github.com/LibraryCarpentry/Top-10-FAIR) and [website](https://librarycarpentry.org/Top-10-FAIR/) hosts the work of the Sprinters and is meant to be an evolving resource. Members of the wider community can submit issues and/or pull requests to the Things to help improve them. In addition, a published version of the Things will be made available via [Zenodo](https://zenodo.org/) and the [Data Management Training Clearinghouse](http://dmtclearinghouse.esipfed.org/) in February 2019.
+
+<br /><br />
+<script async src="https://plaudit.pub/embed/endorsements.js" 
+        data-embedder-id="library_carpentry"></script>
