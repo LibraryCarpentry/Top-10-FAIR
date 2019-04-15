@@ -109,7 +109,7 @@ Read this walkthrough of how to “FAIRify” a dataset using the data cleaning 
 
 Permanent identifiers (PIDs) are a necessary step for keeping track of data. Web links can break, or “rot”, and tracking down data based on a general description can be extremely challenging. A permanent identifier like a [digital object identifier (DOI)](https://www.doi.org/) is a unique ID assigned to a dataset to ensure that properly managed data does not get lost or misidentified. Additionally, a DOI makes it easier to cite and track the impact of datasets, much like cited journal articles.
 
-Identifiers exist for researchers as well: [OCRID](https://orcid.org/) is essentially a DOI for an individual researcher. This ensures that if you have a common name, change your name, change your affiliation, or otherwise change your author information, you still get credit for your own and maintain a full, identifiable list of your scientific contributions.
+Identifiers exist for researchers as well: [ORCID](https://orcid.org/) is essentially a DOI for an individual researcher. This ensures that if you have a common name, change your name, change your affiliation, or otherwise change your author information, you still get credit for your own and maintain a full, identifiable list of your scientific contributions.
 
 ### Activity 1:
 
@@ -160,7 +160,7 @@ Oceanographic data can include everything from maps and images to high dimension
 
 ### Discussion 1:
 
-* what are the most common data formats used in your field? What level of technical/domain knowledge is required to open, edit, and interactive with these data types?  
+* What are the most common data formats used in your field? What level of technical/domain knowledge is required to open, edit, and interact with these data types?  
 
 ### Discussion 2:
 
