@@ -68,7 +68,7 @@ There are different formats for creating RDF. Popular formats include [RDFa](htt
 
 This is a section of RDF representing an example dataset, which we use throughout the text. 
 
-![Figure 2](files/linked-open-data/Figure_2.png)
+![Figure 2](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_2.png)
 
 _Figure 2: A screenshot of an RDF representation_
 
@@ -94,7 +94,7 @@ The first step in expressing your data in RDF is to identify the concepts in you
 
 We take as our example an archeological dataset based on data found in the [EASY](https://easy.dans.knaw.nl/ui/home) data repository of [DANS](https://dans.knaw.nl/en). The dataset contains archaeological records with ten attributes listed for each record; the dataset has been anonymised for the purpose of this example. As we will discuss later, not all of the concepts in the dataset are interesting to share.  
 
-![alt_text](files/linked-open-data/Figure_3.png "image_tooltip")
+![Figure 3](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_3.png "image_tooltip")
 
 _Figure 3: The original data in tabular form_
 
@@ -138,7 +138,7 @@ Visualising your data model in this way can also help with understanding where t
 
 **Activity**: Examine the below model of our dataset.  What might a possible relationship between ‘Peter Carty’ and ‘Dublin’ be?
 
-![alt_text](files/linked-open-data/Figure_5.png "image_tooltip")
+![Figure 5](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_5.png)
 
 _Figure 5: An example of modelling data
 
@@ -188,16 +188,13 @@ This involves thinking about how to distinguish between objects in the real worl
 
 <span style="text-decoration:underline;">http://ourxiv.com**/page/**archaeology/fossil  </span>			← HTML page 
 
+**Activity**: Using what we have discussed about best practices for creating a URI, draft a few URIs to describe your own data.
 
-    **_Activity: Using what we have discussed about best practices for creating a URI, draft a few URIs to describe your own data.  _**
-
-
-## Thing 4: Resolving - Consider resolvability when a person or machine ‘visits’  the URI. 
+## Thing 4: Resolving - Consider resolvability when a person or machine 'visits' the URI. 
 
 If someone were to put your URI into a browser, what would she get back? A URI is “resolvable” if anyone, regardless of their own domain, can put it into a browser and see a result. Please note, that the example URI’s we have constructed so far are not resolvable!
 
-
-    **_Activity:  Take a look at [example.org](http://example.org). Is this domain resolvable? Why or why not?_**
+**Activity**: Take a look at [example.org](http://example.org). Is this domain resolvable? Why or why not?
 
 Not every domain is resolvable. The domain in the above activity is not resolvable, but is rather just a placeholder. Remember, you gain authority and trust from other users when your URIs are resolvable and lead to information.
 
@@ -219,7 +216,7 @@ The below workflow suits many situations:
 
 In Thing 2, we mentioned that it will most likely not make sense to share all of your data. Filtering your data involves creating a new temporary dataset that contains only those concepts and relations that you want to expose as LD. If your data is in a database like PostgreSQL or MySQL, it is often easiest to write a SQL command that generates one new temporal table containing the union of selected columns from the various tables. If your data is in a spreadsheet like Excel, you can create a new sheet via macros and filters. Note that you should try to keep this filtering and generation process as automated as possible and save the macros or SQL for future version conversions. 
 
-![alt_text](images/Linked-Open5.png "image_tooltip")
+![Figure 7](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_7.png)
 
 _Figure 7: An example of filtering data_
 
@@ -231,7 +228,7 @@ There are basically two ways for an RDF generation tool to work with the table f
 
 #### 2a: set up a DB connection
 
-Tools like [Ontop]( https://ontop.inf.unibz.it/) can connect directly to your database and uses transformation rules to create Linked Data, or even a SPARQL endpoint to your live data. 
+Tools like [Ontop](https://ontop.inf.unibz.it/) can connect directly to your database and uses transformation rules to create Linked Data, or even a SPARQL endpoint to your live data. 
 
 #### 2b: Serialize your data
 
@@ -281,7 +278,7 @@ Having a good idea about which concepts in your own data you want to expose and 
 
 **Activity**: Study the below figure. On the left is the data model from 2b and on the right we can see some concepts which we have identified as relevant to map to our dataset. Can you identify which concepts on the right would be mapped to which parts of our data model on the left?
 
-![alt_text](images/Linked-Open6.png "image_tooltip")
+!Figure 8](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_8.png)
 
 _Figure 8: An example of a modelled dataset (right), with some potential external concepts for the data to be linked to (left)_  
 
@@ -297,7 +294,7 @@ Even using our tiny example (shown again in Figure 9) the power of Linked Data b
 
 **Activity**: Take a close look at the below figure where we have now labelled the relationships between the two sides of the diagram. Does this match what you were thinking of in the earlier activity with this diagram? Through enriching our data, we now know that the Dublin in our dataset is Dublin, Ireland and not Dublin, Ohio (where the [Dublin Core]( http://www.dublincore.org/about/) metadata schema originated).
 
-![alt_text](images/Linked-Open7.png "image_tooltip")
+![Figure 9](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_9.png)
 
 _Figure 9: An example of a modelled dataset (right), linked to some external concepts (left)_
 
@@ -319,7 +316,7 @@ Once your data are out in the open, you can continue to link each of your statem
 
 **Activity**: Visit [https://www.cedar-project.nl/about/](https://www.cedar-project.nl/about/) to learn more about how linked open data are being used in the CEDAR project. Then, take a look at the below map, which Ashkan Ashkpour and Albert Meroño Peñuela created as a part of this project. To make the map, they combined linked data from the Dutch census with openly available geographic data to bring their research to life.
 
-![Figure 10](../files/linked-open-data/Figure_10.png)
+![Figure 10](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_10.png)
 
 _Figure 10: A map showing a combination of Linked Data from the Dutch census with geographic data - the heatmap shows the total number of female inhabitants_
 
