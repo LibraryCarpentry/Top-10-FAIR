@@ -54,7 +54,7 @@ These _Things_ are based on our own practical experiences in publishing LOD in v
 
 Semantic web technology (which underlies LOD) is complex. It requires not only a new data model (Resource Description Framework, RDF) but also infrastructures for storing and linking data as well as algorithms for retrieving, enriching and reasoning across those data. 
 
-Understanding LOD begins with understanding the [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework). RDF is a standard format defined by the [World Wide Web Consortium](https://www.w3.org/) (W3C) that can be easily interpreted by machines.  \
+Understanding LOD begins with understanding the [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework). RDF is a standard format defined by the [World Wide Web Consortium](https://www.w3.org/) (W3C) that can be easily interpreted by machines.  
 
 RDF statements are called “triples” because they contain three pieces  - **subject : predicate : object**. RDF data is modelled as a “labeled graph” which links description of resources together. **Subjects** and **objects** are nodes, **predicates** are links. 
 
@@ -150,7 +150,7 @@ _Figure 5: An example of modelling data_
 
 The URI is an address that a machine can use to find exactly the right piece of information on the World Wide Web. (You are familiar with this idea already - think of the URL of any website).  A URI consists of three parts: **a scheme, a domain name and a path.** The domain name plus the path are known together as the namespace. Defining a namespace is extremely important in LOD, as it allows machines (and humans) to tell the difference between identically named elements from multiple datasets. (See [W3C Step#5](https://www.w3.org/TR/ld-bp/#HTTP-URIS))
 
-!Figure 6](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_6.png)
+![Figure 6](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_6.png)
 
 _Figure 6: Example of the three parts of a URI_
 
