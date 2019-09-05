@@ -27,10 +27,10 @@ title: "Linked Open Data "
 
 ## Sprinters 
 
-*   Ronald Siebes / ORCID: 0000-0001-8772-7904 / [Data Archiving & Networked Services](https://dans.knaw.nl/nl) (DANS)
-*   Gerard Coen / ORCID: 0000-0001-9915-9721 / Data Archiving & Networked Services (DANS)
-*   Kathleen Gregory / ORCID: 0000-0001-5475-8632 / Data Archiving & Networked Services (DANS) 
-*   Andrea Scharnhorst / ORCID: 0000-0001-8879-8798 / Data Archiving & Networked Services (DANS)
+* Ronald Siebes / [ORCID: 0000-0001-8772-7904](https://orcid.org/0000-0001-8772-7904) / [Data Archiving & Networked Services](https://dans.knaw.nl/nl) (DANS)
+* Gerard Coen / [ORCID: 0000-0001-9915-9721](https://orcid.org/0000-0001-9915-9721) / [Data Archiving & Networked Services](https://dans.knaw.nl/nl) (DANS)
+* Kathleen Gregory / [ORCID: 0000-0001-5475-8632](https://orcid.org/0000-0001-5475-8632) / [Data Archiving & Networked Services](https://dans.knaw.nl/nl) (DANS) 
+* Andrea Scharnhorst / [ORCID: 0000-0001-8879-8798](https://orcid.org/0000-0001-8879-8798) / [Data Archiving & Networked Services](https://dans.knaw.nl/nl) (DANS)
 
 ## Audience
 
