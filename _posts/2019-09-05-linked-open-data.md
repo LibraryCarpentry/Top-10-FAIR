@@ -116,9 +116,11 @@ Concepts from out dataset:
 
 | ID | Creator | Title | Research Location | Date | Type |
 |--- |--- |--- |--- |--- |--- |
+| | | | | | |
 
 Instances of each of these concepts: 
 
+|  |  |  |  |  |  |
 |--- |--- |--- |--- |--- |--- |
 |ourxiv:98621|Peter Carty|A general description and archaeological investigation|Dublin|2002-08-18|Text Document|
 
@@ -140,7 +142,7 @@ Visualising your data model in this way can also help with understanding where t
 
 ![Figure 5](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_5.png)
 
-_Figure 5: An example of modelling data
+_Figure 5: An example of modelling data_
 
 ## Thing 3: Defining - Define the URI (Uniform Resource Identifier) naming strategy
 
@@ -148,7 +150,7 @@ _Figure 5: An example of modelling data
 
 The URI is an address that a machine can use to find exactly the right piece of information on the World Wide Web. (You are familiar with this idea already - think of the URL of any website).  A URI consists of three parts: **a scheme, a domain name and a path.** The domain name plus the path are known together as the namespace. Defining a namespace is extremely important in LOD, as it allows machines (and humans) to tell the difference between identically named elements from multiple datasets. (See [W3C Step#5](https://www.w3.org/TR/ld-bp/#HTTP-URIS))
 
-![alt_text](images/Linked-Open4.png "image_tooltip")
+!Figure 6](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_6.png)
 
 _Figure 6: Example of the three parts of a URI_
 
@@ -278,13 +280,13 @@ Having a good idea about which concepts in your own data you want to expose and 
 
 **Activity**: Study the below figure. On the left is the data model from 2b and on the right we can see some concepts which we have identified as relevant to map to our dataset. Can you identify which concepts on the right would be mapped to which parts of our data model on the left?
 
-!Figure 8](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_8.png)
+![Figure 8](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_8.png)
 
 _Figure 8: An example of a modelled dataset (right), with some potential external concepts for the data to be linked to (left)_  
 
 ## Thing 7: Enriching - Enrich your data with information from the LOD
 
-The enrichment process is very similar to the mapping, with the subtle difference that the goal of mapping is to _connect_ your data to existing Linked Data, and enrichment is to _describe_ your data with Linked Data. Although not set in stone, the **mapping** process uses a well known set of properties that results in a linkset of similarities in RDFS (e.g subClass), SKOS (e.g. exactMatch)  and OWL (e.g. sameAs). The **enrichment **process has a wider scope on both the selection of properties and objects. Key is that the enrichments are relevant for the goal of sharing your data. 
+The enrichment process is very similar to the mapping, with the subtle difference that the goal of mapping is to _connect_ your data to existing Linked Data, and enrichment is to _describe_ your data with Linked Data. Although not set in stone, the **mapping** process uses a well known set of properties that results in a linkset of similarities in RDFS (e.g subClass), SKOS (e.g. exactMatch)  and OWL (e.g. sameAs). The **enrichment** process has a wider scope on both the selection of properties and objects. Key is that the enrichments are relevant for the goal of sharing your data. 
 
 **Activity**: Imagine that you are a producer of chemical compounds. The molecular weight, structure, boiling point, etc. for different compounds may be relevant properties for your data. Take a look at [ChEMBL]( https://www.ebi.ac.uk/chembl/ ) and explore how it could be useful to you.
 
@@ -341,9 +343,9 @@ Publishing data as Linked Open Data is new for many researchers. Hopefully the s
 
 Beek, MSc W.G.J. (VU University Amsterdam); Rietveld, MSc L. (VU University Amsterdam); Schlobach, Dr. S. (VU University Amsterdam) (2016): LOD Laundromat (archival package 2016/06). DANS. [https://doi.org/10.17026/dans-znh-bcg3](https://doi.org/10.17026/dans-znh-bcg3)
 
-Dextre Clarke, S. Entry ‘Thesaurus (for information retrieval). _Encyclopedia of Knowledge Organisation_. Available at: https://www.isko.org/cyclo/thesaurus.htm
+Dextre Clarke, S. Entry ‘Thesaurus (for information retrieval). _Encyclopedia of Knowledge Organisation_. Available at: [https://www.isko.org/cyclo/thesaurus.htm](https://www.isko.org/cyclo/thesaurus.htm)
 
-Hyvönen, E. (2012). Publishing and using cultural heritage linked data on the semantic web. _Synthesis Lectures on the Semantic Web: Theory and Technology_, _2_(1), 1-159.
+Hyvönen, E. (2012). Publishing and using cultural heritage linked data on the semantic web. _Synthesis Lectures on the Semantic Web: Theory and Technology_, _2_(1), 1-159. Available at: [https://doi.org/10.2200/S00452ED1V01Y201210WBE003](https://doi.org/10.2200/S00452ED1V01Y201210WBE003)
 
 Hyvönen, E. (2019). Using the Semantic Web in Digital Humanities: Shift from Data Publishing to Data-analysis and Knowledge Discovery. submitted to _Semantic Web Journal_ (under review). See: [http://semantic-web-journal.net/system/files/swj2214.pdf](http://semantic-web-journal.net/system/files/swj2214.pdf); 
 
@@ -351,12 +353,11 @@ Meroño-Peñuela, A., Ashkpour, A., van Erp, M., Mandemakers, K., Breure,L.,  Sc
 
 Moreau, L., & Groth, P. (2013). Provenance: an introduction to PROV. _Synthesis Lectures on the Semantic Web: Theory and Technology_, _3_(4), 1-129. [https://doi.org/10.2200/S00528ED1V01Y201308WBE007](https://doi.org/10.2200/S00528ED1V01Y201308WBE007)
 
-
 ## Acknowledgements
 
 We are grateful for pointers from and discussion with the DANS Research group, in particular from Herbert van de Sompel; and also for the valuable contributions of Esther Plomp, Marjan Grootveld and Enrico Daga. This document has been informed by the ‘GO FAIR Implementation Network Manifesto: Cross-Domain Interoperability of Heterogeneous Research Data (Go Inter)’ (Ed. by Peter Mutschke) [https://www.go-fair.org/implementation-networks/overview/go-inter/](https://www.go-fair.org/implementation-networks/overview/go-inter/) . The grants “[Digging into the Knowledge Graph](http://di4kg.org/)” and “[Re-search](https://www.nwo.nl/actueel/nieuws/2015/ew/12-miljoen-euro-voor-projecten-ict-en-geesteswetenschappen.html): Contextual search for scientific research data” (NWO) have enabled part of this work. 
 
 ## Notes
 
-[^1]: [https://easy.dans.knaw.nl/ui/home](https://easy.dans.knaw.nl/ui/home) 
+[^1]:[https://easy.dans.knaw.nl/ui/home](https://easy.dans.knaw.nl/ui/home) 
 
