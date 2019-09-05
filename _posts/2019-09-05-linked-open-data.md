@@ -58,11 +58,9 @@ Understanding LOD begins with understanding the [Resource Description Framework]
 
 RDF statements are called “triples” because they contain three pieces  - **subject : predicate : object**. RDF data is modelled as a “labeled graph” which links description of resources together. **Subjects** and **objects** are nodes, **predicates** are links. 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 ![alt_text](images/Linked-Open0.png "image_tooltip")
 
-Figure 1: An example of a triple
+_Figure 1: An example of a triple_
 
 RDF is notated as a list of these statements (the triples) that describe each piece of knowledge in your dataset. This list of statements can be thought of as a large indexing file to your data. 
 
@@ -70,57 +68,43 @@ There are different formats for creating RDF. Popular formats include [RDFa](htt
 
 This is a section of RDF representing an example dataset, which we use throughout the text. 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 ![alt_text](images/Linked-Open1.png "image_tooltip")
 
-Figure 2: A screenshot of an RDF representation 
+_Figure 2: A screenshot of an RDF representation_
 
 The graph structure of RDF offers benefits over typical database structures. Creating new subjects and predicates is far less tedious than creating new fields and linking tables, as is common in database design. Storage in RDF is also more compact. Perhaps most importantly, RDF enables specific ways of questioning your data that are not possible with other structures. In a triple, the predicates (the links) also have meaning and thus are semantically encoded; this facilitates executing more complex operations (known as “semantic reasoning”) on the graph. In our example (see Figure 1; Figure 2), the role of  “Peter Carty” as “creator” of the dataset is spelled out, and so can be differentiated from other possible roles - such as being a contributor or a collaborator. In the end, RDF is simply another way of expressing your data.  
 
-**_Activity: Who better to introduce you to the concepts ot LOD than Tim Berners-Lee, founder of the World Wide Web? View these videos for an overview of the topic:_**
+**Activity**: Who better to introduce you to the concepts ot LOD than Tim Berners-Lee, founder of the World Wide Web? View these videos for an overview of the topic:
 
-*   _Tim Berners-Lee on “The Next Web”: http://www.ted.com/talks/tim_berners_lee_on_the_next_web_
-*   _Tim Berners-Lee at the GOV 2.0 expo (“bag of crisps”): https://youtu.be/ga1aSJXCFe0_
-*   _Then, check out how Google uses this same technology in the Knowledge Graph:  [https://www.youtube.com/watch?v=mmQl6VGvX-c](https://www.youtube.com/watch?v=mmQl6VGvX-c)_
+* Tim Berners-Lee on “The Next Web”: [http://www.ted.com/talks/tim_berners_lee_on_the_next_web](http://www.ted.com/talks/tim_berners_lee_on_the_next_web)
+* Tim Berners-Lee at the GOV 2.0 expo (“bag of crisps”): [https://youtu.be/ga1aSJXCFe0](https://youtu.be/ga1aSJXCFe0)
+* Then, check out how Google uses this same technology in the Knowledge Graph:  [https://www.youtube.com/watch?v=mmQl6VGvX-c](https://www.youtube.com/watch?v=mmQl6VGvX-c)
 
 Putting data into RDF is one ingredient in working toward LOD. RDF statements must also be expressed as Uniform Resource Identifiers (URIs - see Steps 3-6) in order to link them to other data. It is possible to have Linked Data (LD) living on internal servers that are not a part of the larger Linked Open Data Cloud (LOD Cloud). In order to publish data to the LOD Cloud, URIs must be readable, or resolvable (see Step 4), not only internally, but also to outside sources. 
 
+**Activity**: Visit the LOD Vocabularies [https://lov.linkeddata.es/dataset/lov/](https://lov.linkeddata.es/dataset/lov/) and see the different types of things that can be linked to. Eventually you will be linking your data to some of these vocabularies (see Thing 7). Can you identify datasets that contain concepts similar to those in your own dataset?  (For example, if you have data about cities, you may want to look for datasets with information about cities, e.g. DBPedia).
 
-    **_Activity: Visit the LOD Vocabularies [https://lov.linkeddata.es/dataset/lov/](https://lov.linkeddata.es/dataset/lov/) and see the different types of things that can be linked to. Eventually you will be linking your data to some of these vocabularies (see Thing 7). Can you identify datasets that contain concepts similar to those in your own dataset?  (For example, if you have data about cities, you may want to look for datasets with information about cities, e.g. DBPedia)._**
+## Thing 2: Exploring - Inventory of your data 
 
-
-## **Thing 2: Exploring **- Inventory of your data 
-
-
-### **2a: Identify relevant concepts from your datasets that you want to expose as Linked Open Data (LOD)**
+### 2a: Identify relevant concepts from your datasets that you want to expose as Linked Open Data (LOD)
 
 The first step in expressing your data in RDF is to identify the concepts in your dataset that you would eventually like to expose and link to the LOD Cloud. It will most likely NOT make sense to expose all of the concepts that exist in your data; you will need to be selective. (See [W3C Step #2)](https://www.w3.org/TR/ld-bp/#SELECT)
 
-
-    **_Activity: Take  an inventory of your dataset. What type of data do you have? What structure (e.g. XML, a database) are they in? Based on your exploration of the LOD Vocabularies in Thing 1, think about which concepts it makes sense to eventually link. _**
+**Activity**: Take  an inventory of your dataset. What type of data do you have? What structure (e.g. XML, a database) are they in? Based on your exploration of the LOD Vocabularies in Thing 1, think about which concepts it makes sense to eventually link.
 
 We take as our example an archeological dataset based on data found in the [EASY](https://easy.dans.knaw.nl/ui/home) data repository of [DANS](https://dans.knaw.nl/en). The dataset contains archaeological records with ten attributes listed for each record; the dataset has been anonymised for the purpose of this example. As we will discuss later, not all of the concepts in the dataset are interesting to share.  
 
+![alt_text](files/linked-open-data/Figure_3.png "image_tooltip")
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Linked-Open2.png "image_tooltip")
-
-
-Figure 3: The original data in tabular form
+_Figure 3: The original data in tabular form_
 
 It is also important to consider who owns the data in this step. In an archive, each dataset can have information about the license status. Are the data listed as being open, or is there a requirement for you to request permission or acknowledgement in order to use the data? Ownership and licensing are also important to consider for your own data. 
 
-
-    **_Activity: Think about your own data. Are you the data rights holder for all parts of your data? If not, identify any licenses that may restrict if you can expose and link the data to the LOD Cloud. (See [W3C Step #1](https://www.w3.org/TR/ld-bp/#PREPARE))_**
+**Activity**: Think about your own data. Are you the data rights holder for all parts of your data? If not, identify any licenses that may restrict if you can expose and link the data to the LOD Cloud. (See [W3C Step #1](https://www.w3.org/TR/ld-bp/#PREPARE))
 
 Identifying relevant concepts and relationships is a step that is vital for everyone, both novices and experienced computer scientists. Computer scientists use visual tools to “model” their data, such as [Visio](https://products.office.com/en/visio/flowchart-software) and [Draw.io](https://www.draw.io), but you could also create a simple list of the concepts that you would like to expose and link. 
 
-
-    **_Activity: View the introductory tutorial for [Draw.io and experiment using the tool by visiting this link: https://www.draw.io. ](https://about.draw.io/support/)_**
+**Activity**: View the introductory tutorial for [Draw.io and experiment using the tool by visiting this link: https://www.draw.io.](https://about.draw.io/support/)
 
 One side remark: The term ‘concept’ has a specific meaning in various disciplines. In the context of computer science, ‘concept’ means a class, i.e. a knowledge representation (of objects, individuals, actions, etc.). In general, ‘concepts’ are abstractions made to order things. They are represented by terms (Dextre Clarke, 2019) An ensemble of concepts is often represented in the form of controlled vocabularies, schemas, or ontologies, more generally known as Knowledge Organisation Systems (KOS). 
 
@@ -130,50 +114,15 @@ Often not all of the elements in the dataset are things you wish to share. (We d
 
 Concepts from out dataset:
 
-
-<table>
-  <tr>
-   <td><strong>ID</strong>
-   </td>
-   <td><strong>Creator</strong>
-   </td>
-   <td><strong>Title</strong>
-   </td>
-   <td><strong>Research Location</strong>
-   </td>
-   <td><strong>Date</strong>
-   </td>
-   <td><strong>Type</strong>
-   </td>
-  </tr>
-</table>
-
-
 Instances of each of these concepts: 
 
+| ID | Creator | Title | Research Location | Date | Type |
+|--- |--- |--- |--- |--- |--- |
+|ourxiv:98621|Peter Carty|A general description and archaeological investigation|Dublin|2002-08-18|Text Document|
 
-<table>
-  <tr>
-   <td>ourxiv:98621
-   </td>
-   <td>Peter Carty
-   </td>
-   <td>A general description and archaeological investigation
-   </td>
-   <td>Dublin
-   </td>
-   <td>2002-08-18
-   </td>
-   <td>Text Document
-   </td>
-  </tr>
-</table>
+_Figure 4: Examples of concepts and instances in our example dataset_
 
-
-Figure 4: Examples of concepts and instances in our example dataset
-
-
-### **2b: Identify relevant relations from your datasets that you want to expose as Linked Data (LD)**
+### 2b: Identify relevant relations from your datasets that you want to expose as Linked Data (LD)
 
 Having identified the concepts in your dataset, you now need to identify the relations (i.e. what later becomes predicates or links) between those concepts.
 
@@ -185,46 +134,29 @@ Here is a data model which shows some of the relationships between the concepts 
 
 Visualising your data model in this way can also help with understanding where there are relationships which may have been hidden. Once you have a model of the concepts and relationships you would like to link and expose, you are ready to begin defining them as URIs, which will be explained in Thing 3.
 
+**Activity**: Examine the below model of our dataset.  What might a possible relationship between ‘Peter Carty’ and ‘Dublin’ be?
 
-    **_Activity: Examine the below model of our dataset.  What might a possible relationship between ‘Peter Carty’ and ‘Dublin’ be?_** 
+![alt_text](files/linked-open-data/Figure_5.png "image_tooltip")
 
+_Figure 5: An example of modelling data
 
+## Thing 3: Defining - Define the URI (Uniform Resource Identifier) naming strategy
 
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Linked-Open3.png "image_tooltip")
-
-
-Figure 5: An example of modelling data
-
-
-## **Thing 3: Defining** - Define the URI (Uniform Resource Identifier) naming strategy
-
-
-### **3a:  Define a suitable and durable namespace **
+### 3a:  Define a suitable and durable namespace
 
 The URI is an address that a machine can use to find exactly the right piece of information on the World Wide Web. (You are familiar with this idea already - think of the URL of any website).  A URI consists of three parts: **a scheme, a domain name and a path.** The domain name plus the path are known together as the namespace. Defining a namespace is extremely important in LOD, as it allows machines (and humans) to tell the difference between identically named elements from multiple datasets. (See [W3C Step#5](https://www.w3.org/TR/ld-bp/#HTTP-URIS))
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/Linked-Open4.png "image_tooltip")
 
-
-Figure 6: Example of the three parts of a URI
+_Figure 6: Example of the three parts of a URI_
 
 You will first need to choose a domain name to use for the URIs you will create. It is important to think about the sustainability of the domain name that you use. URIs should be persistent and not change over time. If you plan on using a domain name that is part of a project, think about how (or if) that website will be maintained after the end of the project. It is always better to choose something that you are sure will stand the test of time (see [W3C Step #5](https://www.w3.org/TR/ld-bp/#HTTP-URIS)), such as institutional domains. Institutional domain names have the added benefit of conferring a sense of authority. That is, a domain name of “_harvard.edu_” suggests more authority than a domain name of _“jane_smith.com_”.  (If you are unsure about your institutional options, check with your local IT professional for guidance). 
 
 The remainder of the URI is the path. You can think of the slashes in the path like folders and sub-folders that are used to organize information in a manner that is understandable to both people and search engines. We have further recommendations for constructing the path in steps 3b and 3c.
 
+**Activity**: To further prepare for creating your own URIs, read “[The Role of Good URIs for Linked Data”](https://www.w3.org/TR/ld-bp/#HTTP-URIS) from the W3C guidelines.
 
-    **_Activity: To further prepare for creating your own URIs, read “[The Role of Good URIs for Linked Data”](https://www.w3.org/TR/ld-bp/#HTTP-URIS) from the W3C guidelines._**
-
-
-### **3b: Consider a versioning strategy that reflects past and future modifications of your LD in the URI Path**
+### 3b: Consider a versioning strategy that reflects past and future modifications of your LD in the URI Path
 
 Datasets are not static; they are often updated and modified with new versions. We recommend that you include versioning as part of your namespace (in the path) to make it perfectly clear which version of your data you are referring to. 
 
@@ -238,8 +170,7 @@ We believe that this strategy will help your “audience” - those who map to y
 
 Changes in vocabulary or instantiations, but also any other changes that you make ( i.e. mapping and enriching, which we will discuss in later _things_) can be documented or “logged” and described with a commonly shared vocabulary (Moreau & Groth, 2013). This is also called provenance information. Compared to versioning, it is like a meta operation on changes concerning the whole or parts of the graph. The versioning we discuss above concerns what has been changed in the knowledge representation structure itself, but does not focus that much on who did it, when and by which process. 
 
-
-### **3c: Decide how the concepts and relations are represented by its unique identifiers which are part of the URI. **
+### 3c: Decide how the concepts and relations are represented by its unique identifiers which are part of the URI.
 
 We also recommend that you construct your URI in a way that it reflects the meaning of the concepts and relations that you identified in Step 2. This will make it much easier for people to interpret the URI and understand the link. 
 
@@ -259,7 +190,7 @@ This involves thinking about how to distinguish between objects in the real worl
     **_Activity: Using what we have discussed about best practices for creating a URI, draft a few URIs to describe your own data.  _**
 
 
-## **Thing 4: Resolving **- Consider resolvability when a person or machine ‘visits’  the URI. 
+## Thing 4: Resolving - Consider resolvability when a person or machine ‘visits’  the URI. 
 
 If someone were to put your URI into a browser, what would she get back? A URI is “resolvable” if anyone, regardless of their own domain, can put it into a browser and see a result. Please note, that the example URI’s we have constructed so far are not resolvable!
 
@@ -272,11 +203,9 @@ In terms of LOD, it is important that the information that is returned describes
 
 A basic implementation of an RDF URI resolver is the [Urisolve server](https://github.com/pharmbio/urisolve). The Urisolve server takes a URI as input and returns a simple list of triples that all have the URI somewhere in each statement. This implementation assumes that there is an HDT (Header, Dictionary, Triples) or SPARQL endpoint that hosts your RDF data. [Virtuoso]( http://vos.openlinksw.com/owiki/wiki/VOS ) is a well known open-source RDF datastore that includes a SPARQL endpoint. HDT is a binary format for RDF which has major performance benefits. 
 
+**Activity**: Visit [http://www.rdfhdt.org/](http://www.rdfhdt.org/) to learn more about HDT and supporting tools.
 
-    **_Activity: Visit [http://www.rdfhdt.org/](http://www.rdfhdt.org/) to learn more about HDT and supporting tools._**
-
-
-## **Thing  5: Transforming** - Generate the URIs for the selected concepts and relations according to the URI naming strategy.
+## Thing  5: Transforming - Generate the URIs for the selected concepts and relations according to the URI naming strategy.
 
 Steps 1-4 are primarily planning steps; in principle, you could actually do them on paper. Step 5 requires software, tools and/or scripts to transform your data into Linked Data.
 
@@ -284,84 +213,63 @@ Your exact approach depends a lot on your particular situation; the format of yo
 
 The below workflow suits many situations:
 
-
 ### 1: Filter your data
 
 In Thing 2, we mentioned that it will most likely not make sense to share all of your data. Filtering your data involves creating a new temporary dataset that contains only those concepts and relations that you want to expose as LD. If your data is in a database like PostgreSQL or MySQL, it is often easiest to write a SQL command that generates one new temporal table containing the union of selected columns from the various tables. If your data is in a spreadsheet like Excel, you can create a new sheet via macros and filters. Note that you should try to keep this filtering and generation process as automated as possible and save the macros or SQL for future version conversions. 
 
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/Linked-Open5.png "image_tooltip")
 
+_Figure 7: An example of filtering data_
 
-Figure 7: An example of filtering data
-
-
-    **_Activity: Based on your work in Thing 2, create a temporary dataset containing only those concepts and relations that you want to expose as LD._**
-
+**Activity**: Based on your work in Thing 2, create a temporary dataset containing only those concepts and relations that you want to expose as LD.
 
 ### 2: Bridge your prepared data to your tool
 
 There are basically two ways for an RDF generation tool to work with the table from the previous step: 1) set up a connection between the data store and the tool, or 2) serialize the data to a format that the tool can use.
 
-
 #### 2a: set up a DB connection
 
 Tools like [Ontop]( https://ontop.inf.unibz.it/) can connect directly to your database and uses transformation rules to create Linked Data, or even a SPARQL endpoint to your live data. 
-
 
 #### 2b: Serialize your data
 
 Serialization is turning your data from the format you usually interact with to a series of bits. Based on your data format, most tools and databases have the functionality to store tables in CSV format. Please be aware that encoding can be tricky especially with special character sets. 
 
-
 ### 3: Use tools to transform your serialized/connected data into LD
 
 Depending on the previous step, the selected tool directs the way how your data will be transformed into Linked Data. 
 
-
-## **Thing 6: Mapping **- Map your Linked Data from your newly defined namespace to similar concepts and relations within the LOD
+## Thing 6: Mapping - Map your Linked Data from your newly defined namespace to similar concepts and relations within the LOD
 
 Most likely there will be concepts and relations in your fresh LD dataset that are similar to concepts and relations in the LOD. The challenge in this step is to 1) find them, 2) make a selection based on a quality metric and 3) select the schema to express these mappings.
-
 
 ### 1: Finding related concepts and relations
 
 The ‘Linked’ aspect of Linked Data is the focus of this point. In this exercise you browse online resources to find vocabularies and schemas that have concepts and relations similar to those you have created.
 
-**_Activity: _**
+**Activity**:  
 
-
-
-*   _Explore the following public sources to find Linked Data related to your own: [The LOD Laundroma](http://lodlaundromat.org/)t, the [Linked Open Vocabularies]( https://lov.linkeddata.es/dataset/lov/ ) portal and [BARTOC](https://bartoc.org)._
-*   _Next, look at the following domain-specific resources: [GeoName](http://www.geonames.org/ontology/documentation.html ) for locations and  [Getty AAT]( https://www.getty.edu/research/tools/vocabularies/aat/ ) for excavational objects like [Etruscian Pottery]( http://vocab.getty.edu/aat/300020499.rdf )._
-*   _Are there any other domain-specific sources for vocabularies that you know of that could be relevant for your data? _
+* Explore the following public sources to find Linked Data related to your own: [The LOD Laundroma](http://lodlaundromat.org/)t, the [Linked Open Vocabularies]( https://lov.linkeddata.es/dataset/lov/ ) portal and [BARTOC](https://bartoc.org).
+* Next, look at the following domain-specific resources: [GeoName](http://www.geonames.org/ontology/documentation.html ) for locations and  [Getty AAT]( https://www.getty.edu/research/tools/vocabularies/aat/ ) for excavational objects like [Etruscian Pottery]( http://vocab.getty.edu/aat/300020499.rdf ).
+* Are there any other domain-specific sources for vocabularies that you know of that could be relevant for your data?
 
 Note that, although preferred otherwise, the external concepts you wish to link to themselves do not need to be designed as Linked Data. For example, a researcher mentioned in your database can have a persistent identifier in [ORCID](https://orcid.org) and a publication can have a [DOI](https://www.doi.org ).
-
 
 ### 2: Sort and make a selection from the sources found in the previous step
 
 The decision depends on many factors, such as your audience (if, e.g., it needs to be multilingual), the coverage with your own concepts (i.e., exact match is preferred to broad superclasses), the authority of the external source (who developed it and maintains it), etc. 
 
-
 ### 3: Selection of the mapping schema
 
 There are different ‘flavours’ regarding mapping concepts and relations. The choice is made primarily based on the inferencing and other logical reasoning requirements, as we detail below.
-
 
 #### 3a: RDF and RDFS
 
 The de-facto linked data format is RDF. In RDF one can specify that an instance is of a certain class, like a _cat_ is a type of _animal_.  RDFS is an extra logical expressive schema that allows one to bind a property to a domain and range, for example the _employer_ relation is between the domain: _person_ and range: _organisation_. RDFS provides the means to specify sub-classes, e.g. _student rdfs:subClassOf person_, and sub-properties, e.g. _hasSibling rdfs:subPropertyOf hasRelative_. Unfortunately, neither RDF nor RDFS offer an option to state equality between concepts or relations. For that we have OWL and SKOS which we cover next.
 
-
 #### 3b: The OWL variants	
 
 The [W3C-OWL]( https://www.w3.org/OWL/ ) stack (e.g. OWL-Lite, OWL-full OWL-DL) extends RDFS with additional reasoning options grounded in formal logic, which has as an advantage that more automated checking and derivations can be done but is also for many people difficult to learn and adds more computational demands to the reasoning backend. The most popular owl statement is the property _owl:sameAs_ which as expected expresses equality between two instances (e.g. “Bill Clinton” and “William_Jefferson_Clinton”) or classes (e.g. “Area” and “Region”).
-
 
 #### 3c: SKOS
 
@@ -369,50 +277,31 @@ The popularity of [SKOS](https://www.w3.org/TR/skos-primer/ ) perhaps lies in th
 
 Having a good idea about which concepts in your own data you want to expose and which concepts are already published as Linked Data helps in the decision making process for selecting a mapping schema. Likewise you can revisit your data model and see if there are better ways to define the relationships between your concepts. 
 
-
-    **_Activity: Study the below figure. On the left is the data model from 2b and on the right we can see some concepts which we have identified as relevant to map to our dataset. Can you identify which concepts on the right would be mapped to which parts of our data model on the left?_**
-
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open6.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+**Activity**: Study the below figure. On the left is the data model from 2b and on the right we can see some concepts which we have identified as relevant to map to our dataset. Can you identify which concepts on the right would be mapped to which parts of our data model on the left?
 
 ![alt_text](images/Linked-Open6.png "image_tooltip")
 
+_Figure 8: An example of a modelled dataset (right), with some potential external concepts for the data to be linked to (left)_  
 
-Figure 8: An example of a modelled dataset (right), with some potential external concepts for the data to be linked to (left)  
-
-
-## **Thing 7: Enriching** - Enrich your data with information from the LOD** **
+## Thing 7: Enriching - Enrich your data with information from the LOD
 
 The enrichment process is very similar to the mapping, with the subtle difference that the goal of mapping is to _connect_ your data to existing Linked Data, and enrichment is to _describe_ your data with Linked Data. Although not set in stone, the **mapping** process uses a well known set of properties that results in a linkset of similarities in RDFS (e.g subClass), SKOS (e.g. exactMatch)  and OWL (e.g. sameAs). The **enrichment **process has a wider scope on both the selection of properties and objects. Key is that the enrichments are relevant for the goal of sharing your data. 
 
-
-    **_Activity: Imagine that you are a producer of chemical compounds. The molecular weight, structure, boiling point, etc. for different compounds may be relevant properties for your data. Take a look at [ChEMBL]( https://www.ebi.ac.uk/chembl/ ) and explore how it could be useful to you.  _**
+**Activity**: Imagine that you are a producer of chemical compounds. The molecular weight, structure, boiling point, etc. for different compounds may be relevant properties for your data. Take a look at [ChEMBL]( https://www.ebi.ac.uk/chembl/ ) and explore how it could be useful to you.
 
 Similarly, if you work for a library, you can enrich your collection with concepts from library classification systems like [LCC]( http://id.loc.gov/ontologies/lcc.html ), [UDC]( http://www.udcc.org/ ) and [DDC]( https://www.oclc.org/en/dewey.html).
 
 Even using our tiny example (shown again in Figure 9) the power of Linked Data becomes apparent. By linking your dataset it is possible to enrich it with new meaning. 
 
-
-    **_Activity: Take a close look at the below figure where we have now labelled the relationships between the two sides of the diagram. Does this match what you were thinking of in the earlier activity with this diagram? Through enriching our data, we now know that the Dublin in our dataset is Dublin, Ireland and not Dublin, Ohio (where the [Dublin Core]( http://www.dublincore.org/about/) metadata schema originated). _** 
-
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open7.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+**Activity**: Take a close look at the below figure where we have now labelled the relationships between the two sides of the diagram. Does this match what you were thinking of in the earlier activity with this diagram? Through enriching our data, we now know that the Dublin in our dataset is Dublin, Ireland and not Dublin, Ohio (where the [Dublin Core]( http://www.dublincore.org/about/) metadata schema originated).
 
 ![alt_text](images/Linked-Open7.png "image_tooltip")
 
+_Figure 9: An example of a modelled dataset (right), linked to some external concepts (left)_
 
-Figure 9: An example of a modelled dataset (right), linked to some external concepts (left)  
-
-
-## **Thing 8: Exposing** - Define how people can get access to your LD: a data-dump, a SPARQL endpoint or a Web API.
+## Thing 8: Exposing - Define how people can get access to your LD: a data-dump, a SPARQL endpoint or a Web API.
 
 After you expose your data, the next step is to think about your intended audience and how people will use and access the data. You will need to consider if and how you are going to expose your Linked Data “graph” as a whole. You have a few options for exposing your data and making it part of the LOD cloud. Access to the entire LD dataset must be possible via either RDF exploration, an RDF dump or a SPARQL endpoint. These options are further described below.
-
-
 
 *   **Via RDF exploration: **This refers to the ability to manually navigate the graph. It allows you to save the “breadcrumb trail” links from document to document and gather the results for searching. 
 *   **As an RDF (data) dump: **RDF/Turtle is a human friendly serialization format, and one can describe the graph with provenance metadata (e.g. W3C-PROV) and accessibility information (W3C-VOID).
