@@ -68,7 +68,7 @@ There are different formats for creating RDF. Popular formats include [RDFa](htt
 
 This is a section of RDF representing an example dataset, which we use throughout the text. 
 
-![alt_text](images/Linked-Open1.png "image_tooltip")
+![Figure 2](files/linked-open-data/Figure_2.png)
 
 _Figure 2: A screenshot of an RDF representation_
 
@@ -303,35 +303,25 @@ _Figure 9: An example of a modelled dataset (right), linked to some external con
 
 After you expose your data, the next step is to think about your intended audience and how people will use and access the data. You will need to consider if and how you are going to expose your Linked Data “graph” as a whole. You have a few options for exposing your data and making it part of the LOD cloud. Access to the entire LD dataset must be possible via either RDF exploration, an RDF dump or a SPARQL endpoint. These options are further described below.
 
-*   **Via RDF exploration: **This refers to the ability to manually navigate the graph. It allows you to save the “breadcrumb trail” links from document to document and gather the results for searching. 
-*   **As an RDF (data) dump: **RDF/Turtle is a human friendly serialization format, and one can describe the graph with provenance metadata (e.g. W3C-PROV) and accessibility information (W3C-VOID).
-*   **As a SPARQL endpoint:** Be careful because SPARQL is not very easy. It requires a background in query languages and one can easily get lost in the graph; the wrong queries can also put a very heavy load on the server. Initiatives like [Puelia-PHP](https://code.google.com/archive/p/puelia-php/ ), [RISIS-SMS]( http://sms.risis.eu/ ) and [GRLC](http://grlc.io/) shield the SPARQL complexity by offering an abstraction layer (e.g. as a RESTful service) or visual components for pre-defined query templates. 
+* **Via RDF exploration**: This refers to the ability to manually navigate the graph. It allows you to save the “breadcrumb trail” links from document to document and gather the results for searching. 
+* **As an RDF (data) dump**: RDF/Turtle is a human friendly serialization format, and one can describe the graph with provenance metadata (e.g. W3C-PROV) and accessibility information (W3C-VOID).
+* **As a SPARQL endpoint**: Be careful because SPARQL is not very easy. It requires a background in query languages and one can easily get lost in the graph; the wrong queries can also put a very heavy load on the server. Initiatives like [Puelia-PHP](https://code.google.com/archive/p/puelia-php/ ), [RISIS-SMS]( http://sms.risis.eu/ ) and [GRLC](http://grlc.io/) shield the SPARQL complexity by offering an abstraction layer (e.g. as a RESTful service) or visual components for pre-defined query templates. 
 
-    **_Activity: If you are curious to learn more about how queries are formed, visit the [Wikidata Query Service]( https://query.wikidata.org). This service provides user friendly query examples which allow you to see how queries are formed and how the results are presented. _**
-
+**_Activity**: If you are curious to learn more about how queries are formed, visit the [Wikidata Query Service]( https://query.wikidata.org). This service provides user friendly query examples which allow you to see how queries are formed and how the results are presented.
 
 **An alternative option is to use Linked Data fragments:** [Linked Data Fragments](http://linkeddatafragments.org) is a conceptual framework that provides a uniform view on all possible interfaces to RDF. A [Linked Data Fragment](http://linkeddatafragments.org/in-depth/#ldf) (LDF) is characterized by a specific selector (subject URI, SPARQL query, …), metadata (variable names, counts, …), and controls (links or URIs to other fragments). 
 
-
-## **Thing 9: Promoting** - Publish and disseminate the value of your data via visualisations and workflows 
+## Thing 9: Promoting - Publish and disseminate the value of your data via visualisations and workflows 
 
 Once your data are out in the open, you can continue to link each of your statements (objects, subjects, predicates) to other statements in the LOD cloud (see Thing 7).  But, you can also create other services on top of your data to tell the world how your data are equal, similar or different to other existing data
 
+**Activity**: Visit [https://www.cedar-project.nl/about/](https://www.cedar-project.nl/about/) to learn more about how linked open data are being used in the CEDAR project. Then, take a look at the below map, which Ashkan Ashkpour and Albert Meroño Peñuela created as a part of this project. To make the map, they combined linked data from the Dutch census with openly available geographic data to bring their research to life.
 
-    **_Activity: Visit [https://www.cedar-project.nl/about/](https://www.cedar-project.nl/about/) to learn more about how linked open data are being used in the CEDAR project. Then, take a look at the below map, which Ashkan Ashkpour and Albert Meroño Peñuela created as a part of this project. To make the map, they combined linked data from the Dutch census with openly available geographic data to bring their research to life._**
+![Figure 10](../files/linked-open-data/Figure_10.png)
 
+_Figure 10: A map showing a combination of Linked Data from the Dutch census with geographic data - the heatmap shows the total number of female inhabitants_
 
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open8.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Linked-Open8.jpg "image_tooltip")
-››
-
-Figure 10: A map showing a combination of Linked Data from the Dutch census with geographic data - the heatmap shows the total number of female inhabitants
-
-
-## **Thing 10: Sustaining **- Ensure sustainability of your data
+## Thing 10: Sustaining - Ensure sustainability of your data
 
 Publishing Linked Data into the LOD cloud is one specific instance of dealing with data on the web. The W3C recommendation [“Data on the Web Best Practices”]( https://www.w3.org/TR/dwbp/) provides further pointers and considerations for many of the issues that we have raised here, such as the persistence of URI’s, version policy, or the reuse of vocabularies. 
 
@@ -341,16 +331,12 @@ For example, it is important to associate a clear and preferably well-known stan
 
 Archiving a version of your RDF dataset as a static data dump in a certified, long-term stable data repository might also be a good option to help ensure the long-term sustainability of your data. This provides a way for you to preserve and potentially reuse all of the work that you have already invested. (see for an example Beek et al. 2016)
 
+**Activity**: Examples of how to archive your RDF dataset can be found in the DANS EASY_**[^1]** data archive. Explore the below examples, paying particular attention to  the associated readme-file instructions.
 
-    **_Activity: Examples of how to archive your RDF dataset can be found in the DANS EASY_**[^1]_ data archive. Explore the below examples, paying particular attention to  the associated readme-file instructions. _
-
-
-
-*   _The deposit of an [RDF dataset from the CEDAR project](https://doi.org/10.17026/dans-xpk-wj5w) _
-*   _The deposit of the [Laundromat dataset](https://doi.org/10.17026/dans-znh-bcg3)_
+* The deposit of an [RDF dataset from the CEDAR project](https://doi.org/10.17026/dans-xpk-wj5w)
+* The deposit of the [Laundromat dataset](https://doi.org/10.17026/dans-znh-bcg3)
 
 Publishing data as Linked Open Data is new for many researchers. Hopefully the steps, recommendations and references that we have presented here will help you to begin your own journey into the realm of Linked Open Data. 
-
 
 ## References
 
@@ -371,12 +357,7 @@ Moreau, L., & Groth, P. (2013). Provenance: an introduction to PROV. _Synthesis 
 
 We are grateful for pointers from and discussion with the DANS Research group, in particular from Herbert van de Sompel; and also for the valuable contributions of Esther Plomp, Marjan Grootveld and Enrico Daga. This document has been informed by the ‘GO FAIR Implementation Network Manifesto: Cross-Domain Interoperability of Heterogeneous Research Data (Go Inter)’ (Ed. by Peter Mutschke) [https://www.go-fair.org/implementation-networks/overview/go-inter/](https://www.go-fair.org/implementation-networks/overview/go-inter/) . The grants “[Digging into the Knowledge Graph](http://di4kg.org/)” and “[Re-search](https://www.nwo.nl/actueel/nieuws/2015/ew/12-miljoen-euro-voor-projecten-ict-en-geesteswetenschappen.html): Contextual search for scientific research data” (NWO) have enabled part of this work. 
 
-
-<!-- Footnotes themselves at the bottom. -->
 ## Notes
 
-[^1]:
-     [https://easy.dans.knaw.nl/ui/home](https://easy.dans.knaw.nl/ui/home) 
+[^1]: [https://easy.dans.knaw.nl/ui/home](https://easy.dans.knaw.nl/ui/home) 
 
-
-<!-- Docs to Markdown version 1.0β17 -->
