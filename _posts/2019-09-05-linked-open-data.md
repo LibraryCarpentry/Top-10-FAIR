@@ -58,7 +58,7 @@ Understanding LOD begins with understanding the [Resource Description Framework]
 
 RDF statements are called “triples” because they contain three pieces  - **subject : predicate : object**. RDF data is modelled as a “labeled graph” which links description of resources together. **Subjects** and **objects** are nodes, **predicates** are links. 
 
-![Figure 1](/files/linked-open-data/Figure_1.png)
+![Figure 1](../files/linked-open-data/Figure_1.png)
 
 _Figure 1: An example of a triple_
 
@@ -68,7 +68,7 @@ There are different formats for creating RDF. Popular formats include [RDFa](htt
 
 This is a section of RDF representing an example dataset, which we use throughout the text. 
 
-![Figure 2](files/linked-open-data/Figure_2.png)
+![Figure 2](../files/linked-open-data/Figure_2.png)
 
 _Figure 2: A screenshot of an RDF representation_
 
