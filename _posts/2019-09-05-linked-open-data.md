@@ -1,5 +1,6 @@
-
-# Linked Open Data 
+---
+title: "Linked Open Data "
+---
 
 # Overview
 
@@ -24,28 +25,22 @@
 **Thing 10: Sustaining** - Ensure sustainability of your data.
 
 
-# Sprinters 
-
-
+## Sprinters 
 
 *   Ronald Siebes / ORCID: 0000-0001-8772-7904 / [Data Archiving & Networked Services](https://dans.knaw.nl/nl) (DANS)
 *   Gerard Coen / ORCID: 0000-0001-9915-9721 / Data Archiving & Networked Services (DANS)
 *   Kathleen Gregory / ORCID: 0000-0001-5475-8632 / Data Archiving & Networked Services (DANS) 
 *   Andrea Scharnhorst / ORCID: 0000-0001-8879-8798 / Data Archiving & Networked Services (DANS)
 
-
-# Audience
+## Audience
 
 We aim to provide a document which is understandable to non-experts, but that also provides specific technical references and does not downplay some of the complexities of LOD. 
-
-
 
 *   Researchers (especially from the social sciences & humanities) 
 *   Anyone interested in publishing Linked Open Data (LOD)
 *   Anyone interested in supporting use of LOD in research
 
-
-# Description
+## Description
 
 Linked Open Data (LOD)  are inherently interoperable and have the potential to play a key role in implementing the “I” in FAIR. They are machine-readable, based on a standard data representation (RDF - Resource Description Format) and are seen as epitomizing the ideals of open data (see [https://5stardata.info/en/](https://5stardata.info/en/)). They offer great promise in helping to achieve a specific type of machine-executable interoperability known as semantic interoperability, which relies on linking data via common vocabularies or Knowledge Organisation Systems (KOS). This document attempts to demystify LOD and presents_ Ten Things_ to help anyone wanting to publish LOD.
 
@@ -53,26 +48,19 @@ Although this list of_ “Things”_ are presented in a roughly linear order, pr
 
 These _Things_ are based on our own practical experiences in publishing LOD in various interdisciplinary settings, e.g. the Digging into the Knowledge Graph project ([http://di4kg.org](http://di4kg.org)). Our goal is to complement existing scholarly reports on LOD implementations (e.g. Hyvönen, 2012; Hyvönen, 2019; Meroño-Peñuela et al, 2019), other workflow models (see [W3C Step #1](https://www.w3.org/TR/ld-bp/#PREPARE)), and the authoritative [“Best Practices for Publishing Linked Data”](https://www.w3.org/TR/ld-bp/) of the W3C, which we cross-reference (as W3C Step #X) wherever appropriate. We include visualisations, suggest readings, and highlight other projects to make this guide understandable and usable for people across disciplines and levels of expertise. However, it is important to note that semantic web technology is a complex scientific field, and that you may need to consult a semantic web expert along the way.
 
-
 # Things
 
-
-## **Thing 1: Learning - **Understand and practice the Semantic Web and LOD basics 
+## Thing 1: Learning - Understand and practice the Semantic Web and LOD basics 
 
 Semantic web technology (which underlies LOD) is complex. It requires not only a new data model (Resource Description Framework, RDF) but also infrastructures for storing and linking data as well as algorithms for retrieving, enriching and reasoning across those data. 
 
 Understanding LOD begins with understanding the [Resource Description Framework](https://en.wikipedia.org/wiki/Resource_Description_Framework). RDF is a standard format defined by the [World Wide Web Consortium](https://www.w3.org/) (W3C) that can be easily interpreted by machines.  \
 
-
 RDF statements are called “triples” because they contain three pieces  - **subject : predicate : object**. RDF data is modelled as a “labeled graph” which links description of resources together. **Subjects** and **objects** are nodes, **predicates** are links. 
-
-
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
 ![alt_text](images/Linked-Open0.png "image_tooltip")
-
 
 Figure 1: An example of a triple
 
@@ -82,22 +70,15 @@ There are different formats for creating RDF. Popular formats include [RDFa](htt
 
 This is a section of RDF representing an example dataset, which we use throughout the text. 
 
-
-
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Linked-Open1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
 ![alt_text](images/Linked-Open1.png "image_tooltip")
-
 
 Figure 2: A screenshot of an RDF representation 
 
 The graph structure of RDF offers benefits over typical database structures. Creating new subjects and predicates is far less tedious than creating new fields and linking tables, as is common in database design. Storage in RDF is also more compact. Perhaps most importantly, RDF enables specific ways of questioning your data that are not possible with other structures. In a triple, the predicates (the links) also have meaning and thus are semantically encoded; this facilitates executing more complex operations (known as “semantic reasoning”) on the graph. In our example (see Figure 1; Figure 2), the role of  “Peter Carty” as “creator” of the dataset is spelled out, and so can be differentiated from other possible roles - such as being a contributor or a collaborator. In the end, RDF is simply another way of expressing your data.  
 
-
-    **_Activity: Who better to introduce you to the concepts ot LOD than Tim Berners-Lee, founder of the World Wide Web? View these videos for an overview of the topic:_**
-
-
+**_Activity: Who better to introduce you to the concepts ot LOD than Tim Berners-Lee, founder of the World Wide Web? View these videos for an overview of the topic:_**
 
 *   _Tim Berners-Lee on “The Next Web”: http://www.ted.com/talks/tim_berners_lee_on_the_next_web_
 *   _Tim Berners-Lee at the GOV 2.0 expo (“bag of crisps”): https://youtu.be/ga1aSJXCFe0_
