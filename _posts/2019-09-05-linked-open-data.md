@@ -36,9 +36,9 @@ title: "Linked Open Data "
 
 We aim to provide a document which is understandable to non-experts, but that also provides specific technical references and does not downplay some of the complexities of LOD. 
 
-*   Researchers (especially from the social sciences & humanities) 
-*   Anyone interested in publishing Linked Open Data (LOD)
-*   Anyone interested in supporting use of LOD in research
+* Researchers (especially from the social sciences & humanities) 
+* Anyone interested in publishing Linked Open Data (LOD)
+* Anyone interested in supporting use of LOD in research
 
 ## Description
 
@@ -58,7 +58,7 @@ Understanding LOD begins with understanding the [Resource Description Framework]
 
 RDF statements are called “triples” because they contain three pieces  - **subject : predicate : object**. RDF data is modelled as a “labeled graph” which links description of resources together. **Subjects** and **objects** are nodes, **predicates** are links. 
 
-![Figure 1](../../files/linked-open-data/Figure_1.png)
+![Figure 1](https://librarycarpentry.org/Top-10-FAIR/files/linked-open-data/Figure_1.png)
 
 _Figure 1: An example of a triple_
 
@@ -68,7 +68,7 @@ There are different formats for creating RDF. Popular formats include [RDFa](htt
 
 This is a section of RDF representing an example dataset, which we use throughout the text. 
 
-![Figure 2](../files/linked-open-data/Figure_2.png)
+![Figure 2](files/linked-open-data/Figure_2.png)
 
 _Figure 2: A screenshot of an RDF representation_
 
@@ -114,9 +114,11 @@ Often not all of the elements in the dataset are things you wish to share. (We d
 
 Concepts from out dataset:
 
+| ID | Creator | Title | Research Location | Date | Type |
+|--- |--- |--- |--- |--- |--- |
+
 Instances of each of these concepts: 
 
-| ID | Creator | Title | Research Location | Date | Type |
 |--- |--- |--- |--- |--- |--- |
 |ourxiv:98621|Peter Carty|A general description and archaeological investigation|Dublin|2002-08-18|Text Document|
 
