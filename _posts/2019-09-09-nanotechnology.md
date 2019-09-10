@@ -11,7 +11,8 @@ It is addressed to nanotechnology students, researchers, librarians and research
 ## Sprinters:
 - Elli Papadopoulou (Athena Research Center/ OpenAIRE)
 - Emma Lazzeri (National Research Council of Italy/ OpenAIRE)
-- Iryna Kuchma (EIFL/ OpenAIRE), Katerina Lenaki (Greek Ministry of Education, open science enthusiast)
+- Iryna Kuchma (EIFL/ OpenAIRE)
+- Katerina Lenaki (Greek Ministry of Education, open science enthusiast)
 - Dr Leonidas Mouchliadis (FORTH-IESL, Laser and Applications Division)
 - Danail Hristozov (Greendecision/ GRACIOUS)
 
