@@ -9,17 +9,26 @@ This brief guide is based on FAIR principles (findability, accessibility, intero
 It is addressed to nanotechnology students, researchers, librarians and research support staff.
 
 ## Sprinters:
-- Elli Papadopoulou (Athena Research Center / OpenAIRE) [https://orcid.org/0000-0002-0893-8509](https://orcid.org/0000-0002-0893-8509)
-- Emma Lazzeri (National Research Council of Italy / OpenAIRE) [https://orcid.org/0000-0003-0506-046X](https://orcid.org/0000-0003-0506-046X)
-- Iryna Kuchma (EIFL / OpenAIRE) [https://orcid.org/0000-0002-2064-3439](https://orcid.org/0000-0002-2064-3439)
-- Katerina Lenaki (Greek Ministry of Education, open science enthusiast) [https://orcid.org/0000-0001-7984-8888](https://orcid.org/0000-0001-7984-8888)
-- Dr Leonidas Mouchliadis (FORTH-IESL, Laser and Applications Division) [https://orcid.org/0000-0001-7255-9397](https://orcid.org/0000-0001-7255-9397)
-- Danail Hristozov (Greendecision / GRACIOUS) [https://orcid.org/0000-0002-2386-7366](https://orcid.org/0000-0002-2386-7366)
+- Elli Papadopoulou (Athena Research Center / OpenAIRE)  
+[https://orcid.org/0000-0002-0893-8509](https://orcid.org/0000-0002-0893-8509)
+- Emma Lazzeri (National Research Council of Italy / OpenAIRE)  
+[https://orcid.org/0000-0003-0506-046X](https://orcid.org/0000-0003-0506-046X)
+- Iryna Kuchma (EIFL / OpenAIRE)  
+[https://orcid.org/0000-0002-2064-3439](https://orcid.org/0000-0002-2064-3439)
+- Katerina Lenaki (Greek Ministry of Education, open science enthusiast)  
+[https://orcid.org/0000-0001-7984-8888](https://orcid.org/0000-0001-7984-8888)
+- Dr Leonidas Mouchliadis (FORTH-IESL, Laser and Applications Division)  
+[https://orcid.org/0000-0001-7255-9397](https://orcid.org/0000-0001-7255-9397)
+- Danail Hristozov (Greendecision / GRACIOUS)  
+[https://orcid.org/0000-0002-2386-7366](https://orcid.org/0000-0002-2386-7366)
 
 ## Contributors:
-- Stella Stoycheva (Yordas Group/ GRACIOUS) [https://orcid.org/0000-0001-8025-565X](https://orcid.org/0000-0001-8025-565X)
-- Eleen Leenarts (DANS/ OpenAIRE) [https://orcid.org/0000-0002-5589-756X](https://orcid.org/0000-0002-5589-756X)
-- Spyros Zoupanos (EPFL) [https://orcid.org/0000-0002-9262-7884](https://orcid.org/0000-0002-9262-7884)
+- Stella Stoycheva (Yordas Group/ GRACIOUS)  
+[https://orcid.org/0000-0001-8025-565X](https://orcid.org/0000-0001-8025-565X)
+- Eleen Leenarts (DANS/ OpenAIRE)  
+[https://orcid.org/0000-0002-5589-756X](https://orcid.org/0000-0002-5589-756X)
+- Spyros Zoupanos (EPFL)  
+[https://orcid.org/0000-0002-9262-7884](https://orcid.org/0000-0002-9262-7884)
 
 # Things
 
