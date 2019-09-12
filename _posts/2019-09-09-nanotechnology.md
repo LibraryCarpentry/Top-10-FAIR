@@ -79,7 +79,7 @@ Open and standardised file formats are essential for accessing data by providing
 *   Where would these data be useful?
 
 **Activity 2 - Other uses for your data**  
-Would you data be of use in any other research?
+Would your data be of use in any other research?
 
 ## Thing 4 - Describing data: Metadata  
 Metadata is data about data and is an essential set of information describing scientific outputs, in the form of either physical or digital objects, in a machine-readable format. According to the expected use, metadata can be given different attributes. Most common type which enables discovery and identification are _descriptive metadata._ Descriptive metadata contain information about key aspects needed to search for and successfully find a given scientific output, e.g. by its title, author/creator, abstract, keywords. Moreover, metadata may be used for describing a service or a scientific instrument.
@@ -100,16 +100,16 @@ Depending on the area of focus, in nanotechnology there are few metadata standar
 
 Apart from metadata records describing datasets, documentation is equally essential when writing code. As the minimum example, a README file helps ensure that your data can be correctly interpreted and reanalysed by others. A README plain text file should contain the following information:
 
-For each filename, a short description of what data it includes, optionally describing the relationship to the tables, figures, or sections within the accompanying publication; for tabular data: definitions of column headings and row labels; data codes (including missing data); and measurement units; any data processing steps, especially if not described in the publication, or provenance file, that may affect interpretation of results; a description of what associated datasets are stored elsewhere, if applicable; whom to contact with questions, read more[ https://datadryad.org//pages/readme](https://datadryad.org/pages/readme).
+For each filename, a short description of what data it includes, optionally describing the relationship to the tables, figures, or sections within the accompanying publication; for tabular data: definitions of column headings and row labels; data codes (including missing data); and measurement units; any data processing steps, especially if not described in the publication, or provenance file, that may affect interpretation of results; a description of what associated datasets are stored elsewhere, if applicable; whom to contact with questions, read more[ https://datadryad.org/pages/readme](https://datadryad.org/pages/readme).
 
 **Activity 1**  
 Go to the [Research Data Alliance Metadata Directory](https://rd-alliance.github.io/metadata-directory/) and search for a metadata standard relevant to the focus of your nanotechnology work. Is there any relevant to your focus? 
 
 **Activity 2**  
-Have a look at the metadata record for the [7T Magnetom instrument ](https://researchdata.ands.org.au/7t-magnetom/1305790)at Research Data Australia. It contains simple but important public metadata and a persistent identifier. How could this record be enhanced to assist you as a researcher?
+Have a look at the metadata record for the [7T Magnetom instrument](https://researchdata.ands.org.au/7t-magnetom/1305790) at Research Data Australia. It contains simple but important public metadata and a persistent identifier. How could this record be enhanced to assist you as a researcher?
 
 **Activity 3**  
-Go to [OpenAIRE ](https://www.openaire.eu/)and search with a keyword about your research interests. What are the nanotechnology projects you find? How many publications, data or software did you get? What are some of the projects associated with these outputs?
+Go to [OpenAIRE](https://www.openaire.eu/) and search with a keyword about your research interests. What are the nanotechnology projects you find? How many publications, data or software did you get? What are some of the projects associated with these outputs?
 
 ## Thing 5 - Identifiers 
 Persistent and/or Permanent Identifiers (PIDs) uniquely identify objects, people, organisations and activities and can ensure that the scientific output is accessible even when the URL of the website has changed. PIDs can be assigned to research outputs including publications, data and software/code. PIDs can also be assigned to  researchers, samples, organisations and projects. A PID may be connected to a metadata record describing an item rather than the item itself.
@@ -118,7 +118,7 @@ The repository used for data or software deposit should make use of a PID servic
 
 PIDs used in research include:  
 
-*   Digital Object Identifier ([DOI](http://www.doi.org/))
+*   (Digital Object Identifier](http://www.doi.org/) (DOI)
 *   [Persistent Uniform Resource Locator ](http://www.purlz.org/)(PURL)
 *   Uniform Resource Name (URN)
 *   Archival Resource Key (ARK)
@@ -150,7 +150,7 @@ Interoperability enables data and metadata to flow between different systems wit
 In materials science, as researchers create independent materials databases, much can be gained from retrieving data from multiple databases. However, the retrieval process is difficult if each database has a different API which is a common  case. To address this challenge, there are initiatives such as the [Open Databases Integration for Materials Design (OPTiMaDe)](http://www.optimade.org/) consortium which aim to make materials databases interoperational by developing a common REST API.
 
 **Activity 1**  
-[Protocol Exchange ](https://protocolexchange.researchsquare.com)from Nature Protocols is an open repository of community-contributed protocols. Search for nanotechnology protocols publicly shared.
+[Protocol Exchange](https://protocolexchange.researchsquare.com) from Nature Protocols is an open repository of community-contributed protocols. Search for nanotechnology protocols publicly shared.
 
 ## Thing 7 - Licenses and provenance of data for reusability
 Licenses grant specific permissions for researchers other than the owner to use scientific output, such as publication, data or software following following each time the specified set of exploitation requirements/recommendations tied with the license.
@@ -187,13 +187,13 @@ Registries:
 
 Hubs:
 
-*   [nanoHUB ](https://nanohub.org/)  nanoHUB.org is a place for computational nanotechnology research, education, and collaboration. The site hosts a rapidly growing collection of [simulation](https://nanohub.org/resources/tools) tools for nanoscale phenomena that run in the cloud and are accessible through a web browser. In addition, nanoHUB provides [online presentations](https://nanohub.org/resources/onlinepresentations), cutting-edge [nanoHUB-U short courses](https://nanohub.org/groups/u), [animations](https://nanohub.org/resources/animations), [teaching materials](https://nanohub.org/resources/teachingmaterials), and more. 
+*   [nanoHUB](https://nanohub.org/) nanoHUB.org is a place for computational nanotechnology research, education, and collaboration. The site hosts a rapidly growing collection of [simulation](https://nanohub.org/resources/tools) tools for nanoscale phenomena that run in the cloud and are accessible through a web browser. In addition, nanoHUB provides [online presentations](https://nanohub.org/resources/onlinepresentations), cutting-edge [nanoHUB-U short courses](https://nanohub.org/groups/u), [animations](https://nanohub.org/resources/animations), [teaching materials](https://nanohub.org/resources/teachingmaterials), and more. 
 
 Databases:
 
 *   [Nanotechnology knowledge base](https://nanodata.echa.europa.eu/) Database by the European Chemicals Agency (ECHA)
 *   [Crystallography Open Database](http://www.crystallography.net/cod/) Open-access collection of crystal structures of organic, inorganic, metal-organics compounds and minerals, excluding [biopolymers](http://www.rcsb.org/).
-*   [Bilbao Crystallographic Server ](http://www.cryst.ehu.es/) Database offering crystallographic and solid state programs and utilities
+*   [Bilbao Crystallographic Server](http://www.cryst.ehu.es/) Database offering crystallographic and solid state programs and utilities
 *   [Enanomapper](http://www.enanomapper.net/data) prototype database is part of the computational infrastructure for toxicological data management of engineered nanomaterials, funded by the EC and is used to collect and openly share data among researchers.
 
 Repositories:
@@ -210,7 +210,7 @@ _Several platforms integrate centralized data repositories with software framewo
 
 Educational Resources:
 
-*   [nanoHUB ](https://nanohub.org/) nanoHUB provides [online presentations](https://nanohub.org/resources/onlinepresentations), cutting-edge [nanoHUB-U short courses](https://nanohub.org/groups/u), [animations](https://nanohub.org/resources/animations), [teaching materials](https://nanohub.org/resources/teachingmaterials), and more.
+*   [nanoHUB](https://nanohub.org/) nanoHUB provides [online presentations](https://nanohub.org/resources/onlinepresentations), cutting-edge [nanoHUB-U short courses](https://nanohub.org/groups/u), [animations](https://nanohub.org/resources/animations), [teaching materials](https://nanohub.org/resources/teachingmaterials), and more.
 *   The typical research cycle which starts from learning to simulating and finally to publishing the final and curated results is mirrored in [Materials Cloud](https://www.materialscloud.org/) via its five main sections: LEARN, WORK, DISCOVER, EXPLORE and ARCHIVE. At the learning section, users can find educational materials and videos. Moreover, simulation services, turnkey solutions and data analytics tools are provided in other sections helping the scientists to perform their simulations.
 
 **Activity 1 - re3data**  
@@ -247,7 +247,7 @@ These are some additional best practices to follow in order to improve data and 
 
 *   [Singularity](https://singularity.lbl.gov/)
 *   [Docker](https://www.docker.com/)
-*   Or use Virtual environments provides, such as the[ Characterisation Virtual Lab](https://www.cvl.org.au/)
+*   Or use Virtual environments provides, such as the [Characterisation Virtual Lab](https://www.cvl.org.au/)
 
 **Activity 1**  
 How do you structure and name your folders and files? How do you manage different versions of your files? What additional information is required to understand the data?
@@ -264,7 +264,7 @@ What Can You Do?
 **Activity 2 - Questions**  
 Go through the questions from the [Horizon2020 guide to create a FAIR Data Management Plan](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf) and see if you can already answer many of them. Then check the [NanoCommons Data Management Plan](https://www.nanocommons.eu/wp-content/uploads/2018/07/NanoCommons_D10.1-Initial-draft-of-data-management-plan.pdf) and compare with your responses. Do you identify any differences?
 
-Recommended extra reading [Ten Simple Rules for Creating a Good Data Management Plan](https://doi.org/10.1371/journal.pcbi.1004525),[ Ten Simple Rules for Reproducible Computational Research](https://doi.org/10.1371/journal.pcbi.1003285) and[ Ten principles for machine-actionable data management plans](https://doi.org/10.1371/journal.pcbi.1006750), these papers will help you connect all the concepts that you have learned so far.
+Recommended extra reading [Ten Simple Rules for Creating a Good Data Management Plan](https://doi.org/10.1371/journal.pcbi.1004525), [Ten Simple Rules for Reproducible Computational Research](https://doi.org/10.1371/journal.pcbi.1003285) and [Ten principles for machine-actionable data management plans](https://doi.org/10.1371/journal.pcbi.1006750), these papers will help you connect all the concepts that you have learned so far.
 
 ## Notes
 [^1]:
