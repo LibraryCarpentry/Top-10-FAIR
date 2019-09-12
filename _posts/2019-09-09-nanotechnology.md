@@ -50,7 +50,7 @@ In addition to the processes of materials manipulation and manufacturing, there 
 *   Which is the scientific field/ discipline of primary focus of your nanotechnology research endeavours? What is the application of the outputs of your nanotechnology research?
 *   Are you manipulating or manufacturing nanoscale materials, structures, devices, systems or both? What are the nanomaterials’ properties that you most commonly come across?
 
-## Thing 2 - Workflow and Methods
+## Thing 2 - Workflow and Methods  
 Nanotechnology research is based on hypotheses (theory) and experiments. Hypotheses explore ways of producing structures that are 2D and simulations confirm or deny these hypotheses[^1]. Theoretical and experimental researchers work together to produce new materials and their communication is bidirectional:
 
 *   Experimentals might notice properties that are different from the expected outcome after running the simulation
@@ -63,7 +63,7 @@ In addition there are free access packages for the calculation of the electronic
 **Activity 1 - Discussion**  
 Based on your field of application and your experience, what kind of workflows seem to work best? Why?
 
-## Thing 3 - Data types, outputs and formats
+## Thing 3 - Data types, outputs and formats  
 As already addressed, nanotechnology is a multidisciplinary scientific field by nature. It can be applied to many disciplines and thus, the types of data produced by nanotechnology research can be from simulations to chemical data and more. Some data types are, but are not limited to, the following:
 
 1. chemical data on intrinsic properties you measure the properties: aspect ratio, chemical composition, size, surface area, surface properties, coating
@@ -74,14 +74,14 @@ As already addressed, nanotechnology is a multidisciplinary scientific field by 
 
 Open and standardised file formats are essential for accessing data by providing freely available specification documents necessary to open and read their corpus. Most common file formats used in Nanotechnology are CIF[^2], UPF[^3].
 
-**Activity 1 - Defining your data discussion**
+**Activity 1 - Defining your data discussion**  
 *   Where does your data come from? What types of data do you produce or consume? Can you find it in the list above? What formats are your data in? How often do you get new data? How much data do you generate? 
 *   Where would these data be useful?
 
-**Activity 2 - Other uses for your data**
+**Activity 2 - Other uses for your data**  
 Would you data be of use in any other research?
 
-## Thing 4 - Describing data: Metadata
+## Thing 4 - Describing data: Metadata  
 Metadata is data about data and is an essential set of information describing scientific outputs, in the form of either physical or digital objects, in a machine-readable format. According to the expected use, metadata can be given different attributes. Most common type which enables discovery and identification are _descriptive metadata._ Descriptive metadata contain information about key aspects needed to search for and successfully find a given scientific output, e.g. by its title, author/creator, abstract, keywords. Moreover, metadata may be used for describing a service or a scientific instrument.
 
 Depending on the area of focus, in nanotechnology there are few metadata standards, vocabularies and ontologies to facilitate standardised interpretation. 
@@ -135,14 +135,13 @@ Search for papers and data in nanotechnology and observe the use of ORCIDs. Is i
 **Activity 2**  
 (Read 5 min) OpenAIRE/FREYA/ORCID guide for researchers “[How can identifiers improve the dissemination of your research outputs?](https://www.openaire.eu/how-can-identifiers-improve-the-dissemination-of-your-research-outputs)” 
 
-**Activity 3** 
+**Activity 3**  
 (Watch 4 min) [Six Ways to Make Your ORCID iD Work for You](https://orcid.org/blog/2018/07/27/six-ways-make-your-orcid-id-work-you)! If you already have an ORCID, check this video [https://www.youtube.com/watch?v=h92bUZ5T_vA](https://www.youtube.com/watch?v=h92bUZ5T_vA) to link publications to your ORCID profile.
 
-**Activity 4** 
+**Activity 4**  
 (Discuss in pairs 5 min) [The Joint Declaration of Data Citation Principles](https://www.force11.org/datacitationprinciples) from FORCE11.
 
 ## Thing 6 - Interoperability
-
 Interoperability enables data and metadata to flow between different systems with the use of standard vocabularies and references to other data and metadata. That is why standardised formats of protocols are important. In nanotechnology, you may find protocols for:
 
 *   different surfaces to interoperate
