@@ -27,7 +27,7 @@ It is addressed to nanotechnology students, researchers, librarians and research
 ## Contributors:
 - Stella Stoycheva (Yordas Group / GRACIOUS)  
 [https://orcid.org/0000-0001-8025-565X](https://orcid.org/0000-0001-8025-565X)
-- Eleen Leenarts (DANS / OpenAIRE)  
+- Ellen Leenarts (DANS / OpenAIRE)  
 [https://orcid.org/0000-0002-5589-756X](https://orcid.org/0000-0002-5589-756X)
 
 ## Acknowledgments: 
