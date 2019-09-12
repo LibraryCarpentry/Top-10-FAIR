@@ -9,17 +9,17 @@ This brief guide is based on FAIR principles (findability, accessibility, intero
 It is addressed to nanotechnology students, researchers, librarians and research support staff.
 
 ## Sprinters:
-- Elli Papadopoulou (Athena Research Center/ OpenAIRE)
-- Emma Lazzeri (National Research Council of Italy/ OpenAIRE)
-- Iryna Kuchma (EIFL/ OpenAIRE)
-- Katerina Lenaki (Greek Ministry of Education, open science enthusiast)
-- Dr Leonidas Mouchliadis (FORTH-IESL, Laser and Applications Division)
-- Danail Hristozov (Greendecision/ GRACIOUS)
+- Elli Papadopoulou (Athena Research Center / OpenAIRE) [https://orcid.org/0000-0002-0893-8509](https://orcid.org/0000-0002-0893-8509)
+- Emma Lazzeri (National Research Council of Italy / OpenAIRE) [https://orcid.org/0000-0003-0506-046X](https://orcid.org/0000-0003-0506-046X)
+- Iryna Kuchma (EIFL / OpenAIRE) [https://orcid.org/0000-0002-2064-3439](https://orcid.org/0000-0002-2064-3439)
+- Katerina Lenaki (Greek Ministry of Education, open science enthusiast) [https://orcid.org/0000-0001-7984-8888](https://orcid.org/0000-0001-7984-8888)
+- Dr Leonidas Mouchliadis (FORTH-IESL, Laser and Applications Division) [https://orcid.org/0000-0001-7255-9397](https://orcid.org/0000-0001-7255-9397)
+- Danail Hristozov (Greendecision / GRACIOUS) [https://orcid.org/0000-0002-2386-7366](https://orcid.org/0000-0002-2386-7366)
 
 ## Contributors:
-- Stella Stoycheva (Yordas Group/ GRACIOUS)
-- Eleen Leenarts (DANS/ OpenAIRE)
-- Spyros Zoupanos (EPFL)
+- Stella Stoycheva (Yordas Group/ GRACIOUS) [https://orcid.org/0000-0001-8025-565X](https://orcid.org/0000-0001-8025-565X)
+- Eleen Leenarts (DANS/ OpenAIRE) [https://orcid.org/0000-0002-5589-756X](https://orcid.org/0000-0002-5589-756X)
+- Spyros Zoupanos (EPFL) [https://orcid.org/0000-0002-9262-7884](https://orcid.org/0000-0002-9262-7884)
 
 # Things
 
@@ -77,7 +77,7 @@ Depending on the area of focus, in nanotechnology there are few metadata standar
 
 * ISA-TAB-Nano 
 
-“ISA-TAB-Nano specifies the format for representing and sharing information about nanomaterials, small molecules and biological specimens along with their assay characterization data (including metadata, and summary data) using spreadsheet or TAB-delimited files. Homepage https://wiki.nci.nih.gov/display/ICR/ISA-TAB-Nano”[^3]
+“ISA-TAB-Nano specifies the format for representing and sharing information about nanomaterials, small molecules and biological specimens along with their assay characterization data (including metadata, and summary data) using spreadsheet or TAB-delimited files. Homepage [https://wiki.nci.nih.gov/display/ICR/ISA-TAB-Nano](https://wiki.nci.nih.gov/display/ICR/ISA-TAB-Nano)”[^3]
 
 * NanoParticle Ontology
 
@@ -87,7 +87,7 @@ Depending on the area of focus, in nanotechnology there are few metadata standar
 1. Go to the [RDA Metadata Directory](https://rd-alliance.github.io/metadata-directory/) and search for a metadata standard relevant to the focus of your nanotechnology work. Is there any relevant to your focus? 
 2. (Discuss in pairs) Have a look at the metadata stored at Research Data Australia for the [7T Magnetom instrument](https://researchdata.ands.org.au/7t-magnetom/1305790). It contains simple but important public metadata and a persistent identifier.
 
-**Activity 2**: Go to [OpenAIRE ](https://www.openaire.eu/)and search with a keyword about your research interests. What are the nanotechnology projects you find? How many publications, data or software did you get? What are some of the projects associated with these outputs?
+**Activity 2**: Go to [OpenAIRE](https://www.openaire.eu/)and search with a keyword about your research interests. What are the nanotechnology projects you find? How many publications, data or software did you get? What are some of the projects associated with these outputs?
 
 ## Thing 5 - Identifiers 
 Persistent and/or Permanent Identifiers (PIDs) ensure that the scientific output is accessible even when the URL of the website has changed. PIDs concern both the scientific output/ digital object, and the individuals as creators of the outputs or organisations as affiliated institutions. A PID may be connected to a set of metadata describing an item rather than the item itself.
