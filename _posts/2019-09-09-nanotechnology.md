@@ -2,12 +2,6 @@
 title: "Nanotechnology"
 ---
 
-## Description: 
-This brief guide is based on FAIR principles (findability, accessibility, interopera_bility, reusability) and describes data management in the field of nanotechnology. It consists of ten steps/chapters with information on data discovery and publication, practices and resources as well as activity ideas. 
-
-## Audience: 
-It is addressed to nanotechnology students, researchers, librarians and research support staff. 
-
 ## Sprinters:
 - Elli Papadopoulou (Athena Research Center / OpenAIRE)  
 [https://orcid.org/0000-0002-0893-8509](https://orcid.org/0000-0002-0893-8509)
@@ -29,6 +23,12 @@ It is addressed to nanotechnology students, researchers, librarians and research
 [https://orcid.org/0000-0001-8025-565X](https://orcid.org/0000-0001-8025-565X)
 - Ellen Leenarts (DANS / OpenAIRE)  
 [https://orcid.org/0000-0002-5589-756X](https://orcid.org/0000-0002-5589-756X)
+
+## Description: 
+This brief guide is based on FAIR principles (findability, accessibility, interopera_bility, reusability) and describes data management in the field of nanotechnology. It consists of ten steps/chapters with information on data discovery and publication, practices and resources as well as activity ideas. 
+
+## Audience: 
+It is addressed to nanotechnology students, researchers, librarians and research support staff. 
 
 ## Acknowledgments: 
 OpenAIRE Research Data Management Task Force
