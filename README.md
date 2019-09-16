@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2555498.svg)](https://doi.org/10.5281/zenodo.2555498)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3409968.svg)](https://doi.org/10.5281/zenodo.3409968)
 
 # Top 10 FAIR Data & Software Things
 
@@ -28,7 +28,7 @@ All participants should agree to abide by the [Software Carpentry Code of Conduc
 
 ## Citation
 
-Christopher Erdmann, Natasha Simons, Reid Otsuji, Stephanie Labou, Ryan Johnson, Guilherme Castelao, … Tim Dennis. (2019, February). Top 10 FAIR Data & Software Things. Zenodo. http://doi.org/10.5281/zenodo.2555498
+Paula Andrea Martinez, Christopher Erdmann, Natasha Simons, Reid Otsuji, Stephanie Labou, Ryan Johnson, … Eliane Fankhauser. (2019, February). Top 10 FAIR Data & Software Things. Zenodo. http://doi.org/10.5281/zenodo.3409968
 
 ## Kiko Theme
 
