@@ -16,7 +16,7 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:            
+baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
@@ -30,7 +30,7 @@ nav:
   - name:           "GitHub Repository"
     href:           "https://github.com/LibraryCarpentry/Top-10-FAIR"
   - name:           "Download/Cite"
-    href:           "http://doi.org/10.5281/zenodo.2555498"
+    href:           "http://doi.org/10.5281/zenodo.3409968"
   - name:           "#Top10FAIR"
     href:           "https://twitter.com/search?f=tweets&vertical=default&q=%23top10fair&src=typd&lang=en"
 
