@@ -6,7 +6,7 @@ Top 10 FAIR Data & Software Things is hosted by Library Carpentry and maintained
 
 ## Lead Maintainers
 
-[Liz Stokes](https://github.com/ragamouf), [Chris Erdmann](https://github.com/libcce), [Juande Santander-Vela](https://github.com/juandesant)
+[Liz Stokes](https://github.com/ragamouf), [Chris Erdmann](https://github.com/libcce), [Juande Santander-Vela](https://github.com/juandesant), [Doug Joubert](https://github.com/doujouDC)
 
 ## Background
 
