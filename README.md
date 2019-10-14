@@ -2,7 +2,13 @@
 
 # Top 10 FAIR Data & Software Things
 
-Top 10 FAIR Data & Software Things is hosted by Library Carpentry and maintained by the Sprinters.
+The Top 10 FAIR Data & Software Things are brief guides (stand alone,
+self paced training materials), called "Things", that can be used by
+the research community to understand how they can make their research
+(data and software) more [FAIR (Findable, Accessible, Interoperable
+and Reusable)](https://www.go-fair.org/fair-principles/).
+
+The Top 10 FAIR Data & Software Things is hosted by Library Carpentry and maintained by the Sprinters.
 
 ## Lead Maintainers
 
