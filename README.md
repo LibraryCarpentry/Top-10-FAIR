@@ -14,6 +14,8 @@ The Top 10 FAIR Data & Software Things is hosted by Library Carpentry and mainta
 
 [Liz Stokes](https://github.com/ragamouf), [Chris Erdmann](https://github.com/libcce), [Juande Santander-Vela](https://github.com/juandesant), [Doug Joubert](https://github.com/doujouDC)
 
+Maintainers meet/discuss via the [Team Site](https://github.com/orgs/LibraryCarpentry/teams/lc-top10-fair-maintainers).
+
 ## Background
 
 Library Carpentry is a software skills training programme aimed at library and information professions. It builds on the work of [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://datacarpentry.org/).
