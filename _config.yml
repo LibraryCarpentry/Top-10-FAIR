@@ -16,7 +16,7 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:
+baseurl:            https://librarycarpentry.org/Top-10-FAIR/
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
@@ -26,13 +26,13 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "/Top-10-FAIR/about"
+    href:           "about"
   - name:           "GitHub Repository"
     href:           "https://github.com/LibraryCarpentry/Top-10-FAIR"
   - name:           "Download/Cite"
     href:           "http://doi.org/10.5281/zenodo.3409968"
   - name:           "License"
-    href:           "/Top-10-FAIR/license"
+    href:           "license"
   - name:           "#Top10FAIR"
     href:           "https://twitter.com/search?f=tweets&vertical=default&q=%23top10fair&src=typd&lang=en"
 
