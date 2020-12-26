@@ -25,14 +25,14 @@ html {
 }
 
 body {
-  color: #515151;
+  color: #1f1f1f;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 a {
-  color: #268bd2;
+  color: #0075c7;
   text-decoration: none;
 
   &:hover,
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: 600;
   line-height: 1.1;
-  color: #333;
+  color: #1f1f1f;
   letter-spacing: -.025rem;
 }
 
@@ -133,14 +133,14 @@ hr {
 }
 
 strong {
-  color: #333;
+  color: #1f1f1f;
   font-weight: 600;
 }
 
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: #555;
+  color: #1f1f1f;
   text-transform: uppercase;
 }
 
@@ -274,7 +274,7 @@ tbody tr:nth-child(odd) th {
     font-weight: 300;
 
     a {
-      color: #333;
+      color: #1f1f1f;
 
       &:hover,
       &:focus {
@@ -295,7 +295,7 @@ tbody tr:nth-child(odd) th {
     text-transform: uppercase;
 
     a {
-      color: #333;
+      color: #1f1f1f;
 
       &:hover,
       &:focus {
@@ -350,7 +350,7 @@ tbody tr:nth-child(odd) th {
     margin-bottom: .25rem;
 
     a {
-      color: #333;
+      color: #1f1f1f;
 
       &:hover,
       &:focus {
